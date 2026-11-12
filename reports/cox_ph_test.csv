@@ -1,0 +1,14 @@
+,test_statistic,p,-log2(p)
+age,1.843,0.175,2.518
+distance_from_home,0.0,0.989,0.017
+environment_satisfaction,0.633,0.426,1.23
+job_involvement,0.013,0.911,0.135
+job_satisfaction,0.625,0.429,1.22
+monthly_income_k,7.014,0.008,6.95
+num_companies_worked,1.227,0.268,1.899
+overtime,0.018,0.893,0.164
+sales_rep,0.245,0.62,0.689
+single,0.353,0.552,0.857
+stock_option_level,0.025,0.873,0.195
+travel_frequently,1.269,0.26,1.944
+work_life_balance,0.142,0.707,0.501

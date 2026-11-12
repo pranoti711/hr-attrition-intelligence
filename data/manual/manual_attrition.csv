@@ -1,0 +1,4 @@
+company,fiscal_year,quarter,period_end,attrition_pct,definition,headcount,gross_adds,net_adds,attrition_count,source_url,source_file,status
+Wipro,FY26,1,2025-06-30,15.1,voluntary_ltm,,,,,https://www.businesstoday.in/amp/technology/story/wipro-adds-135-employees-in-q4-attrition-eases-to-14-526016-2026-04-16,manual,manual_verify
+Wipro,FY26,3,2025-12-31,14.2,voluntary_ltm,,,,,https://www.businesstoday.in/amp/technology/story/wipro-adds-135-employees-in-q4-attrition-eases-to-14-526016-2026-04-16,manual,manual_verify
+Wipro,FY26,4,2026-03-31,13.8,voluntary_ltm,,,,,https://www.businesstoday.in/amp/technology/story/wipro-adds-135-employees-in-q4-attrition-eases-to-14-526016-2026-04-16,manual,manual_verify

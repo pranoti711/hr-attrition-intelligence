@@ -1,0 +1,14 @@
+covariate,hazard_ratio,ci_low,ci_high,p_value
+sales_rep,3.32,2.226,4.952,0.0
+overtime,3.107,2.412,4.004,0.0
+travel_frequently,1.586,1.198,2.101,0.001
+single,1.555,1.117,2.166,0.009
+num_companies_worked,1.194,1.137,1.253,0.0
+distance_from_home,1.029,1.014,1.044,0.0
+age,0.942,0.924,0.96,0.0
+monthly_income_k,0.855,0.818,0.895,0.0
+environment_satisfaction,0.821,0.734,0.918,0.001
+stock_option_level,0.82,0.665,1.011,0.063
+job_satisfaction,0.803,0.718,0.898,0.0
+work_life_balance,0.775,0.65,0.924,0.004
+job_involvement,0.734,0.625,0.862,0.0

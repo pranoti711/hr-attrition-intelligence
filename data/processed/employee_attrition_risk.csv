@@ -1,0 +1,1471 @@
+employee_id,department,job_role,risk_probability,risk_percentile,risk_tier,has_left,top_reasons
+701,Research & Development,Research Scientist,0.5091,92.9,High,1,monthly_income=1009; is_overtime=Yes; stock_option_level=0
+1012,Research & Development,Research Scientist,0.3807,88.8,Medium,0,monthly_income=1051; stock_option_level=0; total_working_years=0
+1056,Sales,Sales Representative,0.7386,96.8,High,0,monthly_income=1052; total_working_years=1; stock_option_level=0
+1876,Sales,Sales Representative,0.7734,97.6,High,1,monthly_income=1081; total_working_years=1; stock_option_level=0
+1928,Sales,Sales Representative,0.9282,99.4,High,1,monthly_income=1091; total_working_years=1; business_travel=Travel_Frequently
+243,Research & Development,Laboratory Technician,0.3549,87.8,Medium,1,monthly_income=1102; total_working_years=1; stock_option_level=0
+1273,Sales,Sales Representative,0.9831,99.9,High,1,monthly_income=1118; is_overtime=Yes; job_involvement=1
+1974,Research & Development,Laboratory Technician,0.6885,96.0,High,0,monthly_income=1129; is_overtime=Yes; job_involvement=1
+411,Sales,Sales Representative,0.8812,98.8,High,0,monthly_income=1200; total_working_years=0; stock_option_level=0
+1270,Research & Development,Research Scientist,0.0372,30.9,Low,0,monthly_income=1223; total_working_years=1; years_at_company=1
+30,Research & Development,Research Scientist,0.1057,61.8,Low,0,monthly_income=1232; total_working_years=0; stock_option_level=0
+1433,Research & Development,Research Scientist,0.4538,91.3,High,1,monthly_income=1261; environment_satisfaction=1; total_working_years=1
+1482,Research & Development,Research Scientist,0.0817,55.1,Low,0,monthly_income=1274; total_working_years=1; education_field=Technical Degree
+704,Research & Development,Laboratory Technician,0.295,85.2,Medium,0,monthly_income=1281; total_working_years=1; years_with_curr_manager=0
+1427,Sales,Sales Representative,0.9775,99.8,High,1,monthly_income=1359; total_working_years=1; business_travel=Travel_Frequently
+1692,Research & Development,Laboratory Technician,0.2141,79.4,Medium,1,monthly_income=1393; total_working_years=1; stock_option_level=0
+1079,Research & Development,Laboratory Technician,0.719,96.5,High,1,monthly_income=1416; total_working_years=1; stock_option_level=0
+405,Research & Development,Laboratory Technician,0.2015,78.0,Medium,1,monthly_income=1420; total_working_years=0; stock_option_level=0
+201,Research & Development,Laboratory Technician,0.402,89.7,Medium,0,monthly_income=1483; total_working_years=1; stock_option_level=0
+1839,Research & Development,Research Scientist,0.4789,91.7,High,0,monthly_income=1514; work_life_balance=1; stock_option_level=0
+1714,Human Resources,Human Resources,0.2672,83.6,Medium,1,monthly_income=1555; total_working_years=1; job_involvement=1
+1506,Research & Development,Research Scientist,0.2521,82.5,Medium,0,monthly_income=1563; work_life_balance=1; environment_satisfaction=1
+1624,Sales,Sales Representative,0.9342,99.5,High,1,monthly_income=1569; is_overtime=Yes; business_travel=Travel_Frequently
+811,Research & Development,Laboratory Technician,0.2691,83.9,Medium,1,monthly_income=1601; is_overtime=Yes; total_working_years=1
+1368,Research & Development,Laboratory Technician,0.0566,44.1,Low,0,monthly_income=1611; total_working_years=0; stock_option_level=0
+167,Sales,Sales Representative,0.9549,99.6,High,1,is_overtime=Yes; monthly_income=1675; stock_option_level=0
+556,Research & Development,Laboratory Technician,0.7856,97.8,High,0,monthly_income=1702; is_overtime=Yes; business_travel=Travel_Frequently
+850,Research & Development,Research Scientist,0.0433,35.9,Low,0,monthly_income=1706; total_working_years=0; years_with_curr_manager=0
+2023,Sales,Sales Representative,0.8009,98.0,High,1,monthly_income=1790; business_travel=Travel_Frequently; total_working_years=1
+1248,Research & Development,Research Scientist,0.7481,97.1,High,1,is_overtime=Yes; monthly_income=1859; environment_satisfaction=1
+614,Sales,Sales Representative,0.9891,100.0,High,1,monthly_income=1878; is_overtime=Yes; business_travel=Travel_Frequently
+1156,Research & Development,Laboratory Technician,0.1753,75.4,Medium,1,monthly_income=1904; total_working_years=0; training_times_last_year=0
+53,Research & Development,Laboratory Technician,0.1305,67.5,Low,0,monthly_income=1951; total_working_years=1; years_with_curr_manager=0
+2051,Research & Development,Research Scientist,0.0214,14.1,Low,0,monthly_income=2001; training_times_last_year=2; years_in_current_role=3
+1068,Research & Development,Research Scientist,0.0873,57.0,Low,0,monthly_income=2007; business_travel=Travel_Frequently; environment_satisfaction=1
+934,Research & Development,Laboratory Technician,0.2802,84.4,Medium,0,total_working_years=1; monthly_income=2008; years_with_curr_manager=0
+1994,Research & Development,Laboratory Technician,0.1577,72.3,Medium,0,monthly_income=2008; total_working_years=1; years_with_curr_manager=0
+1246,Research & Development,Research Scientist,0.0242,17.8,Low,0,monthly_income=2011; years_since_last_promotion=7; environment_satisfaction=1
+1659,Research & Development,Laboratory Technician,0.2083,78.8,Medium,0,monthly_income=2013; environment_satisfaction=1; stock_option_level=0
+49,Sales,Sales Representative,0.3553,87.8,Medium,0,monthly_income=2014; stock_option_level=0; total_working_years=2
+1534,Research & Development,Laboratory Technician,0.3885,89.2,Medium,1,monthly_income=2018; work_life_balance=1; job_satisfaction=1
+881,Research & Development,Research Scientist,0.7461,97.0,High,1,is_overtime=Yes; monthly_income=2022; business_travel=Travel_Frequently
+218,Research & Development,Research Scientist,0.1007,60.7,Low,0,monthly_income=2024; work_life_balance=1; num_companies_worked=6
+1698,Research & Development,Laboratory Technician,0.0284,22.5,Low,0,monthly_income=2028; distance_from_home=21; job_role=Laboratory Technician
+19,Research & Development,Laboratory Technician,0.8633,98.6,High,1,is_overtime=Yes; monthly_income=2028; num_companies_worked=5
+1374,Research & Development,Research Scientist,0.2282,80.7,Medium,0,monthly_income=2029; environment_satisfaction=1; years_with_curr_manager=0
+648,Sales,Sales Representative,0.4947,92.2,High,1,business_travel=Travel_Frequently; total_working_years=1; monthly_income=2033
+1495,Sales,Sales Representative,0.2327,81.0,Medium,0,total_working_years=1; monthly_income=2033; years_with_curr_manager=0
+132,Research & Development,Laboratory Technician,0.0388,32.7,Low,0,monthly_income=2042; job_role=Laboratory Technician; distance_from_home=23
+1053,Research & Development,Research Scientist,0.6114,94.6,High,1,monthly_income=2042; is_overtime=Yes; environment_satisfaction=1
+1799,Research & Development,Research Scientist,0.0312,25.0,Low,0,monthly_income=2044; percent_salary_hike=11; total_working_years=5
+922,Sales,Sales Representative,0.2387,81.3,Medium,1,monthly_income=2044; stock_option_level=0; total_working_years=2
+700,Research & Development,Research Scientist,0.14,69.6,Low,0,monthly_income=2045; training_times_last_year=0; stock_option_level=0
+300,Research & Development,Research Scientist,0.0838,56.1,Low,1,monthly_income=2058; education_field=Technical Degree; stock_option_level=0
+1581,Research & Development,Research Scientist,0.4389,91.0,High,0,total_working_years=1; relationship_satisfaction=1; environment_satisfaction=1
+1883,Research & Development,Laboratory Technician,0.1467,70.7,Medium,0,monthly_income=2062; job_satisfaction=1; stock_option_level=0
+1499,Human Resources,Human Resources,0.073,52.1,Low,0,monthly_income=2064; relationship_satisfaction=1; department=Human Resources
+1441,Research & Development,Research Scientist,0.1591,72.7,Medium,0,environment_satisfaction=1; monthly_income=2066; job_satisfaction=1
+377,Research & Development,Research Scientist,0.0302,24.3,Low,0,monthly_income=2070; work_life_balance=2; total_working_years=5
+1131,Research & Development,Research Scientist,0.7258,96.7,High,0,is_overtime=Yes; monthly_income=2070; stock_option_level=0
+133,Human Resources,Human Resources,0.586,94.1,High,1,is_overtime=Yes; monthly_income=2073; stock_option_level=0
+1592,Research & Development,Research Scientist,0.0241,17.7,Low,0,monthly_income=2073; education_field=Technical Degree; total_working_years=4
+1569,Research & Development,Laboratory Technician,0.7968,97.9,High,1,is_overtime=Yes; monthly_income=2074; environment_satisfaction=1
+116,Research & Development,Laboratory Technician,0.0164,9.4,Low,0,monthly_income=2075; job_role=Laboratory Technician; distance_from_home=9
+1301,Research & Development,Research Scientist,0.1545,71.7,Medium,0,monthly_income=2080; stock_option_level=0; education_field=Technical Degree
+680,Research & Development,Research Scientist,0.1504,71.2,Medium,0,business_travel=Travel_Frequently; total_working_years=1; monthly_income=2083
+42,Sales,Sales Representative,0.0238,17.5,Low,1,monthly_income=2086; job_role=Sales Representative; education_field=Technical Degree
+238,Research & Development,Laboratory Technician,0.1496,71.0,Medium,0,monthly_income=2088; business_travel=Travel_Frequently; stock_option_level=0
+262,Research & Development,Research Scientist,0.0089,1.5,Low,0,monthly_income=2089; num_companies_worked=4; total_working_years=7
+4,Research & Development,Laboratory Technician,0.7162,96.4,High,1,is_overtime=Yes; monthly_income=2090; num_companies_worked=6
+591,Research & Development,Laboratory Technician,0.1444,70.1,Medium,0,business_travel=Travel_Frequently; monthly_income=2093; years_with_curr_manager=0
+1303,Research & Development,Research Scientist,0.0605,45.9,Low,0,stock_option_level=0; total_working_years=2; monthly_income=2096
+645,Sales,Sales Representative,0.1644,73.5,Medium,0,stock_option_level=0; monthly_income=2096; job_role=Sales Representative
+562,Research & Development,Laboratory Technician,0.0503,39.9,Low,0,work_life_balance=1; monthly_income=2097; job_role=Laboratory Technician
+1434,Research & Development,Laboratory Technician,0.1207,65.9,Low,0,stock_option_level=0; job_satisfaction=1; monthly_income=2099
+1856,Research & Development,Laboratory Technician,0.1551,72.0,Medium,0,monthly_income=2105; stock_option_level=0; years_with_curr_manager=0
+1210,Research & Development,Research Scientist,0.5177,93.1,High,1,environment_satisfaction=1; num_companies_worked=6; work_life_balance=1
+1762,Research & Development,Research Scientist,0.1086,62.7,Low,0,total_working_years=1; monthly_income=2109; education_field=Technical Degree
+1461,Human Resources,Human Resources,0.0545,42.6,Low,0,num_companies_worked=9; stock_option_level=0; monthly_income=2109
+391,Research & Development,Research Scientist,0.0165,9.5,Low,0,stock_option_level=0; monthly_income=2115; job_level=1
+454,Research & Development,Laboratory Technician,0.6601,95.6,High,1,is_overtime=Yes; job_involvement=1; monthly_income=2119
+959,Sales,Sales Representative,0.9532,99.5,High,1,is_overtime=Yes; monthly_income=2121; total_working_years=1
+1448,Research & Development,Research Scientist,0.3149,86.2,Medium,0,is_overtime=Yes; relationship_satisfaction=1; monthly_income=2127
+643,Research & Development,Laboratory Technician,0.1674,74.1,Medium,0,total_working_years=1; years_with_curr_manager=0; monthly_income=2127
+1546,Research & Development,Research Scientist,0.0377,31.5,Low,0,education_field=Technical Degree; monthly_income=2132; distance_from_home=28
+1004,Research & Development,Research Scientist,0.6446,95.1,High,1,is_overtime=Yes; monthly_income=2132; environment_satisfaction=1
+1937,Research & Development,Research Scientist,0.0983,59.7,Low,0,is_overtime=Yes; monthly_income=2133; business_travel=Travel_Frequently
+1609,Research & Development,Research Scientist,0.0128,5.2,Low,0,monthly_income=2141; job_level=1; job_involvement=2
+829,Human Resources,Human Resources,0.0692,50.1,Low,0,monthly_income=2143; distance_from_home=13; department=Human Resources
+1947,Research & Development,Research Scientist,0.033,26.7,Low,0,stock_option_level=0; monthly_income=2144; distance_from_home=16
+1746,Human Resources,Human Resources,0.1068,62.2,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; monthly_income=2145
+1818,Human Resources,Human Resources,0.5543,93.8,High,1,is_overtime=Yes; monthly_income=2148; distance_from_home=20
+286,Research & Development,Laboratory Technician,0.1565,72.2,Medium,0,relationship_satisfaction=1; business_travel=Travel_Frequently; stock_option_level=0
+1286,Research & Development,Laboratory Technician,0.7065,96.2,High,0,is_overtime=Yes; monthly_income=2154; business_travel=Travel_Frequently
+974,Sales,Sales Representative,0.129,67.1,Low,0,business_travel=Travel_Frequently; education_field=Technical Degree; monthly_income=2157
+1649,Research & Development,Laboratory Technician,0.9151,99.3,High,1,is_overtime=Yes; work_life_balance=1; monthly_income=2166
+1202,Research & Development,Research Scientist,0.6641,95.8,High,0,is_overtime=Yes; job_involvement=1; relationship_satisfaction=1
+478,Sales,Sales Representative,0.8903,98.9,High,1,is_overtime=Yes; monthly_income=2174; business_travel=Travel_Frequently
+362,Research & Development,Laboratory Technician,0.1707,74.4,Medium,0,education_field=Technical Degree; stock_option_level=0; job_satisfaction=1
+1049,Human Resources,Human Resources,0.1528,71.5,Medium,0,stock_option_level=0; relationship_satisfaction=1; distance_from_home=24
+309,Research & Development,Research Scientist,0.0603,45.7,Low,0,relationship_satisfaction=1; years_with_curr_manager=0; monthly_income=2177
+1747,Human Resources,Human Resources,0.1349,68.4,Low,1,training_times_last_year=0; business_travel=Travel_Frequently; num_companies_worked=6
+1987,Human Resources,Human Resources,0.0422,35.1,Low,0,stock_option_level=0; monthly_income=2187; job_level=1
+655,Research & Development,Research Scientist,0.0176,10.7,Low,0,environment_satisfaction=1; monthly_income=2187; job_level=1
+88,Research & Development,Research Scientist,0.0828,55.5,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; monthly_income=2194
+495,Research & Development,Research Scientist,0.1114,63.5,Low,0,num_companies_worked=9; stock_option_level=0; distance_from_home=23
+41,Research & Development,Laboratory Technician,0.0776,53.7,Low,0,relationship_satisfaction=1; stock_option_level=0; monthly_income=2206
+1102,Research & Development,Laboratory Technician,0.0658,48.8,Low,0,environment_satisfaction=1; job_role=Laboratory Technician; monthly_income=2207
+1219,Research & Development,Laboratory Technician,0.4518,91.2,High,1,work_life_balance=1; total_working_years=1; years_with_curr_manager=0
+483,Research & Development,Laboratory Technician,0.1462,70.5,Medium,0,is_overtime=Yes; monthly_income=2213; job_level=1
+741,Research & Development,Research Scientist,0.7657,97.5,High,1,is_overtime=Yes; job_involvement=1; environment_satisfaction=1
+530,Research & Development,Laboratory Technician,0.0322,25.7,Low,0,job_satisfaction=1; monthly_income=2218; job_role=Laboratory Technician
+1055,Sales,Sales Representative,0.5333,93.6,High,0,is_overtime=Yes; monthly_income=2220; total_working_years=1
+1931,Research & Development,Research Scientist,0.0284,22.6,Low,0,education_field=Technical Degree; monthly_income=2226; percent_salary_hike=11
+216,Sales,Sales Representative,0.2428,81.9,Medium,0,business_travel=Travel_Frequently; num_companies_worked=6; job_role=Sales Representative
+332,Research & Development,Laboratory Technician,0.0456,37.3,Low,0,num_companies_worked=7; monthly_income=2232; job_role=Laboratory Technician
+1244,Research & Development,Research Scientist,0.5136,93.1,High,0,is_overtime=Yes; monthly_income=2235; environment_satisfaction=1
+200,Research & Development,Laboratory Technician,0.0448,36.7,Low,0,job_satisfaction=1; job_role=Laboratory Technician; monthly_income=2238
+511,Research & Development,Research Scientist,0.1091,62.9,Low,0,environment_satisfaction=1; total_working_years=2; monthly_income=2244
+525,Research & Development,Laboratory Technician,0.0984,59.8,Low,0,business_travel=Travel_Frequently; monthly_income=2258; num_companies_worked=7
+1172,Research & Development,Laboratory Technician,0.0556,43.4,Low,0,num_companies_worked=6; monthly_income=2258; job_role=Laboratory Technician
+945,Research & Development,Research Scientist,0.0981,59.6,Low,0,years_with_curr_manager=0; relationship_satisfaction=1; monthly_income=2259
+321,Human Resources,Human Resources,0.134,68.3,Low,0,num_companies_worked=8; stock_option_level=0; monthly_income=2267
+2013,Sales,Sales Representative,0.0425,35.6,Low,0,job_role=Sales Representative; monthly_income=2269; department=Sales
+63,Research & Development,Laboratory Technician,0.0509,40.9,Low,0,total_working_years=1; stock_option_level=0; monthly_income=2269
+996,Research & Development,Laboratory Technician,0.0158,9.2,Low,0,monthly_income=2270; job_role=Laboratory Technician; job_level=1
+1533,Research & Development,Laboratory Technician,0.1774,75.6,Medium,0,environment_satisfaction=1; stock_option_level=0; distance_from_home=20
+834,Research & Development,Research Scientist,0.107,62.2,Low,0,total_working_years=1; stock_option_level=0; years_with_curr_manager=0
+1702,Sales,Sales Representative,0.1373,69.2,Low,1,is_overtime=Yes; monthly_income=2275; job_role=Sales Representative
+910,Human Resources,Human Resources,0.3313,87.1,Medium,0,is_overtime=Yes; monthly_income=2277; job_level=1
+260,Research & Development,Research Scientist,0.0676,49.6,Low,0,stock_option_level=0; monthly_income=2279; job_level=1
+514,Research & Development,Research Scientist,0.6579,95.5,High,1,is_overtime=Yes; monthly_income=2285; business_travel=Travel_Frequently
+245,Research & Development,Laboratory Technician,0.1049,61.5,Low,0,total_working_years=2; stock_option_level=0; monthly_income=2288
+1772,Research & Development,Laboratory Technician,0.035,29.0,Low,0,job_satisfaction=1; job_role=Laboratory Technician; monthly_income=2289
+1206,Research & Development,Research Scientist,0.2655,83.4,Medium,0,job_involvement=1; stock_option_level=0; monthly_income=2290
+55,Research & Development,Laboratory Technician,0.8414,98.4,High,1,job_involvement=1; total_working_years=1; environment_satisfaction=1
+45,Research & Development,Research Scientist,0.2381,81.2,Medium,1,is_overtime=Yes; monthly_income=2293; relationship_satisfaction=1
+1551,Research & Development,Laboratory Technician,0.3476,87.6,Medium,0,total_working_years=2; education_field=Technical Degree; job_satisfaction=1
+766,Sales,Sales Representative,0.0957,59.0,Low,0,total_working_years=2; job_role=Sales Representative; monthly_income=2297
+1331,Sales,Sales Representative,0.6201,94.8,High,1,is_overtime=Yes; monthly_income=2302; business_travel=Travel_Frequently
+1718,Research & Development,Laboratory Technician,0.0939,58.6,Low,0,job_involvement=1; monthly_income=2305; distance_from_home=17
+205,Sales,Sales Representative,0.1646,73.5,Medium,0,is_overtime=Yes; monthly_income=2306; work_life_balance=1
+1905,Research & Development,Research Scientist,0.4805,91.8,High,1,is_overtime=Yes; monthly_income=2307; job_involvement=1
+1541,Sales,Sales Representative,0.6168,94.7,High,0,is_overtime=Yes; monthly_income=2308; education_field=Technical Degree
+247,Research & Development,Research Scientist,0.0247,18.4,Low,0,stock_option_level=0; distance_from_home=27; monthly_income=2311
+1108,Research & Development,Research Scientist,0.8562,98.6,High,1,is_overtime=Yes; monthly_income=2313; stock_option_level=0
+882,Research & Development,Laboratory Technician,0.0109,3.2,Low,0,monthly_income=2314; job_role=Laboratory Technician; job_level=1
+933,Research & Development,Research Scientist,0.1785,75.6,Medium,0,total_working_years=1; stock_option_level=0; years_with_curr_manager=0
+816,Research & Development,Laboratory Technician,0.4227,90.2,High,1,is_overtime=Yes; monthly_income=2319; total_working_years=1
+991,Research & Development,Research Scientist,0.82,98.3,High,1,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+113,Sales,Sales Representative,0.2417,81.7,Medium,0,education_field=Technical Degree; job_role=Sales Representative; job_satisfaction=1
+1077,Sales,Sales Representative,0.7747,97.6,High,1,is_overtime=Yes; monthly_income=2323; business_travel=Travel_Frequently
+217,Research & Development,Research Scientist,0.0773,53.7,Low,0,relationship_satisfaction=1; total_working_years=2; distance_from_home=19
+235,Sales,Sales Representative,0.9631,99.7,High,1,business_travel=Travel_Frequently; total_working_years=1; job_involvement=1
+403,Research & Development,Research Scientist,0.392,89.4,Medium,0,is_overtime=Yes; monthly_income=2326; business_travel=Travel_Frequently
+284,Research & Development,Research Scientist,0.3164,86.3,Medium,0,is_overtime=Yes; monthly_income=2328; relationship_satisfaction=1
+941,Sales,Sales Representative,0.2621,83.2,Medium,0,stock_option_level=0; job_role=Sales Representative; monthly_income=2329
+951,Research & Development,Laboratory Technician,0.078,54.0,Low,0,num_companies_worked=6; stock_option_level=0; monthly_income=2332
+1844,Human Resources,Human Resources,0.7591,97.4,High,1,is_overtime=Yes; monthly_income=2335; environment_satisfaction=1
+2032,Research & Development,Laboratory Technician,0.0908,57.5,Low,1,work_life_balance=1; education_field=Technical Degree; years_since_last_promotion=9
+622,Research & Development,Laboratory Technician,0.9777,99.9,High,1,is_overtime=Yes; monthly_income=2340; work_life_balance=1
+346,Research & Development,Research Scientist,0.0629,47.4,Low,0,relationship_satisfaction=1; stock_option_level=0; monthly_income=2340
+54,Research & Development,Laboratory Technician,0.1602,72.9,Medium,0,total_working_years=1; monthly_income=2341; job_satisfaction=1
+1792,Research & Development,Research Scientist,0.1899,76.9,Medium,1,is_overtime=Yes; monthly_income=2342; business_travel=Travel_Frequently
+878,Human Resources,Human Resources,0.1895,76.8,Medium,0,job_satisfaction=1; stock_option_level=0; environment_satisfaction=1
+763,Research & Development,Research Scientist,0.2564,82.9,Medium,0,is_overtime=Yes; monthly_income=2342; stock_option_level=0
+1044,Sales,Sales Representative,0.0826,55.4,Low,0,stock_option_level=0; job_role=Sales Representative; monthly_income=2342
+1474,Research & Development,Research Scientist,0.0166,9.9,Low,0,monthly_income=2345; job_level=1; years_in_current_role=1
+206,Research & Development,Laboratory Technician,0.2354,81.1,Medium,0,work_life_balance=1; num_companies_worked=8; job_role=Laboratory Technician
+555,Sales,Sales Representative,0.3041,85.7,Medium,1,business_travel=Travel_Frequently; job_involvement=1; monthly_income=2351
+895,Research & Development,Research Scientist,0.1331,68.0,Low,0,is_overtime=Yes; monthly_income=2356; job_level=1
+1522,Research & Development,Research Scientist,0.6045,94.3,High,1,num_companies_worked=6; work_life_balance=1; stock_option_level=0
+1333,Research & Development,Laboratory Technician,0.1721,74.7,Medium,1,environment_satisfaction=1; job_satisfaction=1; stock_option_level=0
+848,Research & Development,Research Scientist,0.3395,87.3,Medium,1,is_overtime=Yes; monthly_income=2366; relationship_satisfaction=1
+1960,Research & Development,Laboratory Technician,0.1202,65.8,Low,1,num_companies_worked=5; education_field=Technical Degree; monthly_income=2367
+1576,Research & Development,Research Scientist,0.1918,77.1,Medium,0,num_companies_worked=8; years_since_last_promotion=7; monthly_income=2367
+164,Research & Development,Research Scientist,0.0531,42.0,Low,0,stock_option_level=0; monthly_income=2368; job_level=1
+471,Research & Development,Laboratory Technician,0.0185,11.7,Low,0,monthly_income=2370; job_role=Laboratory Technician; job_level=1
+1292,Research & Development,Research Scientist,0.4739,91.6,High,0,is_overtime=Yes; monthly_income=2372; stock_option_level=0
+1308,Research & Development,Research Scientist,0.0471,38.0,Low,0,environment_satisfaction=1; total_working_years=2; monthly_income=2372
+394,Research & Development,Laboratory Technician,0.6099,94.4,High,1,is_overtime=Yes; monthly_income=2373; environment_satisfaction=1
+1185,Research & Development,Laboratory Technician,0.1128,63.9,Low,0,business_travel=Travel_Frequently; total_working_years=2; monthly_income=2376
+1107,Research & Development,Laboratory Technician,0.4125,89.9,Medium,1,total_working_years=1; training_times_last_year=0; environment_satisfaction=1
+930,Research & Development,Research Scientist,0.0569,44.4,Low,0,num_companies_worked=5; monthly_income=2377; total_working_years=6
+1850,Research & Development,Laboratory Technician,0.3363,87.3,Medium,0,is_overtime=Yes; monthly_income=2379; business_travel=Travel_Frequently
+2021,Sales,Sales Representative,0.7839,97.8,High,0,is_overtime=Yes; monthly_income=2380; total_working_years=2
+1030,Research & Development,Laboratory Technician,0.2593,83.1,Medium,0,environment_satisfaction=1; years_with_curr_manager=0; stock_option_level=0
+918,Research & Development,Laboratory Technician,0.6502,95.2,High,1,is_overtime=Yes; monthly_income=2380; business_travel=Travel_Frequently
+1361,Research & Development,Laboratory Technician,0.0216,14.5,Low,0,monthly_income=2387; job_role=Laboratory Technician; job_level=1
+315,Research & Development,Research Scientist,0.4253,90.3,High,1,is_overtime=Yes; monthly_income=2389; stock_option_level=0
+1405,Research & Development,Research Scientist,0.4591,91.4,High,1,is_overtime=Yes; monthly_income=2394; stock_option_level=0
+1783,Research & Development,Laboratory Technician,0.7167,96.5,High,1,is_overtime=Yes; total_working_years=1; monthly_income=2398
+632,Sales,Sales Representative,0.1448,70.1,Medium,0,business_travel=Travel_Frequently; monthly_income=2400; job_role=Sales Representative
+1492,Sales,Sales Representative,0.2286,80.8,Medium,0,total_working_years=1; years_with_curr_manager=0; monthly_income=2404
+932,Research & Development,Laboratory Technician,0.8436,98.4,High,1,is_overtime=Yes; work_life_balance=1; monthly_income=2404
+994,Research & Development,Research Scientist,0.7512,97.2,High,1,is_overtime=Yes; monthly_income=2404; stock_option_level=0
+2012,Research & Development,Laboratory Technician,0.1678,74.1,Medium,0,environment_satisfaction=1; num_companies_worked=8; monthly_income=2406
+79,Research & Development,Laboratory Technician,0.1486,70.9,Medium,0,distance_from_home=29; business_travel=Travel_Frequently; years_since_last_promotion=9
+1604,Research & Development,Laboratory Technician,0.7393,96.9,High,1,is_overtime=Yes; monthly_income=2408; total_working_years=1
+952,Sales,Sales Representative,0.7337,96.7,High,1,is_overtime=Yes; monthly_income=2413; total_working_years=1
+1017,Research & Development,Laboratory Technician,0.136,68.8,Low,1,business_travel=Travel_Frequently; relationship_satisfaction=1; stock_option_level=0
+14,Research & Development,Laboratory Technician,0.0391,32.9,Low,0,environment_satisfaction=1; job_role=Laboratory Technician; monthly_income=2426
+1554,Sales,Sales Representative,0.0522,41.4,Low,0,distance_from_home=28; monthly_income=2430; relationship_satisfaction=1
+1939,Research & Development,Research Scientist,0.6606,95.7,High,1,is_overtime=Yes; monthly_income=2432; business_travel=Travel_Frequently
+2020,Research & Development,Research Scientist,0.4881,92.0,High,0,is_overtime=Yes; num_companies_worked=6; monthly_income=2436
+325,Research & Development,Laboratory Technician,0.4928,92.2,High,1,is_overtime=Yes; monthly_income=2436; work_life_balance=1
+1767,Research & Development,Research Scientist,0.8762,98.7,High,1,is_overtime=Yes; monthly_income=2437; business_travel=Travel_Frequently
+1813,Research & Development,Research Scientist,0.0476,38.2,Low,0,environment_satisfaction=1; stock_option_level=0; monthly_income=2438
+1868,Research & Development,Research Scientist,0.9632,99.7,High,1,is_overtime=Yes; monthly_income=2439; business_travel=Travel_Frequently
+2038,Research & Development,Research Scientist,0.1095,63.0,Low,0,education_field=Technical Degree; stock_option_level=0; job_satisfaction=1
+1675,Research & Development,Laboratory Technician,0.1459,70.4,Medium,0,business_travel=Travel_Frequently; stock_option_level=0; monthly_income=2440
+1564,Research & Development,Laboratory Technician,0.1089,62.8,Low,0,stock_option_level=0; job_satisfaction=1; monthly_income=2450
+769,Research & Development,Laboratory Technician,0.0222,15.3,Low,0,stock_option_level=0; monthly_income=2450; job_role=Laboratory Technician
+1019,Research & Development,Laboratory Technician,0.2682,83.7,Medium,0,job_involvement=1; relationship_satisfaction=1; job_satisfaction=1
+227,Research & Development,Research Scientist,0.0682,49.7,Low,0,environment_satisfaction=1; relationship_satisfaction=1; monthly_income=2451
+1558,Research & Development,Research Scientist,0.1083,62.4,Low,0,relationship_satisfaction=1; num_companies_worked=6; monthly_income=2451
+430,Research & Development,Laboratory Technician,0.0707,51.2,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; stock_option_level=0
+1081,Research & Development,Research Scientist,0.5051,92.7,High,1,is_overtime=Yes; num_companies_worked=9; environment_satisfaction=1
+1760,Research & Development,Laboratory Technician,0.067,49.3,Low,0,business_travel=Travel_Frequently; monthly_income=2468; job_role=Laboratory Technician
+1878,Research & Development,Research Scientist,0.7443,96.9,High,1,is_overtime=Yes; relationship_satisfaction=1; stock_option_level=0
+508,Sales,Sales Representative,0.3078,85.9,Medium,0,total_working_years=1; education_field=Technical Degree; relationship_satisfaction=1
+434,Research & Development,Research Scientist,0.3745,88.5,Medium,0,is_overtime=Yes; stock_option_level=0; monthly_income=2478
+977,Research & Development,Research Scientist,0.1007,60.7,Low,1,education_field=Technical Degree; stock_option_level=0; relationship_satisfaction=1
+39,Research & Development,Laboratory Technician,0.1271,66.8,Low,0,stock_option_level=0; years_with_curr_manager=0; monthly_income=2496
+242,Research & Development,Research Scientist,0.077,53.6,Low,0,relationship_satisfaction=1; stock_option_level=0; monthly_income=2500
+758,Research & Development,Laboratory Technician,0.0391,32.9,Low,0,job_satisfaction=1; job_role=Laboratory Technician; monthly_income=2500
+95,Research & Development,Research Scientist,0.2169,79.7,Medium,0,total_working_years=1; stock_option_level=0; years_with_curr_manager=0
+826,Research & Development,Research Scientist,0.0507,40.7,Low,0,stock_option_level=0; training_times_last_year=0; monthly_income=2506
+1120,Research & Development,Research Scientist,0.0153,8.7,Low,0,relationship_satisfaction=1; distance_from_home=28; monthly_income=2514
+1175,Research & Development,Laboratory Technician,0.6502,95.3,High,1,is_overtime=Yes; total_working_years=1; stock_option_level=0
+875,Research & Development,Research Scientist,0.497,92.3,High,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=5
+1259,Research & Development,Research Scientist,0.0385,32.5,Low,0,environment_satisfaction=1; percent_salary_hike=11; monthly_income=2517
+958,Research & Development,Laboratory Technician,0.0252,18.6,Low,0,stock_option_level=0; monthly_income=2519; job_role=Laboratory Technician
+169,Research & Development,Laboratory Technician,0.0383,32.2,Low,0,education_field=Technical Degree; job_role=Laboratory Technician; monthly_income=2523
+912,Research & Development,Laboratory Technician,0.2398,81.6,Medium,0,num_companies_worked=6; environment_satisfaction=1; job_role=Laboratory Technician
+1364,Sales,Sales Representative,0.1399,69.5,Low,0,num_companies_worked=8; job_role=Sales Representative; years_with_curr_manager=0
+1162,Research & Development,Research Scientist,0.0168,10.0,Low,0,training_times_last_year=0; monthly_income=2539; job_involvement=2
+501,Research & Development,Research Scientist,0.0172,10.3,Low,0,job_level=1; monthly_income=2543; total_working_years=6
+1918,Research & Development,Laboratory Technician,0.0628,47.3,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; years_since_last_promotion=7
+565,Research & Development,Research Scientist,0.2993,85.4,Medium,1,education_field=Technical Degree; stock_option_level=0; num_companies_worked=5
+1193,Research & Development,Research Scientist,0.359,88.0,Medium,0,stock_option_level=0; total_working_years=1; job_satisfaction=1
+838,Research & Development,Research Scientist,0.0696,50.4,Low,0,business_travel=Travel_Frequently; stock_option_level=0; monthly_income=2553
+1258,Research & Development,Laboratory Technician,0.4143,90.0,Medium,0,education_field=Technical Degree; stock_option_level=0; num_companies_worked=5
+913,Research & Development,Research Scientist,0.809,98.1,High,0,is_overtime=Yes; stock_option_level=0; training_times_last_year=0
+856,Research & Development,Research Scientist,0.1669,73.9,Medium,0,stock_option_level=0; job_satisfaction=1; distance_from_home=27
+1504,Research & Development,Laboratory Technician,0.4272,90.5,High,1,business_travel=Travel_Frequently; job_satisfaction=1; stock_option_level=0
+566,Human Resources,Human Resources,0.6102,94.5,High,1,total_working_years=1; environment_satisfaction=1; stock_option_level=0
+571,Research & Development,Laboratory Technician,0.0239,17.6,Low,0,stock_option_level=0; years_since_last_promotion=6; monthly_income=2564
+224,Research & Development,Research Scientist,0.1164,64.6,Low,0,is_overtime=Yes; total_working_years=1; monthly_income=2566
+1693,Research & Development,Laboratory Technician,0.0147,8.0,Low,0,stock_option_level=0; monthly_income=2570; job_level=1
+2061,Research & Development,Laboratory Technician,0.0522,41.4,Low,0,business_travel=Travel_Frequently; monthly_income=2571; distance_from_home=23
+805,Sales,Sales Representative,0.0871,56.7,Low,0,environment_satisfaction=1; job_role=Sales Representative; monthly_income=2572
+517,Research & Development,Laboratory Technician,0.0263,20.1,Low,0,job_satisfaction=1; job_role=Laboratory Technician; job_level=1
+666,Sales,Sales Representative,0.4867,92.0,High,0,is_overtime=Yes; education_field=Technical Degree; monthly_income=2579
+1648,Research & Development,Research Scientist,0.072,51.5,Low,0,training_times_last_year=0; business_travel=Travel_Frequently; stock_option_level=0
+1265,Research & Development,Research Scientist,0.3178,86.5,Medium,0,stock_option_level=0; total_working_years=2; education_field=Technical Degree
+1674,Research & Development,Laboratory Technician,0.4016,89.6,Medium,0,is_overtime=Yes; distance_from_home=16; job_satisfaction=1
+1907,Research & Development,Laboratory Technician,0.0643,48.0,Low,1,environment_satisfaction=1; years_with_curr_manager=0; stock_option_level=0
+1805,Human Resources,Human Resources,0.1133,64.1,Low,0,num_companies_worked=5; environment_satisfaction=1; department=Human Resources
+351,Research & Development,Laboratory Technician,0.1096,63.1,Low,0,is_overtime=Yes; years_since_last_promotion=7; monthly_income=2593
+1111,Research & Development,Laboratory Technician,0.6248,95.0,High,1,total_working_years=1; business_travel=Travel_Frequently; environment_satisfaction=1
+1016,Research & Development,Research Scientist,0.8767,98.8,High,1,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+1160,Research & Development,Laboratory Technician,0.0618,46.5,Low,1,business_travel=Travel_Frequently; total_working_years=2; job_role=Laboratory Technician
+1382,Research & Development,Research Scientist,0.0504,40.1,Low,0,business_travel=Travel_Frequently; monthly_income=2610; percent_salary_hike=11
+484,Sales,Sales Representative,0.1672,74.0,Medium,0,stock_option_level=0; environment_satisfaction=1; job_role=Sales Representative
+159,Research & Development,Research Scientist,0.2134,79.3,Medium,0,job_involvement=1; environment_satisfaction=1; business_travel=Travel_Frequently
+662,Research & Development,Research Scientist,0.1049,61.4,Low,0,stock_option_level=0; job_satisfaction=1; years_with_curr_manager=0
+305,Research & Development,Research Scientist,0.1067,62.1,Low,0,num_companies_worked=6; stock_option_level=0; monthly_income=2622
+1279,Research & Development,Laboratory Technician,0.3334,87.1,Medium,1,work_life_balance=1; business_travel=Travel_Frequently; total_working_years=2
+194,Research & Development,Research Scientist,0.075,52.9,Low,0,stock_option_level=0; environment_satisfaction=1; distance_from_home=18
+749,Sales,Sales Representative,0.2979,85.3,Medium,0,total_working_years=1; stock_option_level=0; job_role=Sales Representative
+1556,Sales,Sales Representative,0.4347,90.9,High,0,is_overtime=Yes; stock_option_level=0; monthly_income=2644
+46,Research & Development,Research Scientist,0.0126,5.0,Low,0,monthly_income=2645; job_level=1; total_working_years=6
+1982,Research & Development,Laboratory Technician,0.0237,17.4,Low,0,stock_option_level=0; job_role=Laboratory Technician; distance_from_home=12
+544,Research & Development,Research Scientist,0.0231,16.6,Low,0,environment_satisfaction=1; monthly_income=2654; job_level=1
+1691,Sales,Sales Representative,0.2108,79.0,Medium,1,is_overtime=Yes; business_travel=Travel_Frequently; job_role=Sales Representative
+297,Research & Development,Research Scientist,0.2654,83.3,Medium,1,is_overtime=Yes; stock_option_level=0; num_companies_worked=5
+493,Research & Development,Research Scientist,0.3418,87.6,Medium,0,is_overtime=Yes; stock_option_level=0; monthly_income=2657
+686,Research & Development,Laboratory Technician,0.1365,69.0,Low,0,is_overtime=Yes; monthly_income=2659; job_role=Laboratory Technician
+2003,Research & Development,Laboratory Technician,0.3909,89.3,Medium,0,is_overtime=Yes; num_companies_worked=7; job_level=1
+18,Research & Development,Laboratory Technician,0.0475,38.2,Low,0,percent_salary_hike=11; distance_from_home=19; job_role=Laboratory Technician
+1873,Research & Development,Research Scientist,0.0697,50.5,Low,0,education_field=Technical Degree; num_companies_worked=8; monthly_income=2662
+10,Research & Development,Laboratory Technician,0.5196,93.2,High,0,is_overtime=Yes; relationship_satisfaction=1; years_with_curr_manager=0
+1226,Sales,Sales Representative,0.2433,82.0,Medium,0,total_working_years=2; stock_option_level=0; distance_from_home=21
+1780,Sales,Sales Representative,0.2857,84.8,Medium,1,total_working_years=1; stock_option_level=0; years_with_curr_manager=0
+47,Sales,Sales Representative,0.7565,97.3,High,1,is_overtime=Yes; stock_option_level=0; environment_satisfaction=1
+1006,Research & Development,Research Scientist,0.094,58.6,Low,0,business_travel=Travel_Frequently; training_times_last_year=0; monthly_income=2684
+780,Research & Development,Research Scientist,0.1546,71.8,Medium,1,is_overtime=Yes; years_since_last_promotion=7; stock_option_level=0
+1601,Research & Development,Laboratory Technician,0.0739,52.4,Low,0,total_working_years=1; job_role=Laboratory Technician; monthly_income=2690
+683,Research & Development,Research Scientist,0.0133,5.5,Low,0,years_since_last_promotion=8; monthly_income=2691; education=5
+923,Research & Development,Research Scientist,0.1805,76.1,Medium,1,total_working_years=1; relationship_satisfaction=1; stock_option_level=0
+11,Research & Development,Laboratory Technician,0.1152,64.5,Low,0,total_working_years=1; distance_from_home=24; years_with_curr_manager=0
+812,Research & Development,Laboratory Technician,0.1198,65.6,Low,0,total_working_years=1; years_with_curr_manager=0; monthly_income=2694
+426,Research & Development,Research Scientist,0.0975,59.4,Low,0,is_overtime=Yes; work_life_balance=1; monthly_income=2695
+470,Human Resources,Human Resources,0.4054,89.7,Medium,0,is_overtime=Yes; monthly_income=2696; years_with_curr_manager=0
+824,Research & Development,Research Scientist,0.0156,9.0,Low,0,distance_from_home=23; monthly_income=2700; job_level=1
+94,Research & Development,Research Scientist,0.0183,11.5,Low,0,job_level=1; monthly_income=2703; total_working_years=6
+1154,Research & Development,Research Scientist,0.1588,72.7,Medium,0,is_overtime=Yes; business_travel=Travel_Frequently; monthly_income=2703
+1826,Research & Development,Laboratory Technician,0.0376,31.4,Low,0,job_involvement=1; distance_from_home=23; monthly_income=2705
+1858,Human Resources,Human Resources,0.0111,3.3,Low,0,monthly_income=2706; department=Human Resources; job_level=1
+328,Research & Development,Laboratory Technician,0.1748,75.2,Medium,1,environment_satisfaction=1; num_companies_worked=7; stock_option_level=0
+221,Research & Development,Research Scientist,0.0289,23.3,Low,0,work_life_balance=1; distance_from_home=21; monthly_income=2713
+494,Sales,Sales Representative,0.3857,89.0,Medium,1,total_working_years=1; training_times_last_year=0; stock_option_level=0
+1764,Research & Development,Research Scientist,0.0299,23.9,Low,0,education_field=Technical Degree; stock_option_level=0; monthly_income=2718
+710,Research & Development,Research Scientist,0.0219,14.7,Low,0,job_involvement=1; business_travel=Travel_Frequently; monthly_income=2720
+198,Research & Development,Laboratory Technician,0.0232,16.7,Low,0,stock_option_level=0; monthly_income=2720; job_role=Laboratory Technician
+353,Research & Development,Research Scientist,0.3035,85.6,Medium,0,total_working_years=1; training_times_last_year=0; stock_option_level=0
+639,Research & Development,Research Scientist,0.2217,80.1,Medium,0,is_overtime=Yes; distance_from_home=23; percent_salary_hike=11
+1680,Sales,Sales Representative,0.387,89.0,Medium,0,stock_option_level=0; job_satisfaction=1; total_working_years=2
+608,Human Resources,Human Resources,0.5081,92.8,High,1,is_overtime=Yes; business_travel=Travel_Frequently; years_with_curr_manager=0
+1221,Research & Development,Laboratory Technician,0.0331,26.9,Low,0,job_involvement=1; job_role=Laboratory Technician; monthly_income=2741
+281,Research & Development,Laboratory Technician,0.3915,89.3,Medium,0,is_overtime=Yes; num_companies_worked=8; monthly_income=2741
+1467,Human Resources,Human Resources,0.3642,88.2,Medium,1,total_working_years=2; training_times_last_year=0; stock_option_level=0
+1042,Research & Development,Laboratory Technician,0.0768,53.5,Low,1,years_since_last_promotion=15; stock_option_level=0; job_satisfaction=1
+1234,Research & Development,Laboratory Technician,0.0837,56.1,Low,0,business_travel=Travel_Frequently; total_working_years=2; monthly_income=2743
+252,Research & Development,Research Scientist,0.0138,6.1,Low,0,distance_from_home=14; monthly_income=2756; job_level=1
+752,Research & Development,Research Scientist,0.5007,92.4,High,1,is_overtime=Yes; stock_option_level=0; business_travel=Travel_Frequently
+1752,Sales,Sales Representative,0.3401,87.4,Medium,1,job_involvement=1; stock_option_level=0; total_working_years=2
+1768,Research & Development,Laboratory Technician,0.0835,56.0,Low,0,num_companies_worked=8; distance_from_home=12; job_role=Laboratory Technician
+579,Research & Development,Research Scientist,0.0179,11.1,Low,0,monthly_income=2768; job_level=1; job_involvement=2
+675,Research & Development,Research Scientist,0.1053,61.6,Low,0,environment_satisfaction=1; stock_option_level=0; monthly_income=2773
+150,Research & Development,Laboratory Technician,0.0266,20.5,Low,0,distance_from_home=18; job_role=Laboratory Technician; monthly_income=2774
+927,Research & Development,Laboratory Technician,0.2042,78.3,Medium,1,is_overtime=Yes; job_involvement=1; monthly_income=2778
+1238,Research & Development,Research Scientist,0.0144,7.4,Low,0,environment_satisfaction=1; monthly_income=2781; job_level=1
+1999,Research & Development,Research Scientist,0.0281,22.0,Low,0,relationship_satisfaction=1; years_with_curr_manager=0; monthly_income=2782
+802,Research & Development,Research Scientist,0.1144,64.3,Low,0,is_overtime=Yes; job_satisfaction=1; job_level=1
+1657,Sales,Sales Representative,0.1703,74.4,Medium,0,stock_option_level=0; total_working_years=2; relationship_satisfaction=1
+1379,Sales,Sales Representative,0.279,84.3,Medium,1,business_travel=Travel_Frequently; num_companies_worked=7; job_role=Sales Representative
+399,Sales,Sales Representative,0.6142,94.6,High,0,business_travel=Travel_Frequently; total_working_years=2; education_field=Marketing
+1135,Sales,Sales Representative,0.1104,63.3,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; job_role=Sales Representative
+311,Sales,Sales Representative,0.096,59.3,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; job_role=Sales Representative
+359,Research & Development,Laboratory Technician,0.2109,79.0,Medium,0,work_life_balance=1; business_travel=Travel_Frequently; stock_option_level=0
+911,Research & Development,Laboratory Technician,0.7475,97.1,High,1,is_overtime=Yes; total_working_years=1; environment_satisfaction=1
+939,Research & Development,Research Scientist,0.547,93.7,High,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+896,Sales,Sales Representative,0.3989,89.5,Medium,1,is_overtime=Yes; num_companies_worked=6; job_role=Sales Representative
+1865,Human Resources,Human Resources,0.3215,86.6,Medium,0,total_working_years=1; stock_option_level=0; years_with_curr_manager=0
+2048,Research & Development,Research Scientist,0.0284,22.4,Low,0,stock_option_level=0; job_level=1; job_involvement=2
+1949,Research & Development,Laboratory Technician,0.0641,47.8,Low,0,environment_satisfaction=1; stock_option_level=0; job_role=Laboratory Technician
+1001,Research & Development,Laboratory Technician,0.0653,48.4,Low,0,num_companies_worked=9; education_field=Technical Degree; job_role=Laboratory Technician
+1605,Research & Development,Research Scientist,0.7152,96.3,High,0,is_overtime=Yes; stock_option_level=0; distance_from_home=26
+874,Research & Development,Laboratory Technician,0.2812,84.4,Medium,0,is_overtime=Yes; environment_satisfaction=1; job_role=Laboratory Technician
+705,Research & Development,Research Scientist,0.0533,42.1,Low,0,environment_satisfaction=1; relationship_satisfaction=1; job_satisfaction=1
+1060,Research & Development,Research Scientist,0.0624,47.3,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; job_level=1
+1190,Sales,Sales Representative,0.075,52.9,Low,0,total_working_years=1; job_satisfaction=1; job_role=Sales Representative
+155,Research & Development,Laboratory Technician,0.2141,79.5,Medium,0,environment_satisfaction=1; num_companies_worked=5; relationship_satisfaction=1
+657,Research & Development,Research Scientist,0.2408,81.6,Medium,0,total_working_years=1; training_times_last_year=0; stock_option_level=0
+2010,Research & Development,Laboratory Technician,0.2065,78.6,Medium,0,distance_from_home=29; stock_option_level=0; job_role=Laboratory Technician
+1297,Research & Development,Laboratory Technician,0.1422,69.7,Low,0,business_travel=Travel_Frequently; stock_option_level=0; years_since_last_promotion=7
+1152,Human Resources,Human Resources,0.0342,28.5,Low,0,years_with_curr_manager=0; years_since_last_promotion=5; job_level=1
+485,Sales,Sales Representative,0.6891,96.1,High,1,is_overtime=Yes; total_working_years=1; stock_option_level=0
+1203,Research & Development,Research Scientist,0.1397,69.5,Low,1,business_travel=Travel_Frequently; is_overtime=Yes; total_working_years=1
+1875,Sales,Sales Representative,0.0934,58.1,Low,0,total_working_years=1; job_role=Sales Representative; years_with_curr_manager=0
+1961,Sales,Sales Representative,0.5205,93.3,High,0,environment_satisfaction=1; job_satisfaction=1; stock_option_level=0
+105,Research & Development,Research Scientist,0.0378,31.6,Low,0,stock_option_level=0; relationship_satisfaction=1; job_level=1
+1729,Research & Development,Research Scientist,0.0143,7.3,Low,0,distance_from_home=16; job_level=1; work_life_balance=2
+1944,Human Resources,Human Resources,0.9209,99.3,High,1,total_working_years=1; business_travel=Travel_Frequently; environment_satisfaction=1
+1952,Research & Development,Laboratory Technician,0.1052,61.6,Low,0,stock_option_level=0; years_since_last_promotion=7; job_satisfaction=1
+144,Research & Development,Laboratory Technician,0.1991,77.8,Medium,0,total_working_years=1; stock_option_level=0; job_role=Laboratory Technician
+1275,Research & Development,Research Scientist,0.2183,79.7,Medium,0,is_overtime=Yes; stock_option_level=0; job_level=1
+647,Research & Development,Laboratory Technician,0.1183,65.2,Low,1,is_overtime=Yes; environment_satisfaction=1; business_travel=Travel_Frequently
+560,Research & Development,Research Scientist,0.0332,27.1,Low,0,work_life_balance=1; environment_satisfaction=1; distance_from_home=23
+143,Research & Development,Research Scientist,0.0149,8.2,Low,0,total_working_years=2; percent_salary_hike=11; job_level=1
+1969,Research & Development,Research Scientist,0.0383,32.2,Low,0,environment_satisfaction=1; percent_salary_hike=11; years_in_current_role=3
+893,Sales,Sales Representative,0.0467,37.9,Low,0,job_role=Sales Representative; education_field=Marketing; department=Sales
+465,Research & Development,Research Scientist,0.0146,7.7,Low,0,distance_from_home=26; job_level=1; total_working_years=4
+5,Research & Development,Research Scientist,0.5984,94.2,High,0,is_overtime=Yes; business_travel=Travel_Frequently; stock_option_level=0
+1486,Sales,Sales Representative,0.1638,73.3,Medium,1,business_travel=Travel_Frequently; environment_satisfaction=1; education_field=Technical Degree
+338,Research & Development,Research Scientist,0.0244,18.2,Low,0,total_working_years=2; job_level=1; job_involvement=2
+16,Research & Development,Research Scientist,0.0375,31.1,Low,0,environment_satisfaction=1; distance_from_home=26; job_level=1
+137,Research & Development,Laboratory Technician,0.3777,88.7,Medium,1,is_overtime=Yes; total_working_years=1; business_travel=Travel_Frequently
+1701,Research & Development,Research Scientist,0.0652,48.4,Low,0,years_since_last_promotion=8; stock_option_level=0; distance_from_home=19
+1755,Research & Development,Research Scientist,0.0698,50.6,Low,0,is_overtime=Yes; relationship_satisfaction=1; job_level=1
+1893,Research & Development,Research Scientist,0.2398,81.5,Medium,0,is_overtime=Yes; total_working_years=1; years_with_curr_manager=0
+22,Research & Development,Laboratory Technician,0.2426,81.8,Medium,0,is_overtime=Yes; total_working_years=1; distance_from_home=16
+1854,Research & Development,Research Scientist,0.0543,42.5,Low,0,education_field=Technical Degree; percent_salary_hike=22; training_times_last_year=1
+1200,Research & Development,Research Scientist,0.0945,58.8,Low,1,is_overtime=Yes; stock_option_level=0; job_level=1
+177,Human Resources,Human Resources,0.0215,14.4,Low,0,distance_from_home=25; department=Human Resources; years_since_last_promotion=5
+1071,Research & Development,Research Scientist,0.0382,32.0,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; job_level=1
+1409,Research & Development,Laboratory Technician,0.5128,93.0,High,0,work_life_balance=1; job_satisfaction=1; stock_option_level=0
+1842,Human Resources,Human Resources,0.2733,84.1,Medium,1,total_working_years=2; job_satisfaction=1; stock_option_level=0
+134,Research & Development,Research Scientist,0.0829,55.6,Low,0,total_working_years=1; stock_option_level=0; job_satisfaction=1
+31,Research & Development,Research Scientist,0.0546,42.7,Low,1,job_satisfaction=1; stock_option_level=0; job_level=1
+2060,Sales,Sales Representative,0.1114,63.5,Low,0,stock_option_level=0; job_role=Sales Representative; years_with_curr_manager=0
+1577,Research & Development,Research Scientist,0.457,91.4,High,0,total_working_years=1; environment_satisfaction=1; work_life_balance=1
+960,Research & Development,Laboratory Technician,0.7838,97.7,High,1,total_working_years=1; environment_satisfaction=1; stock_option_level=0
+900,Sales,Sales Representative,0.1825,76.3,Medium,0,business_travel=Travel_Frequently; num_companies_worked=5; years_with_curr_manager=0
+1709,Research & Development,Laboratory Technician,0.0257,19.3,Low,0,num_companies_worked=9; job_role=Laboratory Technician; job_level=1
+467,Sales,Sales Representative,0.3361,87.2,Medium,0,business_travel=Travel_Frequently; stock_option_level=0; years_with_curr_manager=0
+2052,Research & Development,Research Scientist,0.0139,6.3,Low,0,job_involvement=1; job_level=1; total_working_years=4
+1115,Research & Development,Research Scientist,0.0103,2.8,Low,0,years_with_curr_manager=0; years_at_company=0; job_level=1
+585,Sales,Sales Representative,0.1394,69.4,Low,0,stock_option_level=0; relationship_satisfaction=1; education_field=Marketing
+1972,Human Resources,Human Resources,0.298,85.4,Medium,0,is_overtime=Yes; business_travel=Travel_Frequently; job_level=1
+1269,Research & Development,Research Scientist,0.5414,93.7,High,0,is_overtime=Yes; total_working_years=1; stock_option_level=0
+1431,Research & Development,Research Scientist,0.0624,47.2,Low,0,business_travel=Travel_Frequently; num_companies_worked=5; job_satisfaction=1
+1394,Research & Development,Research Scientist,0.3621,88.1,Medium,0,is_overtime=Yes; num_companies_worked=7; stock_option_level=0
+61,Research & Development,Research Scientist,0.209,78.9,Medium,0,relationship_satisfaction=1; stock_option_level=0; years_with_curr_manager=0
+1198,Research & Development,Laboratory Technician,0.3784,88.8,Medium,0,environment_satisfaction=1; total_working_years=2; stock_option_level=0
+515,Research & Development,Laboratory Technician,0.0525,41.6,Low,0,years_since_last_promotion=12; job_satisfaction=1; distance_from_home=14
+97,Research & Development,Laboratory Technician,0.0665,49.2,Low,0,stock_option_level=0; years_with_curr_manager=0; job_role=Laboratory Technician
+231,Research & Development,Research Scientist,0.0572,44.7,Low,0,relationship_satisfaction=1; stock_option_level=0; education=5
+667,Sales,Sales Representative,0.0349,29.0,Low,1,job_role=Sales Representative; job_satisfaction=1; education_field=Marketing
+1771,Research & Development,Research Scientist,0.014,6.6,Low,0,education_field=Technical Degree; num_companies_worked=5; work_life_balance=2
+773,Research & Development,Research Scientist,0.3495,87.7,Medium,0,is_overtime=Yes; work_life_balance=1; num_companies_worked=6
+233,Research & Development,Research Scientist,0.0828,55.6,Low,0,is_overtime=Yes; education_field=Technical Degree; distance_from_home=17
+1948,Research & Development,Research Scientist,0.0575,44.8,Low,0,is_overtime=Yes; job_satisfaction=1; job_level=1
+1996,Sales,Sales Representative,0.0479,38.6,Low,0,environment_satisfaction=1; job_role=Sales Representative; department=Sales
+8,Research & Development,Laboratory Technician,0.0366,30.2,Low,0,business_travel=Travel_Frequently; stock_option_level=0; job_level=1
+1627,Research & Development,Laboratory Technician,0.0171,10.3,Low,0,job_role=Laboratory Technician; job_involvement=2; percent_salary_hike=15
+239,Research & Development,Laboratory Technician,0.0186,11.8,Low,0,job_satisfaction=1; years_since_last_promotion=6; percent_salary_hike=11
+334,Research & Development,Research Scientist,0.1151,64.4,Low,0,relationship_satisfaction=1; job_satisfaction=1; years_with_curr_manager=0
+510,Research & Development,Research Scientist,0.1182,65.1,Low,1,education_field=Technical Degree; business_travel=Travel_Frequently; stock_option_level=0
+1623,Research & Development,Research Scientist,0.03,23.9,Low,0,stock_option_level=0; job_level=1; total_working_years=3
+1192,Research & Development,Laboratory Technician,0.0286,22.9,Low,0,relationship_satisfaction=1; job_role=Laboratory Technician; job_level=1
+248,Sales,Sales Representative,0.5254,93.4,High,1,is_overtime=Yes; stock_option_level=0; distance_from_home=20
+1798,Research & Development,Research Scientist,0.0279,21.8,Low,0,num_companies_worked=6; years_since_last_promotion=7; job_satisfaction=1
+813,Research & Development,Laboratory Technician,0.0243,18.1,Low,0,num_companies_worked=8; job_role=Laboratory Technician; distance_from_home=11
+392,Research & Development,Laboratory Technician,0.844,98.5,High,1,is_overtime=Yes; work_life_balance=1; training_times_last_year=0
+1471,Research & Development,Laboratory Technician,0.0209,13.5,Low,0,stock_option_level=0; job_role=Laboratory Technician; job_level=1
+888,Research & Development,Laboratory Technician,0.03,24.1,Low,0,environment_satisfaction=1; stock_option_level=0; job_role=Laboratory Technician
+1494,Research & Development,Laboratory Technician,0.8941,99.0,High,1,is_overtime=Yes; business_travel=Travel_Frequently; stock_option_level=0
+1513,Research & Development,Laboratory Technician,0.0541,42.3,Low,0,business_travel=Travel_Frequently; job_role=Laboratory Technician; job_level=1
+1683,Human Resources,Human Resources,0.0912,57.6,Low,0,is_overtime=Yes; relationship_satisfaction=1; job_level=1
+1216,Research & Development,Laboratory Technician,0.0463,37.7,Low,0,job_satisfaction=1; distance_from_home=19; job_role=Laboratory Technician
+1136,Research & Development,Research Scientist,0.1501,71.1,Medium,0,work_life_balance=1; stock_option_level=0; relationship_satisfaction=1
+554,Sales,Sales Representative,0.6581,95.6,High,1,is_overtime=Yes; stock_option_level=0; environment_satisfaction=1
+197,Research & Development,Research Scientist,0.0493,39.2,Low,0,education_field=Technical Degree; num_companies_worked=5; job_satisfaction=1
+373,Research & Development,Laboratory Technician,0.014,6.7,Low,0,years_since_last_promotion=10; percent_salary_hike=11; job_level=1
+1617,Research & Development,Laboratory Technician,0.0344,28.6,Low,0,job_satisfaction=1; distance_from_home=25; job_role=Laboratory Technician
+316,Research & Development,Laboratory Technician,0.0687,50.0,Low,0,num_companies_worked=7; stock_option_level=0; job_role=Laboratory Technician
+716,Research & Development,Laboratory Technician,0.1195,65.5,Low,0,is_overtime=Yes; distance_from_home=28; job_level=1
+1415,Research & Development,Laboratory Technician,0.2007,77.9,Medium,0,environment_satisfaction=1; education_field=Technical Degree; job_role=Laboratory Technician
+379,Research & Development,Research Scientist,0.0423,35.2,Low,0,relationship_satisfaction=1; stock_option_level=0; years_with_curr_manager=0
+797,Research & Development,Research Scientist,0.0216,14.6,Low,0,stock_option_level=0; job_level=1; training_times_last_year=2
+1143,Research & Development,Research Scientist,0.0314,25.2,Low,0,business_travel=Travel_Frequently; job_level=1; job_satisfaction=2
+1447,Research & Development,Laboratory Technician,0.0555,43.3,Low,0,num_companies_worked=5; relationship_satisfaction=1; job_role=Laboratory Technician
+925,Sales,Sales Representative,0.4143,90.1,High,0,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+1735,Research & Development,Laboratory Technician,0.1547,71.9,Medium,0,work_life_balance=1; stock_option_level=0; job_role=Laboratory Technician
+21,Research & Development,Research Scientist,0.0675,49.5,Low,0,is_overtime=Yes; environment_satisfaction=1; job_level=1
+1687,Research & Development,Laboratory Technician,0.0505,40.2,Low,0,num_companies_worked=7; job_role=Laboratory Technician; years_with_curr_manager=0
+395,Research & Development,Research Scientist,0.0142,7.0,Low,0,stock_option_level=0; job_level=1; total_working_years=5
+1607,Research & Development,Research Scientist,0.0063,0.3,Low,0,job_level=1; total_working_years=6; years_in_current_role=2
+335,Research & Development,Research Scientist,0.038,31.8,Low,0,relationship_satisfaction=1; education_field=Technical Degree; environment_satisfaction=1
+1299,Research & Development,Laboratory Technician,0.0958,59.2,Low,1,is_overtime=Yes; education_field=Technical Degree; relationship_satisfaction=1
+214,Research & Development,Research Scientist,0.0992,60.2,Low,0,is_overtime=Yes; years_with_curr_manager=0; job_level=1
+702,Research & Development,Research Scientist,0.7584,97.3,High,1,is_overtime=Yes; relationship_satisfaction=1; stock_option_level=0
+2007,Research & Development,Research Scientist,0.0239,17.6,Low,0,stock_option_level=0; job_level=1; total_working_years=4
+1085,Research & Development,Research Scientist,0.0284,22.7,Low,0,education_field=Technical Degree; stock_option_level=0; job_level=1
+1802,Research & Development,Laboratory Technician,0.0299,23.8,Low,0,job_satisfaction=1; job_role=Laboratory Technician; job_level=1
+90,Research & Development,Research Scientist,0.2757,84.1,Medium,1,is_overtime=Yes; training_times_last_year=0; relationship_satisfaction=1
+27,Sales,Sales Representative,0.1981,77.7,Medium,1,job_satisfaction=1; stock_option_level=0; num_companies_worked=7
+1596,Research & Development,Laboratory Technician,0.0314,25.3,Low,0,distance_from_home=28; years_since_last_promotion=6; job_role=Laboratory Technician
+584,Research & Development,Laboratory Technician,0.2073,78.7,Medium,1,environment_satisfaction=1; job_involvement=1; num_companies_worked=7
+51,Research & Development,Research Scientist,0.4197,90.1,High,0,is_overtime=Yes; num_companies_worked=9; job_satisfaction=1
+1438,Research & Development,Research Scientist,0.0783,54.1,Low,0,num_companies_worked=7; environment_satisfaction=1; education_field=Technical Degree
+1475,Research & Development,Research Scientist,0.0345,28.6,Low,0,stock_option_level=0; distance_from_home=20; job_level=1
+1314,Human Resources,Human Resources,0.1347,68.4,Low,0,num_companies_worked=6; stock_option_level=0; job_satisfaction=1
+854,Research & Development,Research Scientist,0.3243,86.7,Medium,0,num_companies_worked=7; environment_satisfaction=1; stock_option_level=0
+1720,Research & Development,Research Scientist,0.2781,84.2,Medium,0,business_travel=Travel_Frequently; environment_satisfaction=1; num_companies_worked=6
+65,Research & Development,Laboratory Technician,0.5298,93.5,High,1,is_overtime=Yes; stock_option_level=0; total_working_years=2
+1751,Research & Development,Research Scientist,0.0235,17.2,Low,0,stock_option_level=0; percent_salary_hike=11; job_level=1
+669,Sales,Sales Representative,0.1657,73.7,Medium,0,stock_option_level=0; education_field=Technical Degree; job_role=Sales Representative
+521,Research & Development,Laboratory Technician,0.0294,23.6,Low,0,num_companies_worked=6; years_with_curr_manager=0; job_role=Laboratory Technician
+995,Research & Development,Research Scientist,0.0415,34.6,Low,0,relationship_satisfaction=1; stock_option_level=0; distance_from_home=13
+192,Research & Development,Research Scientist,0.0748,52.7,Low,0,distance_from_home=29; stock_option_level=0; num_companies_worked=5
+486,Research & Development,Laboratory Technician,0.0258,19.5,Low,0,num_companies_worked=6; job_satisfaction=1; job_role=Laboratory Technician
+440,Research & Development,Research Scientist,0.8045,98.0,High,1,job_involvement=1; is_overtime=Yes; environment_satisfaction=1
+7,Research & Development,Laboratory Technician,0.1424,69.8,Low,0,environment_satisfaction=1; num_companies_worked=9; job_role=Laboratory Technician
+1721,Research & Development,Laboratory Technician,0.0225,15.4,Low,0,job_role=Laboratory Technician; job_level=1; total_working_years=6
+355,Research & Development,Laboratory Technician,0.0859,56.5,Low,1,distance_from_home=29; business_travel=Travel_Frequently; stock_option_level=0
+2019,Sales,Sales Representative,0.1224,66.1,Low,0,distance_from_home=29; environment_satisfaction=1; years_with_curr_manager=0
+364,Research & Development,Laboratory Technician,0.252,82.4,Medium,1,work_life_balance=1; environment_satisfaction=1; job_role=Laboratory Technician
+1224,Research & Development,Laboratory Technician,0.0404,34.1,Low,0,relationship_satisfaction=1; years_since_last_promotion=8; job_role=Laboratory Technician
+1440,Research & Development,Laboratory Technician,0.597,94.1,High,0,work_life_balance=1; education_field=Technical Degree; stock_option_level=0
+784,Research & Development,Research Scientist,0.1191,65.2,Low,0,stock_option_level=0; environment_satisfaction=1; total_working_years=2
+1291,Research & Development,Research Scientist,0.1768,75.5,Medium,0,is_overtime=Yes; stock_option_level=0; job_level=1
+1647,Research & Development,Research Scientist,0.2043,78.4,Medium,0,stock_option_level=0; num_companies_worked=7; relationship_satisfaction=1
+1694,Research & Development,Research Scientist,0.1167,64.7,Low,0,num_companies_worked=5; environment_satisfaction=1; education_field=Technical Degree
+1778,Human Resources,Human Resources,0.0189,12.1,Low,0,stock_option_level=0; job_level=1; department=Human Resources
+1864,Sales,Sales Representative,0.0335,27.6,Low,0,distance_from_home=23; job_role=Sales Representative; department=Sales
+1340,Research & Development,Research Scientist,0.0326,26.3,Low,0,num_companies_worked=9; training_times_last_year=0; years_with_curr_manager=0
+267,Research & Development,Research Scientist,0.2232,80.2,Medium,0,is_overtime=Yes; relationship_satisfaction=1; distance_from_home=21
+1417,Research & Development,Laboratory Technician,0.0528,41.7,Low,0,stock_option_level=0; job_satisfaction=1; job_role=Laboratory Technician
+1241,Research & Development,Research Scientist,0.1014,60.9,Low,0,is_overtime=Yes; relationship_satisfaction=1; job_level=1
+887,Research & Development,Research Scientist,0.0508,40.8,Low,0,education_field=Technical Degree; job_satisfaction=1; job_level=1
+1834,Research & Development,Research Scientist,0.0165,9.6,Low,0,job_satisfaction=1; job_level=1; total_working_years=3
+1173,Research & Development,Laboratory Technician,0.1329,68.0,Low,0,stock_option_level=0; num_companies_worked=8; distance_from_home=24
+1207,Human Resources,Human Resources,0.018,11.2,Low,0,job_level=1; department=Human Resources; years_in_current_role=4
+964,Research & Development,Research Scientist,0.2881,84.9,Medium,0,is_overtime=Yes; business_travel=Travel_Frequently; num_companies_worked=8
+649,Research & Development,Research Scientist,0.0228,16.3,Low,0,is_overtime=Yes; job_level=1; total_working_years=6
+1411,Research & Development,Laboratory Technician,0.1724,74.8,Medium,0,environment_satisfaction=1; stock_option_level=0; relationship_satisfaction=1
+1002,Research & Development,Laboratory Technician,0.0598,45.6,Low,0,is_overtime=Yes; job_satisfaction=1; distance_from_home=23
+1458,Research & Development,Laboratory Technician,0.8969,99.0,High,1,is_overtime=Yes; environment_satisfaction=1; stock_option_level=0
+1097,Research & Development,Research Scientist,0.0164,9.3,Low,0,stock_option_level=0; distance_from_home=10; training_times_last_year=4
+1358,Research & Development,Laboratory Technician,0.0383,32.3,Low,0,distance_from_home=19; percent_salary_hike=11; job_role=Laboratory Technician
+1480,Research & Development,Laboratory Technician,0.0777,53.9,Low,0,environment_satisfaction=1; stock_option_level=0; business_travel=Travel_Frequently
+652,Research & Development,Laboratory Technician,0.1368,69.1,Low,0,environment_satisfaction=1; stock_option_level=0; distance_from_home=25
+407,Research & Development,Laboratory Technician,0.0504,40.1,Low,0,business_travel=Travel_Frequently; years_with_curr_manager=0; distance_from_home=18
+249,Research & Development,Laboratory Technician,0.0205,13.3,Low,0,job_role=Laboratory Technician; job_level=1; total_working_years=5
+1106,Research & Development,Laboratory Technician,0.0339,28.2,Low,1,is_overtime=Yes; education_field=Technical Degree; job_level=1
+1257,Research & Development,Research Scientist,0.062,46.8,Low,0,business_travel=Travel_Frequently; education_field=Technical Degree; stock_option_level=0
+452,Research & Development,Research Scientist,0.0556,43.5,Low,0,years_since_last_promotion=9; num_companies_worked=9; relationship_satisfaction=1
+1782,Research & Development,Laboratory Technician,0.0253,18.8,Low,0,job_role=Laboratory Technician; percent_salary_hike=11; job_level=1
+744,Research & Development,Laboratory Technician,0.2233,80.3,Medium,0,job_involvement=1; environment_satisfaction=1; stock_option_level=0
+1464,Research & Development,Laboratory Technician,0.5809,94.0,High,1,is_overtime=Yes; work_life_balance=1; num_companies_worked=6
+331,Research & Development,Laboratory Technician,0.266,83.5,Medium,1,is_overtime=Yes; work_life_balance=1; stock_option_level=0
+847,Human Resources,Human Resources,0.0194,12.7,Low,0,work_life_balance=1; training_times_last_year=1; job_level=1
+1010,Research & Development,Laboratory Technician,0.4333,90.7,High,1,is_overtime=Yes; work_life_balance=1; job_role=Laboratory Technician
+1989,Research & Development,Laboratory Technician,0.02,13.1,Low,0,stock_option_level=0; job_role=Laboratory Technician; job_level=1
+602,Research & Development,Laboratory Technician,0.1735,75.0,Medium,0,business_travel=Travel_Frequently; relationship_satisfaction=1; job_role=Laboratory Technician
+1249,Research & Development,Research Scientist,0.0378,31.6,Low,0,environment_satisfaction=1; relationship_satisfaction=1; job_level=1
+1646,Research & Development,Research Scientist,0.3882,89.1,Medium,0,is_overtime=Yes; environment_satisfaction=1; stock_option_level=0
+861,Research & Development,Research Scientist,0.0559,43.6,Low,0,num_companies_worked=9; business_travel=Travel_Frequently; job_level=1
+578,Research & Development,Laboratory Technician,0.0432,35.9,Low,0,num_companies_worked=7; stock_option_level=0; years_with_curr_manager=0
+2054,Research & Development,Research Scientist,0.5231,93.3,High,0,work_life_balance=1; job_satisfaction=1; stock_option_level=0
+1852,Research & Development,Laboratory Technician,0.055,42.8,Low,0,stock_option_level=0; business_travel=Travel_Frequently; distance_from_home=20
+277,Research & Development,Research Scientist,0.1737,75.1,Medium,0,is_overtime=Yes; business_travel=Travel_Frequently; years_with_curr_manager=0
+497,Research & Development,Laboratory Technician,0.0208,13.5,Low,0,job_role=Laboratory Technician; percent_salary_hike=11; job_level=1
+806,Research & Development,Laboratory Technician,0.0366,30.1,Low,0,job_involvement=1; job_role=Laboratory Technician; job_level=1
+1502,Research & Development,Laboratory Technician,0.1138,64.2,Low,0,environment_satisfaction=1; num_companies_worked=8; stock_option_level=0
+1296,Research & Development,Laboratory Technician,0.2202,79.9,Medium,0,is_overtime=Yes; business_travel=Travel_Frequently; total_working_years=2
+738,Sales,Sales Representative,0.1553,72.1,Medium,0,num_companies_worked=7; job_role=Sales Representative; department=Sales
+1890,Human Resources,Human Resources,0.0357,29.3,Low,0,business_travel=Travel_Frequently; stock_option_level=0; job_involvement=2
+593,Research & Development,Laboratory Technician,0.1304,67.4,Low,1,education_field=Technical Degree; business_travel=Travel_Frequently; num_companies_worked=5
+1871,Research & Development,Research Scientist,0.0387,32.6,Low,0,num_companies_worked=8; distance_from_home=19; total_working_years=7
+1407,Research & Development,Research Scientist,0.0554,43.3,Low,0,environment_satisfaction=1; stock_option_level=0; job_level=1
+1310,Research & Development,Research Scientist,0.1356,68.7,Low,1,job_satisfaction=1; stock_option_level=0; relationship_satisfaction=1
+1725,Research & Development,Laboratory Technician,0.083,55.8,Low,0,distance_from_home=29; job_satisfaction=1; job_role=Laboratory Technician
+1028,Research & Development,Laboratory Technician,0.0436,36.2,Low,0,relationship_satisfaction=1; job_role=Laboratory Technician; job_level=1
+33,Research & Development,Research Scientist,0.651,95.4,High,1,is_overtime=Yes; stock_option_level=0; job_involvement=1
+340,Research & Development,Research Scientist,0.038,31.8,Low,0,relationship_satisfaction=1; job_satisfaction=1; job_level=1
+246,Research & Development,Research Scientist,0.19,76.9,Medium,0,is_overtime=Yes; num_companies_worked=8; training_times_last_year=0
+330,Sales,Sales Representative,0.0261,19.7,Low,0,relationship_satisfaction=1; percent_salary_hike=11; job_role=Sales Representative
+1640,Research & Development,Research Scientist,0.2813,84.5,Medium,0,work_life_balance=1; relationship_satisfaction=1; years_since_last_promotion=7
+24,Research & Development,Research Scientist,0.1804,76.0,Medium,0,is_overtime=Yes; num_companies_worked=5; stock_option_level=0
+1083,Research & Development,Laboratory Technician,0.1356,68.6,Low,0,environment_satisfaction=1; job_satisfaction=1; relationship_satisfaction=1
+1860,Research & Development,Laboratory Technician,0.0802,54.6,Low,0,stock_option_level=0; years_with_curr_manager=0; job_role=Laboratory Technician
+1449,Research & Development,Laboratory Technician,0.0168,10.1,Low,0,job_role=Laboratory Technician; percent_salary_hike=11; training_times_last_year=2
+1992,Research & Development,Laboratory Technician,0.175,75.3,Medium,0,is_overtime=Yes; num_companies_worked=6; job_level=1
+1916,Research & Development,Laboratory Technician,0.2265,80.5,Medium,0,environment_satisfaction=1; num_companies_worked=8; training_times_last_year=0
+455,Research & Development,Laboratory Technician,0.0929,57.9,Low,0,stock_option_level=0; job_role=Laboratory Technician; job_level=1
+1696,Research & Development,Laboratory Technician,0.0201,13.1,Low,0,job_role=Laboratory Technician; years_since_last_promotion=4; job_involvement=2
+1684,Research & Development,Laboratory Technician,0.2838,84.7,Medium,1,is_overtime=Yes; relationship_satisfaction=1; stock_option_level=0
+369,Research & Development,Healthcare Representative,0.0327,26.4,Low,0,job_satisfaction=1; total_working_years=6; years_in_current_role=3
+1774,Sales,Sales Executive,0.0254,19.0,Low,0,is_overtime=Yes; job_role=Sales Executive; department=Sales
+57,Research & Development,Laboratory Technician,0.0421,35.0,Low,0,stock_option_level=0; business_travel=Travel_Frequently; job_role=Laboratory Technician
+26,Research & Development,Manufacturing Director,0.0113,3.7,Low,0,environment_satisfaction=1; education_field=Other; distance_from_home=11
+75,Research & Development,Laboratory Technician,0.2922,85.1,Medium,0,is_overtime=Yes; distance_from_home=23; job_satisfaction=1
+942,Research & Development,Healthcare Representative,0.0664,49.1,Low,0,is_overtime=Yes; work_life_balance=1; distance_from_home=21
+1046,Research & Development,Laboratory Technician,0.3635,88.2,Medium,0,distance_from_home=29; num_companies_worked=9; stock_option_level=0
+2053,Research & Development,Laboratory Technician,0.2678,83.7,Medium,0,is_overtime=Yes; relationship_satisfaction=1; distance_from_home=13
+709,Sales,Sales Executive,0.0529,41.8,Low,0,stock_option_level=0; relationship_satisfaction=1; education_field=Marketing
+538,Research & Development,Laboratory Technician,0.0786,54.3,Low,1,environment_satisfaction=1; num_companies_worked=5; job_satisfaction=1
+1140,Research & Development,Manufacturing Director,0.0988,60.0,Low,0,business_travel=Travel_Frequently; stock_option_level=0; total_working_years=5
+1501,Research & Development,Healthcare Representative,0.0613,46.4,Low,0,is_overtime=Yes; stock_option_level=0; total_working_years=4
+855,Sales,Sales Executive,0.0297,23.7,Low,0,environment_satisfaction=1; job_satisfaction=1; relationship_satisfaction=1
+595,Sales,Sales Executive,0.0447,36.5,Low,0,relationship_satisfaction=1; years_since_last_promotion=6; education=5
+1619,Research & Development,Laboratory Technician,0.1279,66.9,Low,0,relationship_satisfaction=1; job_satisfaction=1; distance_from_home=19
+1552,Research & Development,Healthcare Representative,0.0319,25.6,Low,0,is_overtime=Yes; stock_option_level=0; years_at_company=2
+1794,Human Resources,Human Resources,0.0221,15.0,Low,0,stock_option_level=0; years_since_last_promotion=4; department=Human Resources
+1396,Sales,Sales Executive,0.2476,82.2,Medium,0,is_overtime=Yes; relationship_satisfaction=1; education_field=Marketing
+1402,Research & Development,Research Scientist,0.1439,70.0,Low,0,is_overtime=Yes; relationship_satisfaction=1; stock_option_level=0
+1537,Research & Development,Research Scientist,0.1851,76.4,Medium,1,work_life_balance=1; business_travel=Travel_Frequently; relationship_satisfaction=1
+1574,Research & Development,Research Scientist,0.0191,12.4,Low,0,job_satisfaction=1; education_field=Technical Degree; work_life_balance=2
+659,Research & Development,Healthcare Representative,0.0057,0.2,Low,0,years_in_current_role=2; training_times_last_year=4; education=4
+1349,Sales,Sales Executive,0.0408,34.3,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; education_field=Marketing
+1965,Sales,Sales Executive,0.0608,46.0,Low,0,stock_option_level=0; relationship_satisfaction=1; education_field=Marketing
+1062,Research & Development,Healthcare Representative,0.0559,43.7,Low,0,relationship_satisfaction=1; stock_option_level=0; work_life_balance=2
+2014,Research & Development,Research Scientist,0.1423,69.7,Low,0,environment_satisfaction=1; num_companies_worked=7; relationship_satisfaction=1
+1211,Sales,Sales Executive,0.1849,76.3,Medium,0,num_companies_worked=8; distance_from_home=29; job_satisfaction=1
+1812,Sales,Sales Executive,0.0417,34.8,Low,0,business_travel=Travel_Frequently; distance_from_home=20; job_role=Sales Executive
+1011,Research & Development,Manufacturing Director,0.081,55.0,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; total_working_years=4
+1630,Research & Development,Healthcare Representative,0.0055,0.1,Low,0,education=4
+117,Research & Development,Healthcare Representative,0.0282,22.3,Low,0,years_since_last_promotion=10; relationship_satisfaction=1; job_involvement=2
+72,Sales,Sales Executive,0.4888,92.1,High,0,is_overtime=Yes; distance_from_home=23; num_companies_worked=7
+1445,Sales,Sales Executive,0.0693,50.2,Low,0,is_overtime=Yes; job_role=Sales Executive; department=Sales
+1003,Sales,Sales Executive,0.1022,61.0,Low,0,is_overtime=Yes; training_times_last_year=0; stock_option_level=0
+926,Research & Development,Manufacturing Director,0.0337,28.0,Low,1,is_overtime=Yes; relationship_satisfaction=1; total_working_years=4
+1669,Sales,Sales Executive,0.1305,67.6,Low,0,is_overtime=Yes; environment_satisfaction=1; department=Sales
+1787,Sales,Sales Executive,0.0672,49.5,Low,0,relationship_satisfaction=1; education_field=Marketing; department=Sales
+15,Research & Development,Laboratory Technician,0.1059,61.9,Low,0,is_overtime=Yes; stock_option_level=0; distance_from_home=15
+879,Sales,Sales Executive,0.1503,71.2,Medium,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+518,Research & Development,Manufacturing Director,0.0558,43.5,Low,0,is_overtime=Yes; stock_option_level=0; years_at_company=1
+1881,Research & Development,Laboratory Technician,0.0368,30.4,Low,0,relationship_satisfaction=1; distance_from_home=20; percent_salary_hike=11
+1583,Sales,Sales Executive,0.0702,50.9,Low,0,stock_option_level=0; distance_from_home=16; job_role=Sales Executive
+190,Research & Development,Laboratory Technician,0.2391,81.4,Medium,1,environment_satisfaction=1; num_companies_worked=7; job_satisfaction=1
+1809,Research & Development,Manufacturing Director,0.0704,51.0,Low,1,work_life_balance=1; job_satisfaction=1; stock_option_level=0
+129,Sales,Sales Executive,0.0293,23.5,Low,0,stock_option_level=0; department=Sales; job_role=Sales Executive
+1027,Research & Development,Manufacturing Director,0.0151,8.3,Low,0,environment_satisfaction=1; total_working_years=4; years_in_current_role=2
+577,Research & Development,Laboratory Technician,0.1085,62.6,Low,0,job_involvement=1; stock_option_level=0; distance_from_home=22
+650,Sales,Sales Executive,0.1586,72.6,Medium,1,work_life_balance=1; job_satisfaction=1; stock_option_level=0
+1022,Research & Development,Healthcare Representative,0.0931,58.0,Low,0,training_times_last_year=0; environment_satisfaction=1; stock_option_level=0
+807,Research & Development,Healthcare Representative,0.014,6.5,Low,0,business_travel=Travel_Frequently; years_since_last_promotion=3; job_satisfaction=2
+1350,Research & Development,Research Scientist,0.0879,57.1,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; stock_option_level=0
+885,Sales,Sales Executive,0.426,90.4,High,0,stock_option_level=0; job_satisfaction=1; relationship_satisfaction=1
+241,Research & Development,Research Scientist,0.0322,25.9,Low,0,is_overtime=Yes; job_satisfaction=1; job_level=1
+791,Research & Development,Research Scientist,0.0091,1.6,Low,0,relationship_satisfaction=1; distance_from_home=19; job_level=1
+507,Sales,Sales Executive,0.0622,46.9,Low,0,is_overtime=Yes; education_field=Marketing; job_role=Sales Executive
+611,Research & Development,Manufacturing Director,0.0232,16.8,Low,0,education_field=Technical Degree; distance_from_home=19; num_companies_worked=4
+1148,Research & Development,Laboratory Technician,0.2059,78.5,Medium,0,job_involvement=1; stock_option_level=0; distance_from_home=29
+1885,Research & Development,Research Scientist,0.0254,19.0,Low,0,is_overtime=Yes; num_companies_worked=5; job_satisfaction=1
+1420,Research & Development,Laboratory Technician,0.2584,83.0,Medium,1,business_travel=Travel_Frequently; job_satisfaction=1; environment_satisfaction=1
+1543,Research & Development,Research Scientist,0.099,60.1,Low,0,relationship_satisfaction=1; stock_option_level=0; environment_satisfaction=1
+684,Sales,Sales Executive,0.1865,76.5,Medium,1,business_travel=Travel_Frequently; environment_satisfaction=1; distance_from_home=26
+956,Sales,Sales Executive,0.1731,74.9,Medium,0,stock_option_level=0; job_satisfaction=1; business_travel=Travel_Frequently
+274,Research & Development,Manufacturing Director,0.1546,71.8,Medium,0,business_travel=Travel_Frequently; num_companies_worked=5; job_satisfaction=1
+1114,Sales,Sales Executive,0.0303,24.4,Low,0,business_travel=Travel_Frequently; department=Sales; total_working_years=4
+524,Research & Development,Manufacturing Director,0.0273,21.0,Low,0,work_life_balance=1; job_satisfaction=1; years_since_last_promotion=3
+618,Sales,Sales Executive,0.5027,92.5,High,0,environment_satisfaction=1; distance_from_home=29; num_companies_worked=5
+100,Sales,Sales Executive,0.101,60.8,Low,0,stock_option_level=0; job_satisfaction=1; department=Sales
+193,Research & Development,Research Scientist,0.0551,42.9,Low,0,is_overtime=Yes; stock_option_level=0; education_field=Technical Degree
+208,Research & Development,Manufacturing Director,0.0241,17.8,Low,0,relationship_satisfaction=1; education_field=Technical Degree; training_times_last_year=1
+1545,Research & Development,Manufacturing Director,0.0286,22.9,Low,0,stock_option_level=0; distance_from_home=25; total_working_years=5
+1164,Human Resources,Human Resources,0.1719,74.6,Medium,0,work_life_balance=1; stock_option_level=0; education_field=Technical Degree
+110,Research & Development,Manufacturing Director,0.0392,33.1,Low,0,environment_satisfaction=1; stock_option_level=0; total_working_years=5
+1212,Sales,Sales Executive,0.3,85.5,Medium,0,business_travel=Travel_Frequently; num_companies_worked=5; years_with_curr_manager=0
+1976,Research & Development,Research Scientist,0.0177,10.8,Low,0,stock_option_level=0; distance_from_home=23; years_since_last_promotion=3
+793,Research & Development,Healthcare Representative,0.0399,33.6,Low,0,relationship_satisfaction=1; distance_from_home=27; work_life_balance=2
+800,Sales,Sales Executive,0.0336,27.8,Low,0,business_travel=Travel_Frequently; education_field=Marketing; department=Sales
+308,Research & Development,Manufacturing Director,0.0225,15.6,Low,0,job_involvement=1; total_working_years=6; years_in_current_role=4
+792,Research & Development,Laboratory Technician,0.4978,92.4,High,0,environment_satisfaction=1; job_involvement=1; business_travel=Travel_Frequently
+1477,Sales,Sales Executive,0.0766,53.5,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; job_satisfaction=1
+1662,Research & Development,Manufacturing Director,0.0148,8.2,Low,0,stock_option_level=0; total_working_years=4; job_involvement=2
+1009,Research & Development,Manufacturing Director,0.0309,24.9,Low,0,distance_from_home=17; years_since_last_promotion=3; job_involvement=2
+804,Research & Development,Research Scientist,0.0588,45.0,Low,0,stock_option_level=0; job_satisfaction=1; job_level=1
+828,Research & Development,Research Scientist,0.0553,43.2,Low,1,num_companies_worked=6; stock_option_level=0; job_level=1
+1612,Sales,Sales Executive,0.1353,68.5,Low,0,job_satisfaction=1; environment_satisfaction=1; distance_from_home=26
+1909,Sales,Sales Executive,0.0303,24.4,Low,0,num_companies_worked=5; department=Sales; job_role=Sales Executive
+1439,Sales,Sales Representative,0.2479,82.2,Medium,1,job_satisfaction=1; stock_option_level=0; environment_satisfaction=1
+1707,Research & Development,Research Scientist,0.0119,4.2,Low,0,training_times_last_year=1; job_level=1; total_working_years=5
+859,Sales,Sales Executive,0.04,33.7,Low,0,percent_salary_hike=11; distance_from_home=13; department=Sales
+2068,Research & Development,Laboratory Technician,0.0639,47.8,Low,0,stock_option_level=0; relationship_satisfaction=1; job_role=Laboratory Technician
+1177,Research & Development,Laboratory Technician,0.0311,25.0,Low,0,environment_satisfaction=1; job_role=Laboratory Technician; job_level=1
+1180,Research & Development,Research Scientist,0.0697,50.5,Low,0,is_overtime=Yes; distance_from_home=26; business_travel=Travel_Frequently
+98,Research & Development,Manufacturing Director,0.0147,8.1,Low,0,stock_option_level=0; percent_salary_hike=23; training_times_last_year=2
+269,Research & Development,Laboratory Technician,0.0462,37.6,Low,0,business_travel=Travel_Frequently; num_companies_worked=5; stock_option_level=0
+836,Research & Development,Manufacturing Director,0.0478,38.4,Low,0,distance_from_home=29; years_since_last_promotion=7; work_life_balance=2
+1980,Research & Development,Manufacturing Director,0.1336,68.2,Low,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=6
+1995,Sales,Sales Executive,0.021,13.7,Low,0,relationship_satisfaction=1; years_since_last_promotion=5; department=Sales
+1285,Research & Development,Laboratory Technician,0.044,36.4,Low,0,business_travel=Travel_Frequently; distance_from_home=19; job_role=Laboratory Technician
+972,Research & Development,Laboratory Technician,0.0178,11.0,Low,0,stock_option_level=0; job_role=Laboratory Technician; work_life_balance=2
+1829,Research & Development,Healthcare Representative,0.0275,21.2,Low,0,job_satisfaction=1; years_since_last_promotion=7; distance_from_home=12
+529,Research & Development,Research Scientist,0.1067,62.0,Low,0,is_overtime=Yes; relationship_satisfaction=1; years_since_last_promotion=10
+250,Research & Development,Manufacturing Director,0.014,6.5,Low,0,job_satisfaction=1; distance_from_home=13; percent_salary_hike=11
+333,Sales,Sales Executive,0.0763,53.4,Low,0,stock_option_level=0; relationship_satisfaction=1; distance_from_home=26
+1195,Research & Development,Research Scientist,0.1,60.5,Low,0,is_overtime=Yes; environment_satisfaction=1; job_level=1
+437,Sales,Sales Executive,0.2127,79.2,Medium,0,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+397,Research & Development,Research Scientist,0.0939,58.5,Low,0,stock_option_level=0; years_since_last_promotion=7; education_field=Technical Degree
+527,Sales,Sales Executive,0.1197,65.6,Low,0,is_overtime=Yes; stock_option_level=0; job_role=Sales Executive
+1289,Human Resources,Human Resources,0.0333,27.3,Low,0,business_travel=Travel_Frequently; percent_salary_hike=11; job_involvement=2
+1710,Sales,Sales Representative,0.0935,58.2,Low,0,stock_option_level=0; years_since_last_promotion=6; job_role=Sales Representative
+151,Research & Development,Research Scientist,0.0225,15.5,Low,0,num_companies_worked=6; years_with_curr_manager=0; job_involvement=2
+1757,Sales,Sales Executive,0.0612,46.3,Low,0,stock_option_level=0; education_field=Marketing; distance_from_home=11
+1101,Research & Development,Research Scientist,0.0279,21.6,Low,1,distance_from_home=29; business_travel=Travel_Frequently; environment_satisfaction=1
+526,Research & Development,Healthcare Representative,0.0873,56.9,Low,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=4
+551,Research & Development,Healthcare Representative,0.0503,40.0,Low,0,business_travel=Travel_Frequently; distance_from_home=28; education_field=Technical Degree
+1322,Research & Development,Manufacturing Director,0.0701,50.7,Low,0,environment_satisfaction=1; relationship_satisfaction=1; stock_option_level=0
+903,Sales,Sales Executive,0.1537,71.6,Medium,0,is_overtime=Yes; years_since_last_promotion=7; relationship_satisfaction=1
+1281,Sales,Sales Executive,0.1595,72.8,Medium,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+1220,Sales,Sales Executive,0.1206,65.9,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; distance_from_home=25
+1225,Research & Development,Research Scientist,0.0666,49.3,Low,0,distance_from_home=29; years_since_last_promotion=13; stock_option_level=0
+721,Research & Development,Healthcare Representative,0.057,44.5,Low,0,education_field=Technical Degree; relationship_satisfaction=1; stock_option_level=0
+388,Sales,Sales Executive,0.0398,33.5,Low,0,stock_option_level=0; relationship_satisfaction=1; business_travel=Travel_Frequently
+547,Research & Development,Research Scientist,0.2241,80.3,Medium,0,distance_from_home=29; business_travel=Travel_Frequently; environment_satisfaction=1
+536,Research & Development,Laboratory Technician,0.0406,34.2,Low,0,job_satisfaction=1; distance_from_home=17; job_role=Laboratory Technician
+175,Sales,Sales Executive,0.1792,75.8,Medium,1,is_overtime=Yes; job_involvement=1; distance_from_home=20
+60,Sales,Sales Executive,0.0938,58.4,Low,0,stock_option_level=0; years_since_last_promotion=8; distance_from_home=23
+720,Sales,Sales Executive,0.3311,87.0,Medium,1,environment_satisfaction=1; num_companies_worked=9; stock_option_level=0
+1667,Sales,Sales Executive,0.3134,86.1,Medium,1,is_overtime=Yes; stock_option_level=0; years_since_last_promotion=6
+1503,Sales,Sales Executive,0.0936,58.3,Low,0,is_overtime=Yes; distance_from_home=14; job_role=Sales Executive
+1489,Sales,Sales Executive,0.4737,91.6,High,1,is_overtime=Yes; stock_option_level=0; distance_from_home=24
+975,Sales,Sales Executive,0.0931,58.0,Low,0,stock_option_level=0; distance_from_home=18; years_with_curr_manager=0
+1380,Sales,Sales Executive,0.2829,84.6,Medium,1,is_overtime=Yes; training_times_last_year=0; business_travel=Travel_Frequently
+1080,Research & Development,Research Scientist,0.0997,60.3,Low,0,is_overtime=Yes; num_companies_worked=8; relationship_satisfaction=1
+1981,Research & Development,Healthcare Representative,0.0438,36.3,Low,0,stock_option_level=0; total_working_years=4; job_involvement=2
+1094,Research & Development,Laboratory Technician,0.1193,65.4,Low,0,environment_satisfaction=1; job_involvement=1; job_role=Laboratory Technician
+1311,Research & Development,Laboratory Technician,0.081,55.0,Low,0,environment_satisfaction=1; relationship_satisfaction=1; education_field=Technical Degree
+1598,Sales,Sales Executive,0.0305,24.7,Low,0,job_satisfaction=1; distance_from_home=14; department=Sales
+1362,Sales,Sales Executive,0.043,35.8,Low,0,environment_satisfaction=1; business_travel=Travel_Frequently; job_satisfaction=1
+714,Sales,Sales Executive,0.0293,23.5,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; job_role=Sales Executive
+1853,Sales,Sales Executive,0.3062,85.8,Medium,0,business_travel=Travel_Frequently; stock_option_level=0; num_companies_worked=8
+469,Sales,Sales Executive,0.0091,1.6,Low,0,relationship_satisfaction=1; department=Sales; total_working_years=4
+1346,Research & Development,Research Scientist,0.0155,8.9,Low,0,years_since_last_promotion=8; stock_option_level=0; training_times_last_year=4
+1614,Research & Development,Manufacturing Director,0.0835,55.9,Low,0,is_overtime=Yes; num_companies_worked=9; distance_from_home=12
+195,Sales,Sales Executive,0.0567,44.2,Low,0,job_involvement=1; business_travel=Travel_Frequently; department=Sales
+949,Research & Development,Research Scientist,0.0118,4.1,Low,0,stock_option_level=0; job_level=1; years_in_current_role=2
+715,Research & Development,Research Scientist,0.057,44.4,Low,0,relationship_satisfaction=1; stock_option_level=0; years_with_curr_manager=0
+446,Sales,Sales Executive,0.0449,36.9,Low,0,business_travel=Travel_Frequently; stock_option_level=0; education_field=Marketing
+1836,Sales,Sales Executive,0.0619,46.7,Low,0,stock_option_level=0; relationship_satisfaction=1; job_role=Sales Executive
+1298,Research & Development,Manufacturing Director,0.0507,40.6,Low,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=7
+631,Sales,Sales Executive,0.0436,36.1,Low,1,num_companies_worked=8; stock_option_level=0; department=Sales
+600,Sales,Sales Executive,0.1363,68.9,Low,0,num_companies_worked=9; stock_option_level=0; years_since_last_promotion=6
+957,Research & Development,Laboratory Technician,0.0759,53.1,Low,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+1586,Research & Development,Laboratory Technician,0.2284,80.7,Medium,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+1615,Research & Development,Manufacturing Director,0.0487,39.0,Low,0,business_travel=Travel_Frequently; years_since_last_promotion=7; relationship_satisfaction=1
+1387,Sales,Sales Executive,0.1118,63.8,Low,0,training_times_last_year=0; job_satisfaction=1; distance_from_home=26
+1113,Sales,Sales Executive,0.167,73.9,Medium,1,is_overtime=Yes; business_travel=Travel_Frequently; stock_option_level=0
+1668,Research & Development,Research Scientist,0.0225,15.7,Low,0,num_companies_worked=7; business_travel=Travel_Frequently; training_times_last_year=4
+475,Sales,Sales Executive,0.3172,86.4,Medium,0,is_overtime=Yes; num_companies_worked=7; distance_from_home=25
+171,Research & Development,Research Scientist,0.1193,65.3,Low,0,business_travel=Travel_Frequently; distance_from_home=28; stock_option_level=0
+390,Research & Development,Healthcare Representative,0.1249,66.3,Low,0,is_overtime=Yes; environment_satisfaction=1; business_travel=Travel_Frequently
+1478,Sales,Sales Executive,0.1981,77.6,Medium,0,job_involvement=1; stock_option_level=0; job_satisfaction=1
+920,Research & Development,Manufacturing Director,0.1027,61.2,Low,0,environment_satisfaction=1; years_with_curr_manager=0; years_at_company=1
+1158,Research & Development,Laboratory Technician,0.3001,85.6,Medium,0,is_overtime=Yes; relationship_satisfaction=1; years_with_curr_manager=0
+1481,Sales,Sales Executive,0.4286,90.7,High,0,environment_satisfaction=1; business_travel=Travel_Frequently; num_companies_worked=7
+1940,Research & Development,Research Scientist,0.012,4.4,Low,0,training_times_last_year=0; job_level=1; work_life_balance=4
+1870,Research & Development,Research Scientist,0.0451,37.0,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; years_since_last_promotion=7
+872,Research & Development,Manufacturing Director,0.2526,82.6,Medium,0,work_life_balance=1; num_companies_worked=6; relationship_satisfaction=1
+1033,Research & Development,Healthcare Representative,0.7243,96.6,High,1,job_involvement=1; environment_satisfaction=1; stock_option_level=0
+1428,Sales,Sales Executive,0.0576,44.8,Low,0,num_companies_worked=7; job_satisfaction=1; department=Sales
+846,Sales,Sales Executive,0.5566,93.9,High,0,is_overtime=Yes; stock_option_level=0; years_since_last_promotion=7
+2027,Research & Development,Research Scientist,0.3163,86.3,Medium,1,num_companies_worked=9; environment_satisfaction=1; is_overtime=Yes
+1886,Research & Development,Manufacturing Director,0.2387,81.4,Medium,0,is_overtime=Yes; stock_option_level=0; distance_from_home=16
+1509,Research & Development,Laboratory Technician,0.0528,41.8,Low,0,relationship_satisfaction=1; job_satisfaction=1; job_role=Laboratory Technician
+606,Sales,Sales Executive,0.0165,9.7,Low,0,years_since_last_promotion=3; department=Sales; job_role=Sales Executive
+138,Research & Development,Research Scientist,0.0203,13.2,Low,0,environment_satisfaction=1; stock_option_level=0
+550,Research & Development,Manufacturing Director,0.0137,6.1,Low,0,distance_from_home=18; work_life_balance=2
+423,Research & Development,Research Scientist,0.0609,46.1,Low,0,is_overtime=Yes; education_field=Technical Degree; job_level=1
+1052,Research & Development,Laboratory Technician,0.1439,69.9,Low,1,environment_satisfaction=1; num_companies_worked=7; years_with_curr_manager=0
+1542,Research & Development,Laboratory Technician,0.0376,31.4,Low,0,years_with_curr_manager=0; job_role=Laboratory Technician; years_at_company=1
+2046,Sales,Sales Executive,0.0761,53.3,Low,0,stock_option_level=0; num_companies_worked=8; distance_from_home=20
+707,Sales,Sales Executive,0.0142,6.9,Low,0,department=Sales; job_role=Sales Executive; total_working_years=4
+1573,Research & Development,Manufacturing Director,0.0192,12.5,Low,1,relationship_satisfaction=1; percent_salary_hike=11; num_companies_worked=4
+620,Sales,Sales Executive,0.069,50.1,Low,0,environment_satisfaction=1; stock_option_level=0; department=Sales
+450,Research & Development,Research Scientist,0.0624,47.1,Low,0,business_travel=Travel_Frequently; stock_option_level=0; distance_from_home=20
+287,Research & Development,Healthcare Representative,0.0762,53.3,Low,0,work_life_balance=1; num_companies_worked=9; total_working_years=5
+1599,Research & Development,Laboratory Technician,0.0571,44.6,Low,0,training_times_last_year=0; num_companies_worked=5; education_field=Technical Degree
+1622,Research & Development,Manufacturing Director,0.1519,71.4,Medium,0,job_involvement=1; distance_from_home=27; job_satisfaction=1
+2009,Research & Development,Healthcare Representative,0.1116,63.7,Low,0,is_overtime=Yes; relationship_satisfaction=1; years_since_last_promotion=8
+1309,Research & Development,Laboratory Technician,0.0179,11.0,Low,1,relationship_satisfaction=1; job_role=Laboratory Technician; education=2
+350,Research & Development,Manufacturing Director,0.0335,27.6,Low,0,environment_satisfaction=1; total_working_years=5; years_in_current_role=2
+1507,Sales,Sales Executive,0.0658,48.7,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; stock_option_level=0
+1483,Research & Development,Research Scientist,0.0072,0.5,Low,0,relationship_satisfaction=1; work_life_balance=2; training_times_last_year=2
+2018,Sales,Sales Executive,0.0955,59.0,Low,0,is_overtime=Yes; environment_satisfaction=1; job_role=Sales Executive
+387,Sales,Sales Executive,0.0333,27.4,Low,0,years_since_last_promotion=11; stock_option_level=0; job_role=Sales Executive
+916,Sales,Sales Executive,0.0357,29.3,Low,0,environment_satisfaction=1; stock_option_level=0; department=Sales
+1704,Research & Development,Research Scientist,0.2422,81.8,Medium,0,is_overtime=Yes; environment_satisfaction=1; stock_option_level=0
+869,Human Resources,Human Resources,0.0196,12.9,Low,0,job_involvement=2; department=Human Resources; job_level=1
+500,Sales,Sales Executive,0.0381,32.0,Low,0,distance_from_home=14; percent_salary_hike=11; department=Sales
+433,Research & Development,Research Scientist,0.0729,52.0,Low,1,stock_option_level=0; relationship_satisfaction=1; years_since_last_promotion=7
+178,Research & Development,Manufacturing Director,0.0356,29.2,Low,0,num_companies_worked=6; training_times_last_year=0; total_working_years=7
+1240,Sales,Sales Executive,0.0209,13.6,Low,0,stock_option_level=0; department=Sales; job_role=Sales Executive
+728,Sales,Sales Executive,0.0818,55.2,Low,0,stock_option_level=0; job_satisfaction=1; distance_from_home=14
+161,Research & Development,Research Scientist,0.3574,87.9,Medium,1,is_overtime=Yes; num_companies_worked=9; relationship_satisfaction=1
+1745,Research & Development,Research Scientist,0.2022,78.2,Medium,0,stock_option_level=0; business_travel=Travel_Frequently; education_field=Technical Degree
+1137,Sales,Sales Executive,0.0562,43.7,Low,0,business_travel=Travel_Frequently; education_field=Marketing; percent_salary_hike=11
+1037,Sales,Sales Executive,0.2892,85.0,Medium,1,job_involvement=1; distance_from_home=29; num_companies_worked=8
+1731,Sales,Sales Executive,0.1253,66.4,Low,0,work_life_balance=1; num_companies_worked=7; percent_salary_hike=11
+1235,Research & Development,Research Scientist,0.0798,54.6,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; stock_option_level=0
+128,Sales,Sales Executive,0.0322,25.8,Low,0,environment_satisfaction=1; relationship_satisfaction=1; department=Sales
+1956,Research & Development,Research Scientist,0.0818,55.2,Low,0,job_involvement=1; stock_option_level=0; business_travel=Travel_Frequently
+1025,Research & Development,Manufacturing Director,0.0222,15.1,Low,0,num_companies_worked=6; stock_option_level=0; years_at_company=2
+240,Sales,Sales Executive,0.0804,54.7,Low,0,is_overtime=Yes; relationship_satisfaction=1; job_satisfaction=1
+125,Sales,Sales Executive,0.1167,64.8,Low,0,training_times_last_year=0; stock_option_level=0; relationship_satisfaction=1
+103,Human Resources,Human Resources,0.0776,53.9,Low,0,is_overtime=Yes; num_companies_worked=8; department=Human Resources
+1903,Research & Development,Healthcare Representative,0.011,3.3,Low,0,job_satisfaction=1; years_in_current_role=0; years_at_company=2
+1633,Research & Development,Manufacturing Director,0.1004,60.6,Low,0,work_life_balance=1; business_travel=Travel_Frequently; stock_option_level=0
+439,Research & Development,Research Scientist,0.0501,39.7,Low,0,num_companies_worked=7; environment_satisfaction=1; stock_option_level=0
+1150,Research & Development,Manufacturing Director,0.0333,27.3,Low,0,is_overtime=Yes; job_involvement=2; work_life_balance=2
+1597,Research & Development,Healthcare Representative,0.1227,66.1,Low,0,business_travel=Travel_Frequently; education_field=Technical Degree; years_since_last_promotion=7
+987,Research & Development,Manufacturing Director,0.0952,58.9,Low,0,is_overtime=Yes; stock_option_level=0; distance_from_home=16
+574,Research & Development,Manufacturing Director,0.0565,44.1,Low,0,num_companies_worked=5; environment_satisfaction=1; stock_option_level=3
+1371,Sales,Sales Executive,0.1964,77.5,Medium,0,job_involvement=1; business_travel=Travel_Frequently; stock_option_level=0
+990,Sales,Sales Executive,0.0226,15.9,Low,0,environment_satisfaction=1; education_field=Technical Degree; department=Sales
+1943,Sales,Sales Executive,0.129,67.0,Low,0,is_overtime=Yes; distance_from_home=12; years_with_curr_manager=0
+771,Research & Development,Healthcare Representative,0.0581,44.9,Low,0,relationship_satisfaction=1; job_satisfaction=1; years_with_curr_manager=0
+832,Research & Development,Laboratory Technician,0.7125,96.3,High,0,environment_satisfaction=1; business_travel=Travel_Frequently; num_companies_worked=6
+2008,Research & Development,Research Scientist,0.0154,8.8,Low,0,stock_option_level=0; distance_from_home=9; education=4
+775,Research & Development,Manufacturing Director,0.0368,30.5,Low,0,job_satisfaction=1; years_with_curr_manager=0; years_at_company=0
+104,Research & Development,Laboratory Technician,0.0621,46.9,Low,0,is_overtime=Yes; years_with_curr_manager=0; training_times_last_year=1
+2,Research & Development,Research Scientist,0.0131,5.4,Low,0,business_travel=Travel_Frequently; job_involvement=2; job_satisfaction=2
+2025,Research & Development,Manufacturing Director,0.0427,35.6,Low,0,business_travel=Travel_Frequently; num_companies_worked=7; years_in_current_role=2
+1756,Sales,Sales Executive,0.0397,33.5,Low,0,num_companies_worked=8; stock_option_level=0; department=Sales
+1936,Research & Development,Manufacturing Director,0.0464,37.8,Low,0,environment_satisfaction=1; job_satisfaction=1; years_since_last_promotion=7
+1845,Sales,Sales Executive,0.0226,16.1,Low,0,years_since_last_promotion=5; department=Sales; job_role=Sales Executive
+1171,Sales,Sales Executive,0.1308,67.6,Low,0,num_companies_worked=7; stock_option_level=0; job_satisfaction=1
+842,Sales,Sales Executive,0.0376,31.3,Low,1,years_since_last_promotion=7; stock_option_level=0; job_role=Sales Executive
+139,Research & Development,Healthcare Representative,0.01,2.2,Low,0,num_companies_worked=5; years_with_curr_manager=0; job_involvement=2
+1254,Sales,Sales Executive,0.0531,42.0,Low,0,num_companies_worked=5; stock_option_level=0; department=Sales
+865,Research & Development,Research Scientist,0.0165,9.7,Low,0,num_companies_worked=5; work_life_balance=2; years_in_current_role=3
+1962,Sales,Sales Executive,0.1146,64.4,Low,0,is_overtime=Yes; stock_option_level=0; job_role=Sales Executive
+909,Human Resources,Human Resources,0.0226,15.9,Low,0,num_companies_worked=8; percent_salary_hike=11; job_involvement=2
+1653,Research & Development,Manufacturing Director,0.0101,2.5,Low,0,business_travel=Travel_Frequently; total_working_years=7; job_satisfaction=3
+1549,Research & Development,Laboratory Technician,0.0741,52.4,Low,0,is_overtime=Yes; distance_from_home=28; job_role=Laboratory Technician
+1621,Research & Development,Research Scientist,0.0279,21.7,Low,0,stock_option_level=0; job_satisfaction=1; distance_from_home=18
+121,Sales,Sales Executive,0.0618,46.5,Low,0,is_overtime=Yes; job_role=Sales Executive; department=Sales
+425,Research & Development,Laboratory Technician,0.0693,50.3,Low,0,environment_satisfaction=1; business_travel=Travel_Frequently; relationship_satisfaction=1
+1233,Sales,Sales Executive,0.0243,18.2,Low,0,is_overtime=Yes; job_role=Sales Executive; education_field=Marketing
+823,Research & Development,Manufacturing Director,0.0195,12.8,Low,0,relationship_satisfaction=1; job_satisfaction=2; training_times_last_year=2
+436,Sales,Sales Executive,0.2087,78.8,Medium,0,is_overtime=Yes; stock_option_level=0; years_since_last_promotion=11
+894,Research & Development,Laboratory Technician,0.0153,8.6,Low,0,is_overtime=Yes; job_role=Laboratory Technician; training_times_last_year=1
+13,Research & Development,Healthcare Representative,0.0329,26.5,Low,0,years_since_last_promotion=7; num_companies_worked=6; distance_from_home=27
+1736,Research & Development,Manufacturing Director,0.0984,59.9,Low,0,business_travel=Travel_Frequently; stock_option_level=0; education_field=Technical Degree
+445,Sales,Sales Executive,0.2374,81.2,Medium,1,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+361,Sales,Sales Executive,0.014,6.7,Low,0,training_times_last_year=0; years_since_last_promotion=7; department=Sales
+498,Sales,Sales Executive,0.03,24.0,Low,0,stock_option_level=0; department=Sales; job_role=Sales Executive
+448,Research & Development,Laboratory Technician,0.0485,38.8,Low,0,business_travel=Travel_Frequently; years_with_curr_manager=0; percent_salary_hike=11
+487,Research & Development,Manufacturing Director,0.0237,17.3,Low,0,stock_option_level=0; years_with_curr_manager=0; years_at_company=1
+270,Research & Development,Manufacturing Director,0.0084,1.1,Low,0,distance_from_home=21; years_in_current_role=3; percent_salary_hike=16
+1763,Research & Development,Healthcare Representative,0.0112,3.5,Low,0,distance_from_home=16; years_in_current_role=0; percent_salary_hike=16
+1654,Research & Development,Manufacturing Director,0.0728,51.9,Low,0,stock_option_level=0; years_with_curr_manager=0; distance_from_home=12
+476,Sales,Sales Executive,0.0199,13.0,Low,0,years_since_last_promotion=7; department=Sales; job_role=Sales Executive
+1479,Sales,Sales Executive,0.0721,51.6,Low,0,num_companies_worked=8; distance_from_home=16; department=Sales
+747,Sales,Sales Executive,0.1583,72.5,Medium,0,years_since_last_promotion=7; distance_from_home=27; num_companies_worked=7
+502,Sales,Sales Executive,0.2564,82.8,Medium,1,is_overtime=Yes; num_companies_worked=8; environment_satisfaction=1
+772,Research & Development,Laboratory Technician,0.0619,46.6,Low,0,environment_satisfaction=1; business_travel=Travel_Frequently; distance_from_home=24
+1997,Research & Development,Manufacturing Director,0.0382,32.1,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; years_since_last_promotion=7
+819,Sales,Sales Executive,0.4408,91.1,High,1,environment_satisfaction=1; num_companies_worked=5; job_satisfaction=1
+796,Sales,Sales Executive,0.2582,82.9,Medium,1,num_companies_worked=6; stock_option_level=0; job_satisfaction=1
+107,Research & Development,Research Scientist,0.0936,58.4,Low,0,num_companies_worked=7; job_involvement=1; is_overtime=Yes
+1613,Sales,Sales Executive,0.1087,62.7,Low,0,stock_option_level=0; num_companies_worked=7; job_satisfaction=1
+621,Sales,Sales Executive,0.0462,37.6,Low,0,stock_option_level=0; distance_from_home=21; job_role=Sales Executive
+2041,Sales,Sales Executive,0.0182,11.4,Low,0,environment_satisfaction=1; percent_salary_hike=11; department=Sales
+1184,Research & Development,Healthcare Representative,0.0707,51.1,Low,0,job_satisfaction=1; stock_option_level=0; business_travel=Travel_Frequently
+1807,Research & Development,Laboratory Technician,0.0336,27.9,Low,1,business_travel=Travel_Frequently; job_satisfaction=1; job_role=Laboratory Technician
+1188,Sales,Sales Executive,0.8191,98.2,High,1,job_involvement=1; environment_satisfaction=1; num_companies_worked=8
+1682,Research & Development,Healthcare Representative,0.0511,41.0,Low,0,environment_satisfaction=1; num_companies_worked=6; distance_from_home=26
+1369,Research & Development,Laboratory Technician,0.0282,22.1,Low,0,training_times_last_year=0; years_with_curr_manager=0; job_role=Laboratory Technician
+1681,Sales,Sales Executive,0.0904,57.4,Low,0,is_overtime=Yes; distance_from_home=16; job_role=Sales Executive
+1954,Research & Development,Healthcare Representative,0.0328,26.5,Low,0,environment_satisfaction=1; relationship_satisfaction=1; job_satisfaction=1
+52,Sales,Sales Executive,0.0233,16.9,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; relationship_satisfaction=1
+1618,Research & Development,Manufacturing Director,0.0278,21.5,Low,0,years_since_last_promotion=7; job_satisfaction=1; education=5
+1935,Sales,Sales Executive,0.0759,53.2,Low,0,job_satisfaction=1; years_with_curr_manager=0; department=Sales
+64,Research & Development,Laboratory Technician,0.2719,84.0,Medium,1,environment_satisfaction=1; is_overtime=Yes; num_companies_worked=9
+2065,Sales,Sales Executive,0.0501,39.7,Low,0,stock_option_level=0; business_travel=Travel_Frequently; department=Sales
+722,Sales,Sales Executive,0.0281,22.0,Low,0,stock_option_level=0; education_field=Marketing; department=Sales
+1922,Research & Development,Healthcare Representative,0.0392,33.0,Low,0,business_travel=Travel_Frequently; stock_option_level=0; num_companies_worked=4
+1835,Sales,Sales Representative,0.164,73.3,Medium,0,job_involvement=1; is_overtime=Yes; job_role=Sales Representative
+732,Sales,Sales Executive,0.5796,93.9,High,0,environment_satisfaction=1; stock_option_level=0; num_companies_worked=8
+2036,Sales,Sales Executive,0.1057,61.8,Low,0,job_involvement=1; years_since_last_promotion=11; relationship_satisfaction=1
+1998,Research & Development,Research Scientist,0.1085,62.5,Low,0,is_overtime=Yes; num_companies_worked=6; distance_from_home=18
+1294,Research & Development,Manufacturing Director,0.1487,71.0,Medium,0,is_overtime=Yes; num_companies_worked=9; stock_option_level=0
+389,Research & Development,Laboratory Technician,0.1318,67.8,Low,0,is_overtime=Yes; education_field=Technical Degree; distance_from_home=20
+1377,Research & Development,Laboratory Technician,0.1304,67.3,Low,0,distance_from_home=29; relationship_satisfaction=1; years_since_last_promotion=7
+1658,Research & Development,Research Scientist,0.013,5.3,Low,0,years_since_last_promotion=7; training_times_last_year=2; years_in_current_role=8
+1645,Sales,Sales Executive,0.6236,94.8,High,1,job_involvement=1; environment_satisfaction=1; is_overtime=Yes
+120,Sales,Sales Executive,0.6759,95.9,High,0,is_overtime=Yes; stock_option_level=0; distance_from_home=21
+68,Sales,Sales Executive,0.189,76.7,Medium,0,is_overtime=Yes; num_companies_worked=5; job_satisfaction=1
+653,Sales,Sales Executive,0.0327,26.3,Low,0,environment_satisfaction=1; work_life_balance=4; years_since_last_promotion=5
+1392,Research & Development,Research Scientist,0.111,63.4,Low,0,is_overtime=Yes; relationship_satisfaction=1; business_travel=Travel_Frequently
+1934,Research & Development,Research Scientist,0.0193,12.6,Low,0,num_companies_worked=8; education_field=Technical Degree; distance_from_home=14
+1784,Sales,Sales Executive,0.1524,71.4,Medium,0,distance_from_home=29; environment_satisfaction=1; relationship_satisfaction=1
+1671,Research & Development,Research Scientist,0.0082,1.0,Low,0,work_life_balance=2; job_satisfaction=2; training_times_last_year=4
+1018,Research & Development,Manufacturing Director,0.0134,5.6,Low,0,stock_option_level=0; training_times_last_year=2; years_in_current_role=7
+1548,Sales,Sales Executive,0.1962,77.4,Medium,0,stock_option_level=0; environment_satisfaction=1; years_since_last_promotion=7
+91,Sales,Sales Executive,0.3754,88.6,Medium,0,num_companies_worked=7; environment_satisfaction=1; business_travel=Travel_Frequently
+1673,Sales,Sales Executive,0.0319,25.5,Low,0,environment_satisfaction=1; relationship_satisfaction=1; percent_salary_hike=11
+408,Research & Development,Manufacturing Director,0.034,28.3,Low,0,job_involvement=1; num_companies_worked=5; years_in_current_role=1
+420,Sales,Sales Executive,0.0153,8.5,Low,0,department=Sales; years_since_last_promotion=4; job_role=Sales Executive
+1580,Research & Development,Research Scientist,0.0165,9.8,Low,0,num_companies_worked=9; work_life_balance=2; years_at_company=2
+799,Research & Development,Manufacturing Director,0.1015,61.0,Low,0,is_overtime=Yes; num_companies_worked=9; distance_from_home=19
+1466,Sales,Sales Executive,0.0585,45.0,Low,0,relationship_satisfaction=1; job_satisfaction=1; percent_salary_hike=11
+1924,Sales,Sales Executive,0.061,46.2,Low,0,stock_option_level=0; education_field=Marketing; department=Sales
+998,Research & Development,Healthcare Representative,0.0458,37.4,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; relationship_satisfaction=1
+1670,Sales,Sales Executive,0.0107,3.1,Low,0,department=Sales; job_role=Sales Executive; total_working_years=6
+1908,Sales,Sales Executive,0.0525,41.6,Low,0,work_life_balance=1; distance_from_home=17; job_role=Sales Executive
+1803,Research & Development,Healthcare Representative,0.0505,40.3,Low,0,job_satisfaction=1; num_companies_worked=5; years_with_curr_manager=0
+690,Sales,Sales Executive,0.0394,33.2,Low,0,relationship_satisfaction=1; department=Sales; job_role=Sales Executive
+1945,Sales,Sales Executive,0.1974,77.6,Medium,0,work_life_balance=1; job_satisfaction=1; distance_from_home=18
+1727,Research & Development,Healthcare Representative,0.0225,15.6,Low,0,num_companies_worked=6; stock_option_level=0; distance_from_home=13
+1594,Research & Development,Laboratory Technician,0.1921,77.2,Medium,0,environment_satisfaction=1; is_overtime=Yes; business_travel=Travel_Frequently
+902,Research & Development,Healthcare Representative,0.0177,10.7,Low,0,business_travel=Travel_Frequently; work_life_balance=2; num_companies_worked=4
+630,Research & Development,Research Scientist,0.0256,19.2,Low,0,is_overtime=Yes; education_field=Technical Degree; years_since_last_promotion=6
+367,Research & Development,Healthcare Representative,0.0348,28.9,Low,0,years_since_last_promotion=7; distance_from_home=23; job_involvement=2
+1117,Sales,Sales Executive,0.0084,1.2,Low,0,department=Sales; job_role=Sales Executive; years_since_last_promotion=4
+382,Sales,Sales Executive,0.1335,68.2,Low,0,is_overtime=Yes; environment_satisfaction=1; years_since_last_promotion=7
+202,Research & Development,Research Scientist,0.0623,47.0,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; distance_from_home=26
+1967,Sales,Sales Executive,0.3728,88.3,Medium,1,is_overtime=Yes; distance_from_home=26; environment_satisfaction=1
+1436,Sales,Sales Executive,0.1662,73.8,Medium,0,job_satisfaction=1; relationship_satisfaction=1; distance_from_home=16
+422,Research & Development,Healthcare Representative,0.022,14.8,Low,0,is_overtime=Yes; job_involvement=1; job_satisfaction=3
+412,Research & Development,Healthcare Representative,0.0478,38.4,Low,0,stock_option_level=0; job_satisfaction=1; distance_from_home=16
+983,Sales,Sales Executive,0.1365,69.0,Low,0,is_overtime=Yes; stock_option_level=0; education_field=Technical Degree
+1880,Sales,Sales Executive,0.0794,54.4,Low,0,is_overtime=Yes; relationship_satisfaction=1; education_field=Technical Degree
+419,Research & Development,Laboratory Technician,0.018,11.2,Low,0,num_companies_worked=7; distance_from_home=24; job_role=Laboratory Technician
+1849,Sales,Sales Executive,0.048,38.6,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; years_since_last_promotion=7
+1986,Sales,Sales Executive,0.0153,8.8,Low,0,department=Sales; years_since_last_promotion=5; education_field=Marketing
+663,Research & Development,Laboratory Technician,0.0756,53.1,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; job_role=Laboratory Technician
+2049,Research & Development,Healthcare Representative,0.0944,58.7,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; distance_from_home=18
+1163,Sales,Sales Executive,0.0787,54.4,Low,0,stock_option_level=0; relationship_satisfaction=1; job_role=Sales Executive
+516,Sales,Sales Executive,0.0212,13.8,Low,0,num_companies_worked=7; department=Sales; education_field=Marketing
+1161,Research & Development,Healthcare Representative,0.0402,34.0,Low,0,num_companies_worked=7; distance_from_home=25; job_involvement=2
+1929,Sales,Sales Executive,0.2667,83.5,Medium,0,job_involvement=1; environment_satisfaction=1; num_companies_worked=6
+1642,Human Resources,Human Resources,0.1711,74.5,Medium,0,is_overtime=Yes; environment_satisfaction=1; business_travel=Travel_Frequently
+142,Sales,Sales Executive,0.1943,77.3,Medium,1,is_overtime=Yes; stock_option_level=0; education_field=Marketing
+393,Research & Development,Healthcare Representative,0.0216,14.6,Low,0,num_companies_worked=9; distance_from_home=23; years_at_company=2
+1932,Research & Development,Research Scientist,0.1579,72.4,Medium,0,is_overtime=Yes; stock_option_level=0; distance_from_home=22
+1804,Research & Development,Manufacturing Director,0.0057,0.1,Low,0,years_in_current_role=7; education=2
+1487,Sales,Sales Executive,0.6841,95.9,High,1,work_life_balance=1; environment_satisfaction=1; num_companies_worked=5
+1631,Research & Development,Manufacturing Director,0.0687,49.9,Low,0,relationship_satisfaction=1; distance_from_home=19; work_life_balance=2
+1403,Sales,Sales Executive,0.2963,85.2,Medium,0,is_overtime=Yes; stock_option_level=0; education_field=Marketing
+1611,Research & Development,Laboratory Technician,0.2896,85.0,Medium,0,stock_option_level=0; job_involvement=1; is_overtime=Yes
+1635,Research & Development,Manufacturing Director,0.0204,13.3,Low,0,relationship_satisfaction=1; job_involvement=2; years_since_last_promotion=3
+62,Sales,Sales Executive,0.3085,86.0,Medium,0,is_overtime=Yes; environment_satisfaction=1; stock_option_level=0
+441,Research & Development,Research Scientist,0.0136,5.9,Low,0,distance_from_home=28; training_times_last_year=2; years_in_current_role=8
+1435,Research & Development,Laboratory Technician,0.0562,43.8,Low,0,environment_satisfaction=1; stock_option_level=0; job_role=Laboratory Technician
+1766,Research & Development,Healthcare Representative,0.1079,62.4,Low,0,is_overtime=Yes; job_involvement=1; distance_from_home=18
+1797,Sales,Sales Executive,0.1453,70.3,Medium,1,is_overtime=Yes; distance_from_home=27; years_since_last_promotion=7
+401,Sales,Sales Executive,0.434,90.8,High,1,is_overtime=Yes; training_times_last_year=0; years_since_last_promotion=7
+961,Research & Development,Healthcare Representative,0.1469,70.7,Medium,0,is_overtime=Yes; years_since_last_promotion=8; work_life_balance=1
+1650,Sales,Sales Executive,0.1244,66.3,Low,0,num_companies_worked=9; stock_option_level=0; department=Sales
+1555,Research & Development,Research Scientist,0.0184,11.6,Low,0,relationship_satisfaction=1; job_involvement=2; years_in_current_role=1
+182,Sales,Sales Executive,0.0262,19.7,Low,0,training_times_last_year=1; department=Sales; job_role=Sales Executive
+1888,Research & Development,Manufacturing Director,0.0143,7.1,Low,0,distance_from_home=25; years_since_last_promotion=3; job_involvement=2
+304,Research & Development,Laboratory Technician,0.0301,24.2,Low,0,num_companies_worked=8; stock_option_level=0; job_role=Laboratory Technician
+76,Research & Development,Laboratory Technician,0.0103,2.7,Low,0,job_role=Laboratory Technician; work_life_balance=2; years_in_current_role=7
+261,Research & Development,Manufacturing Director,0.288,84.8,Medium,1,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+852,Research & Development,Healthcare Representative,0.0385,32.4,Low,0,num_companies_worked=9; stock_option_level=0; work_life_balance=2
+303,Sales,Sales Executive,0.0234,17.1,Low,0,job_satisfaction=1; department=Sales; education_field=Marketing
+339,Research & Development,Manufacturing Director,0.0362,29.8,Low,0,num_companies_worked=6; job_satisfaction=1; job_involvement=2
+1970,Research & Development,Healthcare Representative,0.0111,3.5,Low,0,business_travel=Travel_Frequently; job_satisfaction=3; education=2
+474,Research & Development,Research Scientist,0.0568,44.3,Low,0,is_overtime=Yes; relationship_satisfaction=1; years_since_last_promotion=6
+803,Research & Development,Manufacturing Director,0.1637,73.1,Medium,0,is_overtime=Yes; environment_satisfaction=1; num_companies_worked=6
+665,Human Resources,Human Resources,0.0999,60.4,Low,0,environment_satisfaction=1; stock_option_level=0; training_times_last_year=1
+1,Sales,Sales Executive,0.5105,92.9,High,1,is_overtime=Yes; work_life_balance=1; num_companies_worked=8
+77,Research & Development,Manufacturing Director,0.0215,14.4,Low,0,environment_satisfaction=1; work_life_balance=4; job_involvement=2
+1779,Sales,Sales Executive,0.4463,91.2,High,0,job_involvement=1; num_companies_worked=5; stock_option_level=0
+466,Research & Development,Manufacturing Director,0.1055,61.7,Low,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=6
+827,Research & Development,Manufacturing Director,0.0262,19.8,Low,0,is_overtime=Yes; num_companies_worked=9; job_involvement=2
+147,Research & Development,Laboratory Technician,0.3407,87.5,Medium,1,job_involvement=1; environment_satisfaction=1; is_overtime=Yes
+1563,Human Resources,Human Resources,0.0859,56.4,Low,0,business_travel=Travel_Frequently; stock_option_level=0; education_field=Human Resources
+548,Research & Development,Manufacturing Director,0.028,21.8,Low,0,job_involvement=1; stock_option_level=0; training_times_last_year=2
+456,Sales,Sales Executive,0.0257,19.3,Low,0,education_field=Marketing; department=Sales; job_role=Sales Executive
+1390,Sales,Sales Executive,0.2683,83.8,Medium,0,is_overtime=Yes; environment_satisfaction=1; distance_from_home=21
+1356,Sales,Sales Executive,0.1927,77.3,Medium,0,stock_option_level=0; years_since_last_promotion=9; job_satisfaction=1
+211,Research & Development,Manufacturing Director,0.0282,22.2,Low,0,stock_option_level=0; years_with_curr_manager=0; years_at_company=1
+1733,Sales,Sales Executive,0.2458,82.1,Medium,1,is_overtime=Yes; num_companies_worked=5; distance_from_home=13
+757,Research & Development,Healthcare Representative,0.0364,30.1,Low,0,stock_option_level=0; percent_salary_hike=11; years_since_last_promotion=4
+1587,Research & Development,Healthcare Representative,0.1722,74.8,Medium,0,is_overtime=Yes; environment_satisfaction=1; stock_option_level=0
+2064,Research & Development,Manufacturing Director,0.0369,30.5,Low,0,is_overtime=Yes; training_times_last_year=0; job_satisfaction=2
+160,Sales,Sales Executive,0.036,29.6,Low,0,relationship_satisfaction=1; distance_from_home=22; education_field=Marketing
+1329,Sales,Sales Executive,0.2145,79.5,Medium,0,job_involvement=1; stock_option_level=0; years_since_last_promotion=11
+830,Research & Development,Manufacturing Director,0.0121,4.6,Low,0,years_since_last_promotion=6; job_involvement=2
+78,Research & Development,Manufacturing Director,0.0856,56.3,Low,0,is_overtime=Yes; environment_satisfaction=1; years_since_last_promotion=7
+163,Sales,Sales Executive,0.5056,92.7,High,1,is_overtime=Yes; job_involvement=1; stock_option_level=0
+1389,Research & Development,Manufacturing Director,0.0502,39.8,Low,1,is_overtime=Yes; distance_from_home=22; years_since_last_promotion=6
+781,Sales,Sales Executive,0.0493,39.1,Low,0,stock_option_level=0; distance_from_home=26; job_role=Sales Executive
+857,Sales,Sales Executive,0.0425,35.5,Low,0,is_overtime=Yes; job_role=Sales Executive; training_times_last_year=1
+1304,Sales,Sales Executive,0.0143,7.1,Low,0,job_role=Sales Executive; department=Sales; years_in_current_role=7
+458,Sales,Sales Executive,0.0403,34.1,Low,0,relationship_satisfaction=1; education_field=Marketing; job_role=Sales Executive
+96,Research & Development,Research Scientist,0.01,2.2,Low,0,job_satisfaction=2; years_in_current_role=4
+599,Sales,Sales Executive,0.0323,26.1,Low,0,num_companies_worked=7; stock_option_level=0; job_role=Sales Executive
+1399,Sales,Sales Executive,0.158,72.4,Medium,0,stock_option_level=0; environment_satisfaction=1; distance_from_home=18
+936,Sales,Sales Executive,0.2048,78.4,Medium,0,num_companies_worked=7; stock_option_level=0; relationship_satisfaction=1
+273,Research & Development,Manufacturing Director,0.0542,42.4,Low,0,work_life_balance=1; relationship_satisfaction=1; distance_from_home=29
+641,Sales,Sales Executive,0.1375,69.3,Low,0,environment_satisfaction=1; distance_from_home=28; education_field=Marketing
+1231,Human Resources,Human Resources,0.0367,30.3,Low,0,relationship_satisfaction=1; num_companies_worked=7; job_satisfaction=1
+786,Sales,Sales Executive,0.0124,4.8,Low,0,stock_option_level=0; department=Sales; job_role=Sales Executive
+837,Research & Development,Healthcare Representative,0.0876,57.1,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; job_satisfaction=1
+1753,Research & Development,Healthcare Representative,0.1071,62.3,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; stock_option_level=0
+2026,Research & Development,Healthcare Representative,0.01,2.3,Low,0,relationship_satisfaction=1; work_life_balance=2; training_times_last_year=2
+679,Research & Development,Research Scientist,0.0456,37.3,Low,0,is_overtime=Yes; environment_satisfaction=1; total_working_years=6
+1985,Research & Development,Laboratory Technician,0.3068,85.9,Medium,0,business_travel=Travel_Frequently; relationship_satisfaction=1; education_field=Technical Degree
+868,Sales,Sales Executive,0.0378,31.7,Low,0,distance_from_home=16; years_with_curr_manager=0; job_role=Sales Executive
+460,Research & Development,Manufacturing Director,0.014,6.4,Low,0,num_companies_worked=7; work_life_balance=2; percent_salary_hike=16
+1040,Sales,Sales Executive,0.0102,2.7,Low,0,relationship_satisfaction=1; department=Sales; job_role=Sales Executive
+184,Human Resources,Human Resources,0.0551,42.9,Low,0,is_overtime=Yes; stock_option_level=0; work_life_balance=1
+449,Sales,Sales Executive,0.0735,52.2,Low,0,is_overtime=Yes; training_times_last_year=0; education_field=Marketing
+1375,Research & Development,Healthcare Representative,0.0448,36.7,Low,0,num_companies_worked=5; training_times_last_year=0; years_since_last_promotion=11
+492,Sales,Sales Executive,0.2517,82.4,Medium,1,is_overtime=Yes; distance_from_home=22; relationship_satisfaction=1
+1859,Research & Development,Healthcare Representative,0.0633,47.6,Low,0,job_involvement=1; num_companies_worked=8; distance_from_home=29
+1034,Research & Development,Healthcare Representative,0.0384,32.4,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; distance_from_home=18
+1515,Research & Development,Healthcare Representative,0.2246,80.4,Medium,0,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+760,Human Resources,Human Resources,0.0656,48.6,Low,0,num_companies_worked=9; work_life_balance=1; department=Human Resources
+1560,Sales,Sales Executive,0.1262,66.7,Low,0,work_life_balance=1; environment_satisfaction=1; job_satisfaction=1
+384,Research & Development,Manufacturing Director,0.0663,49.0,Low,0,work_life_balance=1; business_travel=Travel_Frequently; relationship_satisfaction=1
+785,Sales,Sales Executive,0.3286,86.9,Medium,1,is_overtime=Yes; distance_from_home=27; stock_option_level=0
+424,Human Resources,Human Resources,0.2559,82.7,Medium,0,environment_satisfaction=1; job_satisfaction=1; stock_option_level=0
+1722,Human Resources,Human Resources,0.0126,5.1,Low,0,job_involvement=1; num_companies_worked=6; department=Human Resources
+341,Research & Development,Manufacturing Director,0.0305,24.6,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; training_times_last_year=1
+1557,Sales,Sales Executive,0.0571,44.6,Low,0,num_companies_worked=8; years_since_last_promotion=7; distance_from_home=16
+635,Research & Development,Manufacturing Director,0.023,16.5,Low,0,num_companies_worked=6; years_since_last_promotion=4; work_life_balance=2
+40,Research & Development,Healthcare Representative,0.0411,34.4,Low,0,is_overtime=Yes; stock_option_level=0; years_in_current_role=2
+1737,Research & Development,Laboratory Technician,0.0176,10.6,Low,0,is_overtime=Yes; years_since_last_promotion=5; job_role=Laboratory Technician
+1196,Research & Development,Manufacturing Director,0.0095,1.8,Low,0,job_involvement=2; years_since_last_promotion=3; work_life_balance=2
+85,Research & Development,Manufacturing Director,0.0748,52.8,Low,0,business_travel=Travel_Frequently; stock_option_level=0; distance_from_home=11
+1898,Sales,Sales Executive,0.0337,28.0,Low,0,environment_satisfaction=1; stock_option_level=0; job_role=Sales Executive
+808,Sales,Sales Executive,0.0564,43.9,Low,0,num_companies_worked=5; job_satisfaction=1; department=Sales
+378,Sales,Sales Executive,0.0196,12.9,Low,0,department=Sales; job_role=Sales Executive; num_companies_worked=4
+1822,Research & Development,Healthcare Representative,0.0119,4.3,Low,0,num_companies_worked=4; years_in_current_role=3
+1724,Research & Development,Manufacturing Director,0.0333,27.2,Low,0,is_overtime=Yes; job_satisfaction=1; years_with_curr_manager=0
+889,Sales,Sales Executive,0.0366,30.3,Low,0,business_travel=Travel_Frequently; job_role=Sales Executive; department=Sales
+523,Sales,Sales Executive,0.0401,33.9,Low,0,num_companies_worked=9; relationship_satisfaction=1; department=Sales
+496,Research & Development,Healthcare Representative,0.0517,41.3,Low,0,num_companies_worked=9; stock_option_level=0; years_with_curr_manager=0
+347,Research & Development,Research Scientist,0.145,70.2,Medium,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+1514,Research & Development,Manufacturing Director,0.0747,52.7,Low,0,job_involvement=1; distance_from_home=29; work_life_balance=2
+271,Research & Development,Manufacturing Director,0.0485,38.9,Low,0,num_companies_worked=9; stock_option_level=0; years_with_curr_manager=0
+170,Research & Development,Manufacturing Director,0.1064,62.0,Low,0,job_satisfaction=1; stock_option_level=0; distance_from_home=20
+533,Sales,Sales Executive,0.041,34.4,Low,0,stock_option_level=0; education_field=Technical Degree; distance_from_home=12
+1179,Sales,Sales Executive,0.0372,30.7,Low,0,relationship_satisfaction=1; education_field=Marketing; job_role=Sales Executive
+604,Sales,Sales Executive,0.0642,48.0,Low,0,is_overtime=Yes; stock_option_level=0; job_role=Sales Executive
+1912,Sales,Sales Executive,0.0729,52.0,Low,0,is_overtime=Yes; percent_salary_hike=11; job_role=Sales Executive
+924,Research & Development,Healthcare Representative,0.0401,33.9,Low,0,is_overtime=Yes; relationship_satisfaction=1; distance_from_home=14
+1260,Research & Development,Healthcare Representative,0.0332,27.1,Low,0,is_overtime=Yes; years_with_curr_manager=0; percent_salary_hike=11
+783,Sales,Sales Representative,0.2531,82.7,Medium,0,job_involvement=1; stock_option_level=0; education_field=Technical Degree
+366,Sales,Sales Executive,0.088,57.2,Low,0,environment_satisfaction=1; years_with_curr_manager=0; years_at_company=0
+691,Research & Development,Research Scientist,0.0707,51.2,Low,0,job_involvement=1; years_since_last_promotion=11; stock_option_level=0
+1473,Research & Development,Healthcare Representative,0.0456,37.2,Low,0,training_times_last_year=0; environment_satisfaction=1; education_field=Technical Degree
+2045,Sales,Sales Executive,0.0646,48.2,Low,0,relationship_satisfaction=1; years_with_curr_manager=0; job_role=Sales Executive
+479,Sales,Sales Executive,0.0194,12.7,Low,0,stock_option_level=0; years_with_curr_manager=0; department=Sales
+1955,Research & Development,Healthcare Representative,0.0085,1.3,Low,0,num_companies_worked=5; distance_from_home=15; years_in_current_role=1
+282,Research & Development,Healthcare Representative,0.3965,89.5,Medium,1,is_overtime=Yes; distance_from_home=29; stock_option_level=0
+1315,Research & Development,Laboratory Technician,0.0146,7.6,Low,0,job_involvement=1; years_since_last_promotion=7; relationship_satisfaction=1
+1383,Research & Development,Healthcare Representative,0.0263,20.0,Low,0,education_field=Technical Degree; stock_option_level=0; years_since_last_promotion=4
+1105,Sales,Sales Executive,0.0488,39.0,Low,0,is_overtime=Yes; years_with_curr_manager=0; job_role=Sales Executive
+299,Sales,Sales Executive,0.3104,86.1,Medium,1,business_travel=Travel_Frequently; job_satisfaction=1; stock_option_level=0
+2035,Sales,Sales Executive,0.17,74.2,Medium,0,distance_from_home=28; education_field=Marketing; job_role=Sales Executive
+966,Research & Development,Manufacturing Director,0.0391,32.7,Low,0,years_since_last_promotion=6; job_satisfaction=1; education=4
+2044,Sales,Sales Executive,0.0229,16.4,Low,1,business_travel=Travel_Frequently; num_companies_worked=7; department=Sales
+1734,Sales,Sales Executive,0.6471,95.2,High,1,job_involvement=1; environment_satisfaction=1; num_companies_worked=6
+482,Research & Development,Healthcare Representative,0.0277,21.4,Low,0,stock_option_level=0; percent_salary_hike=11; years_in_current_role=2
+477,Research & Development,Healthcare Representative,0.0642,47.9,Low,0,environment_satisfaction=1; stock_option_level=0; years_with_curr_manager=0
+1132,Research & Development,Laboratory Technician,0.0359,29.5,Low,0,num_companies_worked=9; stock_option_level=0; job_role=Laboratory Technician
+723,Sales,Sales Executive,0.1136,64.1,Low,1,is_overtime=Yes; relationship_satisfaction=1; business_travel=Travel_Frequently
+1823,Sales,Sales Executive,0.0265,20.3,Low,0,education_field=Technical Degree; job_role=Sales Executive; years_since_last_promotion=4
+275,Research & Development,Manufacturing Director,0.0731,52.2,Low,0,is_overtime=Yes; training_times_last_year=0; relationship_satisfaction=1
+754,Sales,Sales Executive,0.0395,33.3,Low,0,business_travel=Travel_Frequently; distance_from_home=15; job_role=Sales Executive
+764,Research & Development,Healthcare Representative,0.2633,83.3,Medium,0,work_life_balance=1; job_satisfaction=1; stock_option_level=0
+616,Research & Development,Healthcare Representative,0.1334,68.1,Low,0,is_overtime=Yes; stock_option_level=0; environment_satisfaction=1
+1252,Research & Development,Healthcare Representative,0.1884,76.7,Medium,0,stock_option_level=0; job_satisfaction=1; distance_from_home=24
+1585,Sales,Sales Executive,0.083,55.7,Low,0,num_companies_worked=6; stock_option_level=0; relationship_satisfaction=1
+35,Sales,Sales Executive,0.0509,41.0,Low,0,percent_salary_hike=11; education_field=Marketing; job_role=Sales Executive
+1251,Research & Development,Healthcare Representative,0.1262,66.6,Low,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+1927,Sales,Sales Executive,0.0657,48.6,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; department=Sales
+1664,Research & Development,Healthcare Representative,0.0157,9.0,Low,0,num_companies_worked=6; job_satisfaction=1; relationship_satisfaction=1
+1239,Sales,Sales Executive,0.0983,59.7,Low,0,num_companies_worked=7; education_field=Technical Degree; department=Sales
+1830,Research & Development,Research Scientist,0.0114,3.7,Low,0,work_life_balance=2; num_companies_worked=4; years_in_current_role=1
+1036,Sales,Sales Executive,0.1817,76.1,Medium,0,is_overtime=Yes; num_companies_worked=8; stock_option_level=0
+1814,Research & Development,Healthcare Representative,0.0834,55.9,Low,0,work_life_balance=1; stock_option_level=0; relationship_satisfaction=1
+833,Research & Development,Manufacturing Director,0.1869,76.6,Medium,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=5
+1728,Research & Development,Manufacturing Director,0.0097,2.0,Low,0,distance_from_home=27; percent_salary_hike=16; education=4
+1355,Sales,Sales Executive,0.0214,14.1,Low,0,job_satisfaction=1; department=Sales; job_role=Sales Executive
+416,Sales,Sales Executive,0.0706,51.0,Low,0,years_since_last_promotion=7; education_field=Technical Degree; job_role=Sales Executive
+349,Sales,Sales Executive,0.0226,15.8,Low,0,distance_from_home=20; education_field=Marketing; job_role=Sales Executive
+947,Sales,Sales Executive,0.0331,26.8,Low,0,distance_from_home=20; years_with_curr_manager=0; education_field=Marketing
+969,Research & Development,Healthcare Representative,0.036,29.5,Low,0,relationship_satisfaction=1; stock_option_level=0; job_involvement=2
+1847,Research & Development,Research Scientist,0.0231,16.7,Low,0,is_overtime=Yes; years_with_curr_manager=0; years_at_company=1
+1689,Research & Development,Healthcare Representative,0.037,30.6,Low,0,stock_option_level=0; distance_from_home=24; training_times_last_year=2
+1678,Sales,Sales Executive,0.2299,80.9,Medium,0,is_overtime=Yes; distance_from_home=23; stock_option_level=0
+1535,Sales,Sales Executive,0.3242,86.7,Medium,0,is_overtime=Yes; stock_option_level=0; years_since_last_promotion=8
+1312,Research & Development,Healthcare Representative,0.1995,77.8,Medium,0,stock_option_level=0; training_times_last_year=0; relationship_satisfaction=1
+677,Sales,Sales Executive,0.0412,34.5,Low,0,stock_option_level=0; education_field=Marketing; department=Sales
+1099,Research & Development,Healthcare Representative,0.0093,1.7,Low,0,job_involvement=2; num_companies_worked=4; percent_salary_hike=15
+1754,Sales,Sales Executive,0.23,81.0,Medium,0,relationship_satisfaction=1; job_satisfaction=1; distance_from_home=15
+462,Research & Development,Manufacturing Director,0.0515,41.1,Low,0,is_overtime=Yes; stock_option_level=0; years_since_last_promotion=4
+112,Research & Development,Manufacturing Director,0.1702,74.3,Medium,0,job_involvement=1; relationship_satisfaction=1; stock_option_level=0
+982,Sales,Sales Executive,0.0924,57.8,Low,0,num_companies_worked=5; years_since_last_promotion=7; relationship_satisfaction=1
+204,Sales,Sales Executive,0.1355,68.6,Low,0,relationship_satisfaction=1; education=5; education_field=Marketing
+1869,Sales,Sales Executive,0.0151,8.4,Low,1,num_companies_worked=5; monthly_income=7314; job_role=Sales Executive
+1165,Sales,Sales Executive,0.1711,74.6,Medium,1,work_life_balance=1; job_satisfaction=1; distance_from_home=23
+1125,Sales,Sales Executive,0.128,66.9,Low,0,stock_option_level=0; num_companies_worked=7; years_with_curr_manager=0
+1228,Research & Development,Manufacturing Director,0.0229,16.5,Low,0,education_field=Technical Degree; percent_salary_hike=11; work_life_balance=2
+944,Research & Development,Laboratory Technician,0.0871,56.7,Low,0,environment_satisfaction=1; job_role=Laboratory Technician; percent_salary_hike=11
+605,Research & Development,Manufacturing Director,0.0671,49.4,Low,0,is_overtime=Yes; distance_from_home=24; job_satisfaction=1
+725,Research & Development,Manufacturing Director,0.0329,26.6,Low,0,job_satisfaction=1; stock_option_level=0; percent_salary_hike=11
+152,Sales,Sales Executive,0.0326,26.1,Low,0,stock_option_level=0; relationship_satisfaction=1; job_role=Sales Executive
+1553,Research & Development,Healthcare Representative,0.0825,55.4,Low,0,relationship_satisfaction=1; environment_satisfaction=1; education_field=Technical Degree
+1459,Research & Development,Manufacturing Director,0.0496,39.3,Low,1,relationship_satisfaction=1; business_travel=Travel_Frequently; stock_option_level=0
+453,Sales,Sales Executive,0.0986,59.9,Low,0,job_involvement=1; is_overtime=Yes; department=Sales
+145,Research & Development,Healthcare Representative,0.1202,65.7,Low,0,stock_option_level=0; job_satisfaction=1; business_travel=Travel_Frequently
+623,Research & Development,Manufacturing Director,0.0287,23.1,Low,0,education_field=Technical Degree; stock_option_level=0; num_companies_worked=4
+1971,Research & Development,Healthcare Representative,0.0252,18.7,Low,0,environment_satisfaction=1; training_times_last_year=1; distance_from_home=11
+1050,Sales,Sales Executive,0.0655,48.5,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; years_since_last_promotion=6
+438,Sales,Sales Executive,0.0245,18.3,Low,0,job_role=Sales Executive; department=Sales; education_field=Marketing
+1421,Research & Development,Healthcare Representative,0.3304,86.9,Medium,1,is_overtime=Yes; years_since_last_promotion=7; relationship_satisfaction=1
+789,Sales,Sales Executive,0.0739,52.3,Low,0,job_satisfaction=1; stock_option_level=0; environment_satisfaction=1
+513,Sales,Sales Executive,0.0594,45.3,Low,0,years_since_last_promotion=9; years_with_curr_manager=0; job_role=Sales Executive
+724,Research & Development,Healthcare Representative,0.0132,5.4,Low,0,stock_option_level=0; work_life_balance=2; training_times_last_year=4
+586,Research & Development,Healthcare Representative,0.2218,80.1,Medium,0,is_overtime=Yes; stock_option_level=0; distance_from_home=16
+81,Sales,Sales Executive,0.4109,89.9,Medium,0,num_companies_worked=7; environment_satisfaction=1; stock_option_level=0
+283,Sales,Sales Executive,0.0262,19.9,Low,1,monthly_income=7639; distance_from_home=27; job_role=Sales Executive
+904,Sales,Sales Executive,0.4264,90.5,High,0,is_overtime=Yes; stock_option_level=0; environment_satisfaction=1
+2024,Sales,Sales Executive,0.0372,30.8,Low,0,environment_satisfaction=1; job_role=Sales Executive; department=Sales
+840,Sales,Sales Executive,0.0347,28.8,Low,1,years_since_last_promotion=7; relationship_satisfaction=1; job_role=Sales Executive
+1121,Research & Development,Manufacturing Director,0.0213,13.9,Low,0,monthly_income=7655; work_life_balance=2; job_satisfaction=2
+692,Research & Development,Healthcare Representative,0.028,21.9,Low,0,work_life_balance=1; business_travel=Travel_Frequently; years_since_last_promotion=4
+1103,Research & Development,Healthcare Representative,0.0474,38.1,Low,0,business_travel=Travel_Frequently; environment_satisfaction=1; stock_option_level=0
+1638,Research & Development,Manufacturing Director,0.0214,14.3,Low,0,is_overtime=Yes; job_involvement=2; work_life_balance=4
+1133,Research & Development,Manufacturing Director,0.0719,51.4,Low,0,training_times_last_year=0; stock_option_level=0; environment_satisfaction=1
+984,Sales,Sales Executive,0.0358,29.4,Low,0,num_companies_worked=6; department=Sales; job_role=Sales Executive
+1706,Sales,Sales Executive,0.1208,66.0,Low,0,is_overtime=Yes; years_since_last_promotion=8; relationship_satisfaction=1
+743,Research & Development,Manufacturing Director,0.1297,67.2,Low,0,is_overtime=Yes; stock_option_level=0; years_with_curr_manager=0
+1703,Research & Development,Healthcare Representative,0.0287,23.2,Low,0,is_overtime=Yes; years_since_last_promotion=6; years_in_current_role=7
+985,Sales,Sales Executive,0.044,36.3,Low,0,environment_satisfaction=1; stock_option_level=0; education=5
+1363,Research & Development,Manufacturing Director,0.0146,7.6,Low,0,stock_option_level=0; percent_salary_hike=11; monthly_income=7898
+312,Sales,Sales Executive,0.0226,16.0,Low,0,business_travel=Travel_Frequently; job_role=Sales Executive; years_since_last_promotion=4
+1641,Research & Development,Manufacturing Director,0.1102,63.3,Low,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=6
+543,Research & Development,Manufacturing Director,0.0331,26.7,Low,0,is_overtime=Yes; stock_option_level=0; job_involvement=2
+1295,Research & Development,Healthcare Representative,0.0222,15.2,Low,1,environment_satisfaction=1; percent_salary_hike=11; distance_from_home=15
+1419,Human Resources,Human Resources,0.383,88.9,Medium,0,stock_option_level=0; job_satisfaction=1; relationship_satisfaction=1
+1801,Sales,Sales Executive,0.179,75.7,Medium,0,num_companies_worked=8; stock_option_level=0; distance_from_home=26
+1651,Research & Development,Healthcare Representative,0.0146,7.8,Low,0,job_satisfaction=1; monthly_income=8008; years_in_current_role=2
+406,Sales,Sales Executive,0.0362,29.9,Low,0,years_since_last_promotion=6; distance_from_home=16; job_role=Sales Executive
+464,Research & Development,Manufacturing Director,0.0112,3.6,Low,0,education_field=Technical Degree; stock_option_level=0; job_satisfaction=2
+1915,Sales,Sales Executive,0.2249,80.5,Medium,0,is_overtime=Yes; stock_option_level=0; job_role=Sales Executive
+712,Sales,Sales Executive,0.0274,21.1,Low,0,stock_option_level=0; job_role=Sales Executive; education_field=Marketing
+1761,Sales,Sales Executive,0.1651,73.6,Medium,1,environment_satisfaction=1; years_with_curr_manager=0; relationship_satisfaction=1
+176,Sales,Sales Executive,0.0598,45.5,Low,0,is_overtime=Yes; job_role=Sales Executive; department=Sales
+1157,Sales,Sales Executive,0.4614,91.5,High,1,is_overtime=Yes; stock_option_level=0; environment_satisfaction=1
+1588,Sales,Sales Executive,0.0484,38.7,Low,0,years_since_last_promotion=7; relationship_satisfaction=1; job_role=Sales Executive
+463,Sales,Sales Executive,0.1765,75.4,Medium,0,is_overtime=Yes; relationship_satisfaction=1; education_field=Marketing
+1790,Research & Development,Healthcare Representative,0.0451,36.9,Low,0,is_overtime=Yes; num_companies_worked=7; job_satisfaction=1
+1749,Sales,Sales Executive,0.0391,32.8,Low,0,environment_satisfaction=1; education_field=Technical Degree; department=Sales
+1525,Research & Development,Manufacturing Director,0.0543,42.4,Low,0,stock_option_level=0; years_at_company=2; job_satisfaction=2
+1268,Sales,Sales Executive,0.0684,49.9,Low,0,is_overtime=Yes; job_role=Sales Executive; education_field=Marketing
+682,Sales,Sales Executive,0.1116,63.6,Low,0,num_companies_worked=7; stock_option_level=0; years_since_last_promotion=8
+534,Sales,Sales Executive,0.0423,35.3,Low,0,job_satisfaction=1; education_field=Marketing; job_role=Sales Executive
+1066,Sales,Sales Executive,0.0924,57.8,Low,0,years_since_last_promotion=7; distance_from_home=26; job_satisfaction=1
+567,Sales,Sales Executive,0.3601,88.0,Medium,0,stock_option_level=0; job_satisfaction=1; years_since_last_promotion=7
+1319,Sales,Sales Executive,0.6284,95.0,High,1,is_overtime=Yes; num_companies_worked=9; years_since_last_promotion=7
+1469,Sales,Sales Executive,0.0506,40.5,Low,0,stock_option_level=0; job_satisfaction=1; department=Sales
+292,Research & Development,Manufacturing Director,0.0264,20.2,Low,0,stock_option_level=0; years_since_last_promotion=5; percent_salary_hike=22
+1344,Research & Development,Healthcare Representative,0.0524,41.5,Low,0,training_times_last_year=0; percent_salary_hike=11; work_life_balance=2
+1758,Sales,Sales Executive,0.6916,96.1,High,1,is_overtime=Yes; environment_satisfaction=1; stock_option_level=0
+1857,Research & Development,Manufacturing Director,0.0161,9.3,Low,0,years_since_last_promotion=4; monthly_income=8578; work_life_balance=2
+1529,Research & Development,Healthcare Representative,0.1157,64.6,Low,0,work_life_balance=1; stock_option_level=0; distance_from_home=16
+1497,Sales,Sales Executive,0.0694,50.3,Low,0,distance_from_home=19; job_role=Sales Executive; department=Sales
+717,Research & Development,Healthcare Representative,0.0701,50.8,Low,0,stock_option_level=0; years_since_last_promotion=7; job_involvement=2
+1951,Sales,Sales Executive,0.0317,25.4,Low,0,distance_from_home=13; job_role=Sales Executive; department=Sales
+1993,Research & Development,Healthcare Representative,0.0782,54.1,Low,0,environment_satisfaction=1; stock_option_level=0; years_since_last_promotion=12
+183,Sales,Sales Executive,0.2833,84.6,Medium,0,environment_satisfaction=1; stock_option_level=0; distance_from_home=28
+230,Sales,Sales Executive,0.0423,35.4,Low,0,environment_satisfaction=1; stock_option_level=0; department=Sales
+1082,Research & Development,Healthcare Representative,0.0993,60.3,Low,1,stock_option_level=0; job_satisfaction=1; relationship_satisfaction=1
+56,Sales,Sales Executive,0.0957,59.1,Low,0,training_times_last_year=0; business_travel=Travel_Frequently; stock_option_level=0
+1119,Sales,Sales Executive,0.0604,45.8,Low,0,is_overtime=Yes; education_field=Marketing; job_role=Sales Executive
+314,Sales,Sales Executive,0.1856,76.5,Medium,0,business_travel=Travel_Frequently; relationship_satisfaction=1; stock_option_level=0
+733,Research & Development,Manufacturing Director,0.0413,34.6,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; work_life_balance=2
+1088,Research & Development,Healthcare Representative,0.019,12.3,Low,0,relationship_satisfaction=1; distance_from_home=17; job_involvement=2
+626,Sales,Sales Executive,0.0304,24.6,Low,0,environment_satisfaction=1; years_since_last_promotion=7; job_role=Sales Executive
+2040,Human Resources,Human Resources,0.1361,68.8,Low,0,is_overtime=Yes; distance_from_home=26; stock_option_level=0
+699,Research & Development,Manufacturing Director,0.0418,34.9,Low,0,is_overtime=Yes; percent_salary_hike=11; job_involvement=2
+1590,Research & Development,Healthcare Representative,0.0415,34.7,Low,0,environment_satisfaction=1; business_travel=Travel_Frequently; training_times_last_year=0
+1073,Research & Development,Manufacturing Director,0.0661,49.0,Low,0,years_since_last_promotion=7; stock_option_level=0; distance_from_home=12
+302,Sales,Sales Executive,0.1294,67.1,Low,0,years_since_last_promotion=12; num_companies_worked=6; stock_option_level=0
+1821,Research & Development,Healthcare Representative,0.0136,6.0,Low,1,distance_from_home=21; years_since_last_promotion=3; percent_salary_hike=22
+2037,Sales,Sales Executive,0.0265,20.4,Low,0,percent_salary_hike=11; department=Sales; job_role=Sales Executive
+442,Research & Development,Manufacturing Director,0.0304,24.5,Low,0,business_travel=Travel_Frequently; relationship_satisfaction=1; years_since_last_promotion=8
+1218,Sales,Sales Executive,0.1817,76.2,Medium,0,is_overtime=Yes; distance_from_home=17; job_satisfaction=1
+207,Sales,Sales Executive,0.1045,61.2,Low,0,stock_option_level=0; business_travel=Travel_Frequently; job_role=Sales Executive
+74,Sales,Sales Executive,0.0818,55.3,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; distance_from_home=18
+580,Sales,Sales Executive,0.0248,18.4,Low,0,is_overtime=Yes; job_role=Sales Executive; department=Sales
+1318,Sales,Sales Executive,0.6054,94.4,High,1,is_overtime=Yes; distance_from_home=25; stock_option_level=0
+1446,Sales,Sales Executive,0.027,20.6,Low,0,education_field=Marketing; department=Sales; job_role=Sales Executive
+174,Sales,Sales Executive,0.1452,70.3,Medium,0,business_travel=Travel_Frequently; stock_option_level=0; distance_from_home=12
+1708,Sales,Sales Executive,0.1046,61.4,Low,0,years_since_last_promotion=8; stock_option_level=0; job_role=Sales Executive
+1568,Sales,Sales Executive,0.0844,56.2,Low,0,distance_from_home=29; education_field=Technical Degree; department=Sales
+1425,Sales,Sales Executive,0.1505,71.3,Medium,0,is_overtime=Yes; environment_satisfaction=1; stock_option_level=0
+488,Sales,Sales Executive,0.1182,65.0,Low,1,business_travel=Travel_Frequently; stock_option_level=0; years_since_last_promotion=7
+1412,Research & Development,Manufacturing Director,0.0453,37.1,Low,0,business_travel=Travel_Frequently; stock_option_level=0; distance_from_home=18
+1465,Research & Development,Manufacturing Director,0.2271,80.6,Medium,0,is_overtime=Yes; distance_from_home=29; education_field=Technical Degree
+288,Research & Development,Healthcare Representative,0.0442,36.5,Low,0,num_companies_worked=7; job_satisfaction=1; years_in_current_role=2
+228,Sales,Sales Executive,0.0331,26.9,Low,0,years_since_last_promotion=7; job_role=Sales Executive; department=Sales
+689,Research & Development,Manufacturing Director,0.0265,20.3,Low,0,years_since_last_promotion=7; monthly_income=9434; training_times_last_year=2
+223,Research & Development,Healthcare Representative,0.0551,43.1,Low,0,is_overtime=Yes; distance_from_home=24; work_life_balance=1
+1700,Sales,Sales Executive,0.0859,56.5,Low,0,job_involvement=1; business_travel=Travel_Frequently; department=Sales
+12,Research & Development,Manufacturing Director,0.0649,48.3,Low,0,business_travel=Travel_Frequently; stock_option_level=0; distance_from_home=23
+256,Research & Development,Manufacturing Director,0.0336,27.7,Low,0,business_travel=Travel_Frequently; stock_option_level=0; job_involvement=2
+1100,Sales,Sales Executive,0.3738,88.4,Medium,1,is_overtime=Yes; stock_option_level=0; relationship_satisfaction=1
+656,Sales,Sales Executive,0.146,70.5,Medium,0,is_overtime=Yes; years_with_curr_manager=0; education_field=Marketing
+1739,Sales,Sales Executive,0.326,86.8,Medium,0,work_life_balance=1; job_involvement=1; job_role=Sales Executive
+417,Research & Development,Healthcare Representative,0.0171,10.2,Low,0,relationship_satisfaction=1; years_since_last_promotion=3; monthly_income=9613
+118,Sales,Sales Executive,0.0341,28.4,Low,1,monthly_income=9619; stock_option_level=0; job_role=Sales Executive
+1833,Sales,Sales Executive,0.1598,72.9,Medium,0,environment_satisfaction=1; business_travel=Travel_Frequently; job_satisfaction=1
+1816,Research & Development,Manufacturing Director,0.1465,70.6,Medium,0,environment_satisfaction=1; num_companies_worked=9; stock_option_level=0
+1966,Research & Development,Manufacturing Director,0.0552,43.1,Low,0,stock_option_level=0; num_companies_worked=8; years_with_curr_manager=0
+481,Sales,Sales Executive,0.0599,45.6,Low,0,environment_satisfaction=1; business_travel=Travel_Frequently; relationship_satisfaction=1
+954,Sales,Sales Executive,0.2119,79.1,Medium,0,environment_satisfaction=1; years_with_curr_manager=0; years_at_company=1
+1882,Sales,Sales Executive,0.0418,34.8,Low,0,is_overtime=Yes; years_with_curr_manager=0; job_role=Sales Executive
+1562,Sales,Sales Executive,0.0312,25.2,Low,1,years_since_last_promotion=6; job_satisfaction=1; percent_salary_hike=11
+1544,Research & Development,Healthcare Representative,0.0469,38.0,Low,0,job_involvement=1; job_satisfaction=1; monthly_income=9715
+86,Research & Development,Research Scientist,0.0237,17.3,Low,0,job_satisfaction=1; years_with_curr_manager=0; years_at_company=1
+1047,Sales,Sales Executive,0.0271,20.7,Low,0,percent_salary_hike=11; education_field=Marketing; department=Sales
+154,Sales,Sales Executive,0.059,45.2,Low,0,business_travel=Travel_Frequently; education_field=Technical Degree; job_role=Sales Executive
+1744,Human Resources,Human Resources,0.0867,56.6,Low,0,job_involvement=1; department=Human Resources; monthly_income=9756
+634,Research & Development,Healthcare Representative,0.0187,11.9,Low,0,years_with_curr_manager=0; years_at_company=1; monthly_income=9824
+587,Research & Development,Healthcare Representative,0.5047,92.6,High,1,business_travel=Travel_Frequently; environment_satisfaction=1; years_with_curr_manager=0
+1324,Sales,Sales Executive,0.0754,53.0,Low,0,is_overtime=Yes; years_since_last_promotion=9; relationship_satisfaction=1
+1933,Sales,Sales Executive,0.4275,90.6,High,1,is_overtime=Yes; training_times_last_year=0; stock_option_level=0
+70,Research & Development,Healthcare Representative,0.0243,18.0,Low,0,is_overtime=Yes; job_satisfaction=1; job_involvement=2
+1950,Sales,Sales Executive,0.1315,67.7,Low,0,environment_satisfaction=1; stock_option_level=0; relationship_satisfaction=1
+1862,Sales,Sales Executive,0.4866,91.9,High,1,is_overtime=Yes; stock_option_level=0; num_companies_worked=7
+1582,Sales,Sales Executive,0.1638,73.2,Medium,0,years_since_last_promotion=7; job_role=Sales Executive; distance_from_home=14
+2057,Research & Development,Manufacturing Director,0.0588,45.1,Low,0,job_satisfaction=1; stock_option_level=0; monthly_income=9936
+590,Human Resources,Human Resources,0.6507,95.4,High,1,is_overtime=Yes; num_companies_worked=9; business_travel=Travel_Frequently
+1084,Research & Development,Manufacturing Director,0.0725,51.8,Low,0,job_satisfaction=1; distance_from_home=20; monthly_income=9957
+20,Research & Development,Manufacturing Director,0.0564,44.0,Low,0,years_since_last_promotion=8; distance_from_home=21; job_satisfaction=1
+592,Sales,Sales Executive,0.0707,51.3,Low,0,years_since_last_promotion=9; stock_option_level=0; job_role=Sales Executive
+293,Sales,Sales Executive,0.1322,67.9,Low,0,business_travel=Travel_Frequently; stock_option_level=0; distance_from_home=20
+451,Research & Development,Healthcare Representative,0.1026,61.1,Low,0,relationship_satisfaction=1; job_satisfaction=1; num_companies_worked=8
+2062,Research & Development,Healthcare Representative,0.0593,45.2,Low,0,relationship_satisfaction=1; job_satisfaction=1; monthly_income=9991
+1395,Sales,Sales Executive,0.2191,79.9,Medium,0,num_companies_worked=6; relationship_satisfaction=1; business_travel=Travel_Frequently
+1360,Research & Development,Manufacturing Director,0.2016,78.0,Medium,1,training_times_last_year=0; is_overtime=Yes; stock_option_level=0
+342,Research & Development,Manufacturing Director,0.0872,56.8,Low,1,environment_satisfaction=1; business_travel=Travel_Frequently; num_companies_worked=6
+1457,Sales,Sales Executive,0.113,64.0,Low,1,environment_satisfaction=1; relationship_satisfaction=1; monthly_income=10096
+83,Research & Development,Healthcare Representative,0.0188,12.0,Low,0,years_since_last_promotion=12; education_field=Technical Degree; monthly_income=10096
+1547,Research & Development,Healthcare Representative,0.0607,45.9,Low,0,years_since_last_promotion=13; work_life_balance=1; is_overtime=Yes
+1572,Research & Development,Manufacturing Director,0.0136,5.9,Low,1,years_at_company=33; education_field=Technical Degree; education=5
+1496,Research & Development,Manufacturing Director,0.2485,82.3,Medium,0,is_overtime=Yes; stock_option_level=0; num_companies_worked=5
+845,Research & Development,Manufacturing Director,0.0151,8.4,Low,0,stock_option_level=0; monthly_income=10221
+1293,Sales,Sales Executive,0.0609,46.1,Low,0,years_since_last_promotion=15; stock_option_level=0; job_role=Sales Executive
+106,Sales,Sales Executive,0.0643,48.1,Low,0,environment_satisfaction=1; years_with_curr_manager=0; years_at_company=1
+36,Research & Development,Healthcare Representative,0.0381,31.9,Low,0,environment_satisfaction=1; monthly_income=10248; years_since_last_promotion=5
+1237,Research & Development,Manufacturing Director,0.0597,45.4,Low,0,is_overtime=Yes; job_involvement=1; years_since_last_promotion=7
+573,Sales,Sales Executive,0.5304,93.5,High,0,distance_from_home=28; business_travel=Travel_Frequently; stock_option_level=0
+1182,Research & Development,Manufacturing Director,0.0243,18.0,Low,0,years_since_last_promotion=6; monthly_income=10274; job_involvement=2
+1639,Sales,Sales Executive,0.1919,77.1,Medium,1,num_companies_worked=9; job_satisfaction=1; stock_option_level=0
+165,Research & Development,Healthcare Representative,0.9019,99.1,High,1,total_working_years=40; years_at_company=40; years_since_last_promotion=15
+1092,Research & Development,Healthcare Representative,0.0505,40.4,Low,0,years_since_last_promotion=11; environment_satisfaction=1; education_field=Technical Degree
+967,Sales,Sales Executive,0.0363,29.9,Low,1,is_overtime=Yes; relationship_satisfaction=1; monthly_income=10325
+1827,Research & Development,Manufacturing Director,0.0376,31.2,Low,0,is_overtime=Yes; num_companies_worked=8; years_since_last_promotion=14
+1732,Sales,Sales Executive,0.0375,31.2,Low,0,is_overtime=Yes; job_role=Sales Executive; department=Sales
+1243,Sales,Sales Executive,0.166,73.7,Medium,0,is_overtime=Yes; job_role=Sales Executive; percent_salary_hike=11
+1014,Research & Development,Healthcare Representative,0.11,63.1,Low,0,is_overtime=Yes; distance_from_home=25; years_since_last_promotion=10
+291,Sales,Sales Executive,0.0661,48.9,Low,1,job_involvement=1; years_since_last_promotion=9; stock_option_level=0
+2016,Sales,Sales Executive,0.0258,19.4,Low,0,monthly_income=10422; years_since_last_promotion=5; job_role=Sales Executive
+1628,Research & Development,Manufacturing Director,0.0635,47.7,Low,0,environment_satisfaction=1; years_since_last_promotion=14; distance_from_home=15
+1118,Research & Development,Healthcare Representative,0.0428,35.7,Low,0,num_companies_worked=7; stock_option_level=0; years_with_curr_manager=0
+1815,Sales,Sales Executive,0.0979,59.5,Low,0,is_overtime=Yes; years_since_last_promotion=13; job_role=Sales Executive
+1968,Sales,Sales Executive,0.907,99.2,High,1,is_overtime=Yes; environment_satisfaction=1; num_companies_worked=6
+244,Sales,Sales Executive,0.1001,60.5,Low,0,years_since_last_promotion=15; job_satisfaction=1; job_role=Sales Executive
+1484,Research & Development,Healthcare Representative,0.0094,1.8,Low,0,monthly_income=10466; job_satisfaction=2; education=4
+729,Sales,Sales Executive,0.0684,49.8,Low,0,is_overtime=Yes; num_companies_worked=5; job_satisfaction=1
+1098,Human Resources,Human Resources,0.0273,21.0,Low,1,num_companies_worked=9; job_satisfaction=1; job_role=Human Resources
+491,Research & Development,Healthcare Representative,0.0503,39.9,Low,0,num_companies_worked=6; education_field=Technical Degree; stock_option_level=0
+1245,Research & Development,Manufacturing Director,0.1793,75.9,Medium,0,work_life_balance=1; business_travel=Travel_Frequently; num_companies_worked=7
+1283,Research & Development,Manufacturing Director,0.0395,33.3,Low,0,num_companies_worked=6; stock_option_level=0; distance_from_home=18
+624,Research & Development,Healthcare Representative,0.1386,69.3,Low,0,environment_satisfaction=1; num_companies_worked=5; business_travel=Travel_Frequently
+940,Research & Development,Healthcare Representative,0.0363,30.0,Low,0,is_overtime=Yes; education_field=Technical Degree; job_involvement=2
+1391,Sales,Sales Executive,0.1117,63.7,Low,0,business_travel=Travel_Frequently; stock_option_level=0; education_field=Marketing
+307,Sales,Sales Executive,0.0323,25.9,Low,0,environment_satisfaction=1; monthly_income=10609; job_role=Sales Executive
+970,Sales,Sales Executive,0.4374,91.0,High,1,work_life_balance=1; num_companies_worked=5; years_since_last_promotion=11
+581,Research & Development,Manufacturing Director,0.017,10.1,Low,0,monthly_income=10648; percent_salary_hike=25; work_life_balance=4
+179,Research & Development,Manufacturing Director,0.112,63.9,Low,1,job_involvement=1; environment_satisfaction=1; stock_option_level=0
+124,Research & Development,Healthcare Representative,0.0506,40.5,Low,0,is_overtime=Yes; years_since_last_promotion=9; business_travel=Travel_Frequently
+880,Research & Development,Manufacturing Director,0.0276,21.3,Low,0,is_overtime=Yes; years_since_last_promotion=5; job_involvement=2
+1070,Sales,Sales Executive,0.0338,28.1,Low,0,num_companies_worked=6; years_since_last_promotion=7; years_with_curr_manager=0
+698,Human Resources,Human Resources,0.0336,27.8,Low,0,years_since_last_promotion=7; training_times_last_year=1; distance_from_home=19
+1013,Research & Development,Manufacturing Director,0.0182,11.3,Low,0,num_companies_worked=8; education_field=Technical Degree; distance_from_home=17
+1712,Research & Development,Healthcare Representative,0.0065,0.5,Low,0,years_since_last_promotion=14; job_involvement=2; work_life_balance=2
+864,Sales,Sales Executive,0.0794,54.5,Low,0,is_overtime=Yes; job_satisfaction=1; job_role=Sales Executive
+1453,Sales,Sales Executive,0.0747,52.6,Low,0,years_since_last_promotion=9; environment_satisfaction=1; relationship_satisfaction=1
+1076,Sales,Sales Executive,0.0647,48.2,Low,0,num_companies_worked=5; distance_from_home=25; years_with_curr_manager=0
+1126,Research & Development,Manufacturing Director,0.1255,66.5,Low,0,business_travel=Travel_Frequently; distance_from_home=27; job_satisfaction=1
+1007,Research & Development,Manufacturing Director,0.0125,4.9,Low,0,num_companies_worked=6; education=2
+1460,Research & Development,Healthcare Representative,0.1101,63.2,Low,0,is_overtime=Yes; job_involvement=1; distance_from_home=20
+2055,Sales,Sales Executive,0.1641,73.4,Medium,1,is_overtime=Yes; distance_from_home=28; years_with_curr_manager=0
+215,Sales,Sales Executive,0.063,47.5,Low,0,num_companies_worked=7; percent_salary_hike=11; relationship_satisfaction=1
+1043,Research & Development,Manufacturing Director,0.0873,56.9,Low,0,is_overtime=Yes; stock_option_level=0; distance_from_home=22
+1697,Research & Development,Healthcare Representative,0.0146,7.8,Low,0,job_involvement=1; years_with_curr_manager=0; years_at_company=1
+899,Research & Development,Manufacturing Director,0.0681,49.7,Low,0,stock_option_level=0; relationship_satisfaction=1; education_field=Technical Degree
+1397,Research & Development,Healthcare Representative,0.0114,3.8,Low,0,distance_from_home=25; years_in_current_role=4; training_times_last_year=2
+615,Sales,Sales Executive,0.2208,80.0,Medium,0,job_involvement=1; distance_from_home=28; job_satisfaction=1
+862,Sales,Sales Executive,0.161,73.0,Medium,0,is_overtime=Yes; environment_satisfaction=1; num_companies_worked=7
+343,Research & Development,Healthcare Representative,0.1743,75.2,Medium,0,education_field=Technical Degree; years_since_last_promotion=11; business_travel=Travel_Frequently
+499,Research & Development,Healthcare Representative,0.0371,30.7,Low,0,num_companies_worked=8; stock_option_level=0; years_with_curr_manager=0
+1096,Research & Development,Manufacturing Director,0.0145,7.5,Low,0,business_travel=Travel_Frequently; years_in_current_role=2; job_satisfaction=2
+1024,Research & Development,Healthcare Representative,0.0233,16.9,Low,0,num_companies_worked=7; stock_option_level=0; job_involvement=2
+1979,Research & Development,Research Director,0.0096,2.0,Low,0,years_since_last_promotion=4; work_life_balance=4; num_companies_worked=4
+762,Research & Development,Healthcare Representative,0.0346,28.7,Low,0,num_companies_worked=7; stock_option_level=0; percent_salary_hike=11
+727,Research & Development,Research Director,0.0264,20.1,Low,0,years_since_last_promotion=7; stock_option_level=0; percent_salary_hike=15
+1516,Research & Development,Manager,0.0211,13.7,Low,0,stock_option_level=0; years_with_curr_manager=0; percent_salary_hike=25
+1606,Research & Development,Healthcare Representative,0.126,66.5,Low,0,is_overtime=Yes; years_since_last_promotion=12; distance_from_home=20
+1015,Research & Development,Research Director,0.0182,11.4,Low,0,is_overtime=Yes; job_satisfaction=1; environment_satisfaction=2
+461,Research & Development,Research Director,0.0175,10.5,Low,0,is_overtime=Yes; distance_from_home=15; job_involvement=2
+613,Sales,Manager,0.027,20.7,Low,0,num_companies_worked=9; department=Sales; job_involvement=2
+153,Research & Development,Manager,0.0262,19.9,Low,0,stock_option_level=0; job_satisfaction=1; years_since_last_promotion=5
+817,Research & Development,Research Director,0.0332,27.0,Low,0,stock_option_level=0; percent_salary_hike=11; years_since_last_promotion=3
+742,Research & Development,Research Director,0.071,51.4,Low,0,num_companies_worked=9; environment_satisfaction=1; job_satisfaction=1
+897,Sales,Sales Executive,0.0516,41.2,Low,0,environment_satisfaction=1; num_companies_worked=5; department=Sales
+376,Research & Development,Manager,0.0547,42.7,Low,1,distance_from_home=29; is_overtime=Yes; environment_satisfaction=1
+428,Research & Development,Manager,0.0612,46.3,Low,0,business_travel=Travel_Frequently; years_since_last_promotion=8; num_companies_worked=6
+1048,Sales,Manager,0.0394,33.1,Low,0,is_overtime=Yes; work_life_balance=1; education_field=Technical Degree
+1321,Research & Development,Manager,0.0727,51.8,Low,0,is_overtime=Yes; distance_from_home=17; job_satisfaction=1
+564,Research & Development,Research Director,0.0284,22.7,Low,0,stock_option_level=0; job_involvement=2; years_in_current_role=2
+2000,Research & Development,Research Director,0.0166,9.9,Low,0,work_life_balance=1; relationship_satisfaction=1; years_since_last_promotion=5
+28,Research & Development,Research Director,0.0516,41.2,Low,0,environment_satisfaction=1; stock_option_level=0; percent_salary_hike=11
+381,Research & Development,Manager,0.0423,35.4,Low,0,num_companies_worked=7; years_since_last_promotion=6; distance_from_home=22
+2056,Sales,Sales Executive,0.1567,72.2,Medium,0,years_since_last_promotion=9; distance_from_home=24; relationship_satisfaction=1
+421,Research & Development,Research Director,0.0235,17.1,Low,0,environment_satisfaction=1; distance_from_home=25; job_involvement=2
+1127,Research & Development,Healthcare Representative,0.0278,21.6,Low,1,num_companies_worked=7; environment_satisfaction=1; years_since_last_promotion=11
+306,Research & Development,Research Director,0.0951,58.8,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; training_times_last_year=1
+296,Research & Development,Research Director,0.0507,40.7,Low,0,work_life_balance=1; num_companies_worked=5; years_since_last_promotion=4
+473,Sales,Manager,0.1732,75.0,Medium,0,distance_from_home=29; environment_satisfaction=1; work_life_balance=1
+1026,Research & Development,Manufacturing Director,0.0111,3.4,Low,0,years_since_last_promotion=11; job_involvement=2; percent_salary_hike=16
+844,Research & Development,Research Director,0.0226,16.1,Low,0,is_overtime=Yes; education_field=Technical Degree; job_involvement=2
+1716,Sales,Sales Executive,0.2187,79.8,Medium,1,job_involvement=1; work_life_balance=1; years_since_last_promotion=14
+1775,Research & Development,Manufacturing Director,0.0433,36.1,Low,0,is_overtime=Yes; environment_satisfaction=1; years_in_current_role=2
+1786,Research & Development,Manager,0.0496,39.4,Low,0,environment_satisfaction=1; stock_option_level=0; education_field=Technical Degree
+1138,Sales,Sales Executive,0.0396,33.4,Low,0,num_companies_worked=6; education_field=Technical Degree; department=Sales
+1367,Research & Development,Manufacturing Director,0.0804,54.8,Low,0,stock_option_level=0; education_field=Technical Degree; training_times_last_year=1
+1242,Research & Development,Research Director,0.8167,98.2,High,0,is_overtime=Yes; environment_satisfaction=1; distance_from_home=26
+986,Sales,Sales Executive,0.1474,70.8,Medium,1,is_overtime=Yes; distance_from_home=24; stock_option_level=0
+2015,Research & Development,Research Director,0.0143,7.2,Low,0,job_involvement=1; relationship_satisfaction=1; distance_from_home=10
+532,Sales,Sales Executive,0.1091,62.9,Low,0,num_companies_worked=9; training_times_last_year=0; years_since_last_promotion=7
+1863,Sales,Sales Executive,0.0185,11.8,Low,0,environment_satisfaction=1; education_field=Technical Degree; job_satisfaction=1
+601,Research & Development,Manufacturing Director,0.0258,19.5,Low,0,num_companies_worked=7; stock_option_level=0; years_since_last_promotion=5
+101,Research & Development,Research Director,0.0979,59.5,Low,0,is_overtime=Yes; stock_option_level=0; job_satisfaction=1
+1401,Research & Development,Manufacturing Director,0.0594,45.4,Low,0,is_overtime=Yes; distance_from_home=28; business_travel=Travel_Frequently
+1656,Research & Development,Research Director,0.0277,21.4,Low,0,num_companies_worked=5; job_satisfaction=1; distance_from_home=17
+1039,Sales,Sales Executive,0.0485,38.8,Low,0,is_overtime=Yes; distance_from_home=28; years_since_last_promotion=11
+1975,Sales,Sales Executive,0.2592,83.1,Medium,0,stock_option_level=0; job_satisfaction=1; years_since_last_promotion=11
+1911,Research & Development,Research Director,0.0448,36.8,Low,0,num_companies_worked=9; job_satisfaction=1; years_since_last_promotion=5
+1373,Research & Development,Manufacturing Director,0.3738,88.4,Medium,0,years_since_last_promotion=15; is_overtime=Yes; training_times_last_year=0
+73,Research & Development,Research Director,0.1629,73.1,Medium,0,is_overtime=Yes; stock_option_level=0; years_since_last_promotion=8
+1800,Research & Development,Research Director,0.0242,17.9,Low,0,num_companies_worked=7; stock_option_level=0; distance_from_home=10
+372,Research & Development,Healthcare Representative,0.0806,54.8,Low,0,is_overtime=Yes; stock_option_level=0; distance_from_home=20
+1166,Research & Development,Research Director,0.0353,29.1,Low,0,num_companies_worked=9; stock_option_level=0; business_travel=Travel_Frequently
+119,Research & Development,Healthcare Representative,0.0115,3.9,Low,0,business_travel=Travel_Frequently; years_since_last_promotion=11; job_involvement=2
+404,Sales,Sales Executive,0.07,50.7,Low,0,business_travel=Travel_Frequently; distance_from_home=26; num_companies_worked=5
+126,Research & Development,Research Director,0.1229,66.2,Low,0,num_companies_worked=9; work_life_balance=1; environment_satisfaction=1
+2034,Research & Development,Manufacturing Director,0.0141,6.8,Low,0,environment_satisfaction=1; distance_from_home=28; job_involvement=2
+1278,Research & Development,Healthcare Representative,0.2069,78.6,Medium,0,years_since_last_promotion=15; years_at_company=33; is_overtime=Yes
+950,Research & Development,Research Director,0.0146,8.0,Low,0,education_field=Technical Degree; job_satisfaction=1; years_since_last_promotion=5
+298,Sales,Manager,0.0497,39.5,Low,0,is_overtime=Yes; stock_option_level=0; years_with_curr_manager=0
+380,Research & Development,Research Director,0.0287,23.1,Low,0,is_overtime=Yes; environment_satisfaction=1; relationship_satisfaction=1
+582,Research & Development,Manager,0.1193,65.4,Low,1,is_overtime=Yes; stock_option_level=0; num_companies_worked=7
+102,Research & Development,Research Director,0.0419,35.0,Low,0,environment_satisfaction=1; relationship_satisfaction=1; stock_option_level=0
+337,Research & Development,Research Director,0.0742,52.5,Low,0,business_travel=Travel_Frequently; num_companies_worked=9; relationship_satisfaction=1
+1372,Sales,Sales Executive,0.6237,94.9,High,1,is_overtime=Yes; environment_satisfaction=1; num_companies_worked=6
+1032,Research & Development,Manufacturing Director,0.036,29.7,Low,0,is_overtime=Yes; relationship_satisfaction=1; stock_option_level=0
+258,Research & Development,Healthcare Representative,0.0104,2.9,Low,0,stock_option_level=0; years_with_curr_manager=0; job_satisfaction=2
+2017,Research & Development,Research Director,0.0292,23.3,Low,0,is_overtime=Yes; relationship_satisfaction=1; years_since_last_promotion=6
+1468,Research & Development,Research Director,0.0078,0.7,Low,0,percent_salary_hike=11; years_since_last_promotion=4; job_involvement=2
+1167,Sales,Sales Executive,0.1176,64.8,Low,1,is_overtime=Yes; stock_option_level=0; business_travel=Travel_Frequently
+746,Sales,Sales Executive,0.2708,83.9,Medium,0,is_overtime=Yes; num_companies_worked=9; years_since_last_promotion=11
+867,Research & Development,Manufacturing Director,0.0283,22.4,Low,0,stock_option_level=0; business_travel=Travel_Frequently; years_with_curr_manager=0
+131,Sales,Sales Executive,0.0477,38.3,Low,0,years_at_company=37; stock_option_level=0; job_role=Sales Executive
+431,Research & Development,Healthcare Representative,0.1301,67.3,Low,0,is_overtime=Yes; num_companies_worked=7; stock_option_level=0
+1661,Research & Development,Healthcare Representative,0.0139,6.3,Low,0,is_overtime=Yes; job_involvement=2; job_satisfaction=3
+1005,Research & Development,Manufacturing Director,0.0294,23.7,Low,0,is_overtime=Yes; distance_from_home=24; job_satisfaction=3
+1352,Human Resources,Manager,0.0724,51.6,Low,0,years_at_company=33; is_overtime=Yes; percent_salary_hike=11
+568,Sales,Manager,0.1541,71.6,Medium,0,environment_satisfaction=1; distance_from_home=29; years_with_curr_manager=0
+901,Research & Development,Research Director,0.0348,28.8,Low,0,training_times_last_year=0; stock_option_level=0; num_companies_worked=6
+520,Research & Development,Research Director,0.0222,15.2,Low,0,environment_satisfaction=1; percent_salary_hike=11; distance_from_home=12
+1539,Research & Development,Research Director,0.2437,82.0,Medium,0,job_involvement=1; is_overtime=Yes; years_since_last_promotion=13
+1424,Research & Development,Research Director,0.0064,0.4,Low,0,years_with_curr_manager=0; work_life_balance=4; years_in_current_role=7
+84,Research & Development,Manager,0.0118,4.0,Low,0,is_overtime=Yes; job_satisfaction=3; years_in_current_role=0
+730,Research & Development,Research Director,0.0073,0.6,Low,0,stock_option_level=0; years_in_current_role=1
+981,Sales,Manager,0.0423,35.2,Low,0,years_since_last_promotion=15; num_companies_worked=6; department=Sales
+1644,Research & Development,Manager,0.0088,1.4,Low,0,business_travel=Travel_Frequently; job_involvement=2; years_at_company=2
+1677,Research & Development,Manager,0.0187,12.0,Low,0,relationship_satisfaction=1; stock_option_level=0; years_with_curr_manager=0
+664,Research & Development,Manager,0.0856,56.3,Low,0,work_life_balance=1; num_companies_worked=7; job_satisfaction=1
+23,Sales,Manager,0.022,14.8,Low,0,environment_satisfaction=1; stock_option_level=0; department=Sales
+1837,Research & Development,Research Director,0.3191,86.5,Medium,0,is_overtime=Yes; environment_satisfaction=1; business_travel=Travel_Frequently
+1676,Sales,Manager,0.0207,13.4,Low,0,num_companies_worked=6; department=Sales; stock_option_level=3
+468,Research & Development,Research Director,0.2034,78.2,Medium,0,environment_satisfaction=1; years_with_curr_manager=0; stock_option_level=0
+410,Sales,Manager,0.0101,2.4,Low,0,stock_option_level=0; department=Sales; training_times_last_year=2
+1520,Research & Development,Manager,0.0126,5.0,Low,0,relationship_satisfaction=1; business_travel=Travel_Frequently; distance_from_home=11
+327,Sales,Manager,0.0272,20.8,Low,0,is_overtime=Yes; distance_from_home=16; num_companies_worked=5
+1264,Research & Development,Research Director,0.0084,1.2,Low,0,job_involvement=2; work_life_balance=2; years_in_current_role=7
+612,Research & Development,Research Director,0.0135,5.8,Low,0,environment_satisfaction=1; education=5; years_in_current_role=1
+1824,Sales,Manager,0.0256,19.1,Low,0,training_times_last_year=0; years_since_last_promotion=14; department=Sales
+851,Sales,Manager,0.0286,23.0,Low,0,environment_satisfaction=1; distance_from_home=26; education_field=Marketing
+1523,Research & Development,Research Director,0.0213,14.0,Low,0,years_since_last_promotion=14; distance_from_home=28; job_satisfaction=1
+1655,Research & Development,Research Director,0.0134,5.6,Low,0,environment_satisfaction=1; distance_from_home=22; job_satisfaction=2
+1430,Research & Development,Research Director,0.2167,79.6,Medium,0,environment_satisfaction=1; stock_option_level=0; years_with_curr_manager=0
+1550,Human Resources,Manager,0.0973,59.3,Low,0,is_overtime=Yes; years_since_last_promotion=7; stock_option_level=0
+546,Research & Development,Manager,0.0153,8.6,Low,0,work_life_balance=1; stock_option_level=0; training_times_last_year=2
+625,Sales,Manager,0.0499,39.6,Low,0,num_companies_worked=7; years_since_last_promotion=11; job_satisfaction=1
+1472,Research & Development,Research Director,0.04,33.7,Low,0,stock_option_level=0; years_since_last_promotion=8; work_life_balance=2
+1527,Sales,Manager,0.0221,14.9,Low,0,num_companies_worked=8; department=Sales; years_since_last_promotion=5
+661,Research & Development,Research Director,0.0272,20.9,Low,0,is_overtime=Yes; years_with_curr_manager=0; years_at_company=1
+505,Research & Development,Manager,0.0212,13.9,Low,0,is_overtime=Yes; stock_option_level=0; training_times_last_year=2
+1719,Research & Development,Research Director,0.0988,60.1,Low,0,stock_option_level=0; years_since_last_promotion=8; education_field=Technical Degree
+820,Research & Development,Manager,0.0373,31.0,Low,0,is_overtime=Yes; years_with_curr_manager=0; percent_salary_hike=11
+1074,Research & Development,Manager,0.0505,40.3,Low,0,job_satisfaction=1; num_companies_worked=7; stock_option_level=0
+264,Research & Development,Manager,0.0312,25.1,Low,0,num_companies_worked=9; environment_satisfaction=1; years_since_last_promotion=11
+1408,Human Resources,Manager,0.0079,0.8,Low,0,job_satisfaction=1; department=Human Resources; education_field=Human Resources
+1892,Research & Development,Manager,0.0456,37.1,Low,0,environment_satisfaction=1; relationship_satisfaction=1; years_since_last_promotion=11
+597,Sales,Manager,0.062,46.7,Low,0,stock_option_level=0; environment_satisfaction=1; years_since_last_promotion=7
+776,Sales,Manager,0.1046,61.3,Low,0,years_at_company=34; job_satisfaction=1; relationship_satisfaction=1
+363,Sales,Manager,0.1178,64.9,Low,0,job_involvement=1; is_overtime=Yes; years_since_last_promotion=7
+1317,Research & Development,Research Director,0.1317,67.8,Low,0,is_overtime=Yes; distance_from_home=28; stock_option_level=0
+1116,Research & Development,Manager,0.0086,1.4,Low,0,environment_satisfaction=1; stock_option_level=0; percent_salary_hike=22
+158,Sales,Manager,0.0339,28.2,Low,0,is_overtime=Yes; distance_from_home=26; business_travel=Travel_Frequently
+1485,Research & Development,Research Director,0.0333,27.5,Low,0,num_companies_worked=7; job_satisfaction=1; distance_from_home=15
+569,Research & Development,Manager,0.0433,36.0,Low,0,years_since_last_promotion=15; distance_from_home=29; education=4
+1204,Sales,Manager,0.408,89.8,Medium,0,years_since_last_promotion=15; stock_option_level=0; job_satisfaction=1
+429,Research & Development,Manager,0.0497,39.5,Low,0,is_overtime=Yes; stock_option_level=0; years_since_last_promotion=11
+976,Research & Development,Manager,0.0098,2.1,Low,0,years_since_last_promotion=7; work_life_balance=2; years_in_current_role=8
+1307,Research & Development,Manager,0.0923,57.7,Low,0,years_since_last_promotion=15; is_overtime=Yes; num_companies_worked=6
+843,Research & Development,Research Director,0.0259,19.6,Low,0,job_satisfaction=1; num_companies_worked=6; years_with_curr_manager=0
+1443,Research & Development,Research Director,0.0138,6.2,Low,0,environment_satisfaction=1; work_life_balance=4; years_since_last_promotion=5
+1900,Research & Development,Manager,0.019,12.2,Low,0,business_travel=Travel_Frequently; distance_from_home=22; percent_salary_hike=11
+199,Research & Development,Manager,0.0307,24.8,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; years_since_last_promotion=7
+1422,Research & Development,Research Director,0.0274,21.2,Low,0,years_since_last_promotion=12; num_companies_worked=6; stock_option_level=0
+148,Human Resources,Manager,0.0326,26.2,Low,0,is_overtime=Yes; stock_option_level=0; distance_from_home=26
+997,Research & Development,Research Director,0.0102,2.6,Low,0,num_companies_worked=9; training_times_last_year=1; work_life_balance=2
+1665,Research & Development,Manager,0.0122,4.7,Low,0,distance_from_home=22; years_since_last_promotion=4; education=5
+992,Sales,Manager,0.0634,47.6,Low,0,stock_option_level=0; years_with_curr_manager=0; years_since_last_promotion=6
+1124,Sales,Manager,0.0282,22.2,Low,0,environment_satisfaction=1; education_field=Marketing; department=Sales
+1602,Sales,Manager,0.0228,16.3,Low,0,work_life_balance=1; job_satisfaction=1; stock_option_level=0
+386,Research & Development,Research Director,0.0142,6.9,Low,0,is_overtime=Yes; work_life_balance=2; job_satisfaction=3
+1666,Research & Development,Research Director,0.0251,18.6,Low,0,relationship_satisfaction=1; years_since_last_promotion=6; distance_from_home=15
+815,Research & Development,Research Director,0.0214,14.2,Low,0,num_companies_worked=5; stock_option_level=0; years_in_current_role=3
+1045,Sales,Manager,0.0103,2.9,Low,0,department=Sales; distance_from_home=11; years_in_current_role=3
+1109,Research & Development,Manager,0.0143,7.3,Low,0,years_since_last_promotion=13; job_satisfaction=1; years_at_company=22
+1250,Research & Development,Research Director,0.0121,4.5,Low,0,relationship_satisfaction=1; stock_option_level=0; training_times_last_year=2
+1215,Research & Development,Manager,0.0124,4.8,Low,0,business_travel=Travel_Frequently; job_satisfaction=1; years_at_company=2
+575,Research & Development,Research Director,0.0916,57.6,Low,0,environment_satisfaction=1; num_companies_worked=6; work_life_balance=1
+1334,Research & Development,Manager,0.0191,12.4,Low,0,is_overtime=Yes; stock_option_level=0; work_life_balance=2
+1938,Sales,Manager,0.0725,51.7,Low,0,is_overtime=Yes; distance_from_home=21; years_with_curr_manager=0
+905,Research & Development,Manager,0.04,33.8,Low,0,environment_satisfaction=1; job_satisfaction=1; years_since_last_promotion=14
+558,Sales,Manager,0.0129,5.2,Low,0,stock_option_level=0; department=Sales; training_times_last_year=2
+1306,Research & Development,Manager,0.0529,41.9,Low,0,business_travel=Travel_Frequently; stock_option_level=0; distance_from_home=25
+141,Research & Development,Research Director,0.1549,72.0,Medium,0,is_overtime=Yes; stock_option_level=0; business_travel=Travel_Frequently
+644,Human Resources,Manager,0.0539,42.2,Low,0,years_at_company=32; environment_satisfaction=1; business_travel=Travel_Frequently
+1267,Sales,Manager,0.0266,20.5,Low,0,num_companies_worked=7; percent_salary_hike=11; department=Sales
+1263,Research & Development,Research Director,0.0293,23.4,Low,0,num_companies_worked=6; stock_option_level=0; years_with_curr_manager=0
+447,Research & Development,Research Director,0.0096,1.9,Low,0,percent_salary_hike=11; education=5; years_in_current_role=2
+1029,Sales,Manager,0.0448,36.6,Low,0,num_companies_worked=6; stock_option_level=0; years_with_curr_manager=0
+809,Research & Development,Manager,0.0178,10.9,Low,0,years_since_last_promotion=14; business_travel=Travel_Frequently; work_life_balance=2
+1201,Research & Development,Manager,0.0119,4.4,Low,0,years_since_last_promotion=4
+396,Research & Development,Research Director,0.1264,66.7,Low,0,is_overtime=Yes; num_companies_worked=9; business_travel=Travel_Frequently
+1256,Research & Development,Manager,0.0495,39.3,Low,0,environment_satisfaction=1; years_with_curr_manager=0; years_at_company=1
+254,Research & Development,Research Director,0.0317,25.4,Low,0,num_companies_worked=8; stock_option_level=0; distance_from_home=14
+80,Research & Development,Research Director,0.118,65.0,Low,0,is_overtime=Yes; num_companies_worked=5; years_since_last_promotion=13
+1280,Sales,Manager,0.0134,5.7,Low,0,department=Sales; education_field=Marketing; job_involvement=2
+1277,Sales,Manager,0.2136,79.3,Medium,1,job_involvement=1; environment_satisfaction=1; is_overtime=Yes
+140,Human Resources,Manager,0.0174,10.4,Low,0,num_companies_worked=9; department=Human Resources; education_field=Human Resources
+2031,Research & Development,Manager,0.0479,38.5,Low,0,environment_satisfaction=1; num_companies_worked=5; stock_option_level=0
+38,Sales,Manager,0.0624,47.1,Low,0,stock_option_level=0; job_satisfaction=1; department=Sales
+253,Research & Development,Manager,0.0109,3.1,Low,0,years_since_last_promotion=9; training_times_last_year=2; years_in_current_role=8
+1770,Research & Development,Research Director,0.0551,43.0,Low,0,num_companies_worked=8; job_satisfaction=1; years_with_curr_manager=0
+374,Research & Development,Manager,0.0459,37.5,Low,0,is_overtime=Yes; years_at_company=36; stock_option_level=0
+1608,Research & Development,Research Director,0.0122,4.6,Low,0,is_overtime=Yes; work_life_balance=2; environment_satisfaction=2
+329,Sales,Manager,0.4802,91.8,High,0,years_since_last_promotion=15; is_overtime=Yes; environment_satisfaction=1
+1217,Research & Development,Research Director,0.0253,18.9,Low,0,num_companies_worked=5; relationship_satisfaction=1; distance_from_home=15
+32,Research & Development,Manager,0.0233,17.0,Low,0,percent_salary_hike=11; years_since_last_promotion=4; work_life_balance=2
+731,Human Resources,Manager,0.0307,24.8,Low,0,years_since_last_promotion=12; department=Human Resources; job_involvement=2
+385,Research & Development,Research Director,0.0321,25.6,Low,0,environment_satisfaction=1; relationship_satisfaction=1; job_satisfaction=2
+1941,Research & Development,Research Director,0.0118,4.1,Low,0,business_travel=Travel_Frequently; stock_option_level=0; years_since_last_promotion=4
+1336,Research & Development,Manager,0.034,28.4,Low,0,job_involvement=1; years_since_last_promotion=9; num_companies_worked=4
+734,Human Resources,Manager,0.006,0.3,Low,0,department=Human Resources; job_involvement=2; education_field=Human Resources
+1288,Research & Development,Manager,0.0079,0.9,Low,0,years_since_last_promotion=14; job_satisfaction=1; work_life_balance=2
+531,Research & Development,Manager,0.0227,16.2,Low,0,is_overtime=Yes; business_travel=Travel_Frequently; environment_satisfaction=2
+336,Research & Development,Manager,0.0081,1.0,Low,0,percent_salary_hike=11; years_in_current_role=0; training_times_last_year=2
+319,Research & Development,Manager,0.0285,22.8,Low,0,years_since_last_promotion=11; education_field=Technical Degree; stock_option_level=0
+1061,Research & Development,Research Director,0.0935,58.2,Low,0,is_overtime=Yes; years_since_last_promotion=7; percent_salary_hike=11
+825,Research & Development,Research Director,0.0806,54.9,Low,1,total_working_years=40; is_overtime=Yes; years_since_last_promotion=13
+444,Research & Development,Manager,0.0221,15.0,Low,0,years_since_last_promotion=13; relationship_satisfaction=1; business_travel=Travel_Frequently
+1789,Research & Development,Research Director,0.0184,11.6,Low,0,is_overtime=Yes; num_companies_worked=7; years_at_company=2
+1591,Sales,Manager,0.0536,42.2,Low,0,is_overtime=Yes; years_with_curr_manager=0; education_field=Marketing
+1866,Research & Development,Manager,0.0776,53.8,Low,0,num_companies_worked=7; environment_satisfaction=1; stock_option_level=0
+522,Research & Development,Research Director,0.0464,37.8,Low,0,environment_satisfaction=1; job_satisfaction=1; percent_salary_hike=11
+999,Research & Development,Research Director,0.0189,12.2,Low,0,environment_satisfaction=1; business_travel=Travel_Frequently; work_life_balance=4
+2022,Research & Development,Manager,0.0075,0.7,Low,0,stock_option_level=0; work_life_balance=2; distance_from_home=9
+352,Research & Development,Research Director,0.01,2.4,Low,0,environment_satisfaction=1; years_since_last_promotion=3; years_in_current_role=7
+638,Research & Development,Research Director,0.0146,7.9,Low,0,is_overtime=Yes; distance_from_home=18; years_at_company=31
+671,Research & Development,Manager,0.036,29.7,Low,0,is_overtime=Yes; relationship_satisfaction=1; work_life_balance=4
+323,Sales,Manager,0.0117,3.9,Low,0,percent_salary_hike=11; department=Sales; work_life_balance=2
+162,Research & Development,Research Director,0.0897,57.3,Low,0,years_since_last_promotion=15; num_companies_worked=7; environment_satisfaction=1
+58,Research & Development,Research Director,0.0563,43.9,Low,1,years_since_last_promotion=15; training_times_last_year=0; education_field=Technical Degree
+549,Research & Development,Manager,0.3752,88.6,Medium,0,work_life_balance=1; num_companies_worked=5; environment_satisfaction=1
+1578,Sales,Manager,0.1426,69.9,Low,0,years_at_company=36; distance_from_home=26; department=Sales
+1595,Research & Development,Manager,0.0249,18.5,Low,0,num_companies_worked=8; stock_option_level=0; job_involvement=2
+1128,Research & Development,Research Director,0.0374,31.0,Low,0,stock_option_level=0; relationship_satisfaction=1; distance_from_home=14
+1069,Research & Development,Research Director,0.0225,15.4,Low,0,training_times_last_year=0; num_companies_worked=9; years_at_company=2
+1973,Human Resources,Manager,0.0889,57.3,Low,0,is_overtime=Yes; training_times_last_year=0; distance_from_home=26
+1625,Human Resources,Manager,0.0323,26.0,Low,0,distance_from_home=26; years_with_curr_manager=0; percent_salary_hike=11
+1867,Research & Development,Research Director,0.0174,10.5,Low,0,stock_option_level=0; years_since_last_promotion=12; job_involvement=2
+1423,Research & Development,Research Director,0.0106,3.0,Low,0,is_overtime=Yes; job_satisfaction=1
+1338,Human Resources,Manager,0.0783,54.2,Low,0,years_since_last_promotion=7; num_companies_worked=6; stock_option_level=0
+1255,Research & Development,Research Director,0.0158,9.1,Low,0,job_involvement=1; years_in_current_role=7; training_times_last_year=2
+1740,Sales,Manager,0.03,24.1,Low,0,stock_option_level=0; years_since_last_promotion=12; department=Sales
+1038,Sales,Manager,0.2018,78.1,Medium,1,job_involvement=1; years_at_company=32; environment_satisfaction=1
+1282,Sales,Manager,0.1907,77.0,Medium,0,is_overtime=Yes; business_travel=Travel_Frequently; relationship_satisfaction=1
+787,Research & Development,Manager,0.0165,9.5,Low,1,monthly_income=19859; num_companies_worked=5; is_overtime=Yes
+226,Research & Development,Manager,0.0253,18.8,Low,0,monthly_income=19926; stock_option_level=0; distance_from_home=11
+1191,Research & Development,Manager,0.1796,75.9,Medium,0,monthly_income=19943; job_satisfaction=1; education_field=Technical Degree
+1035,Research & Development,Research Director,0.0661,48.8,Low,0,job_involvement=1; monthly_income=19973; percent_salary_hike=22
+259,Research & Development,Manager,0.4251,90.3,High,0,years_at_company=33; years_since_last_promotion=11; monthly_income=19999

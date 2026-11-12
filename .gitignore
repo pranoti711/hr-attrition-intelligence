@@ -1,0 +1,60 @@
+# ---------------------------------------------------------------
+# Secrets: never commit credentials (scripts read DATABASE_URL from the environment)
+# ---------------------------------------------------------------
+.env
+.env.*
+*.env
+secrets.*
+credentials.*
+*.pem
+*.key
+.venv/
+__pycache__/
+data/raw/
+.vscode/
+
+# ---------------------------------------------------------------
+# Raw downloads (reproducible: ingest_attrition.py and layer2_load_ibm.py fetch them)
+# Company fact-sheet PDFs stay with their publishers; the IBM CSV is re-downloaded.
+# ---------------------------------------------------------------
+data/raw/
+
+# Processed CSVs (data/processed/) and charts/tables (reports/) are small and
+# ARE committed so reviewers can see results without running the pipeline.
+
+# ---------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---------------------------------------------------------------
+# Power BI (the .pbix itself is kept; local caches are not)
+# ---------------------------------------------------------------
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbix.bak
+~$*
+
+# ---------------------------------------------------------------
+# Editors, OS and scratch files
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+.pydevice/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+tmp/
+scratch/
+patch*.py

@@ -1,0 +1,14 @@
+# Layer 1: ingestion
+requests
+pandas
+numpy
+pdfplumber
+PyMuPDF
+# Layers 2 and 3: analysis and modelling
+scikit-learn
+lifelines
+shap
+matplotlib
+# Database access
+sqlalchemy
+psycopg2-binary
