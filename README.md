@@ -90,8 +90,6 @@ The file is at [`dashboard/dashboard.pbix`](dashboard/dashboard.pbix).
 | 7 | **Cost and what-if** | Net benefit of each retention lever (treat all eligible vs treat only where it pays), employees targeted, exits avoided, sensitivity to the share of effect that is real |
 | 8 | **Action list** | Employee-level list with 12-month risk and expected cost, filterable by department, role and risk tier |
 
-<details>
-<summary><b>Dashboard screenshots</b></summary>
 
 ![home page ](docs/images/home.png)
 
@@ -104,7 +102,6 @@ The file is at [`dashboard/dashboard.pbix`](dashboard/dashboard.pbix).
 ![Cost and what-if](docs/images/dashboard_cost.png)
 ![Action list](docs/images/dashboard_action_list.png)
 
-</details>
 
 ## Interactive what-if simulator
 A single self-contained HTML file (no server needed) lets you change the assumptions and see every number update live:
